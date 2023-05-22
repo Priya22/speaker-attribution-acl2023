@@ -1,0 +1,13 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH -n 1
+#SBATCH --open-mode=append
+#SBATCH --partition=cpu
+#SBATCH --qos=nopreemption
+#SBATCH --cpus-per-task=16
+#SBATCH --mem=64G
+#SBATCH --job-name=gen_pdnc
+#SBATCH --output=/h/vkpriya/bookNLP/booknlp-en/training/data/speaker_attribution/logs/gen_pdnc_%j.log
+echo `date`: Job  gen_pdnc_%j is allocated resource >> /h/vkpriya/job_logs/%j.out
+bash /h/vkpriya/bookNLP/booknlp-en/training/data/speaker_attribution/gen_pdnc.sh
+echo `date`: Job  gen_pdnc_%j finished running >> /h/vkpriya/job_logs/%j.out

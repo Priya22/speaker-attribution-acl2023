@@ -1,0 +1,3644 @@
+exp_name,text,start_byte,end_byte,pdncID
+lady catherine de bourgh,Lady Catherine de Bourgh,103594,103618,10
+lady catherine de bourgh,Lady Catherine de Bourgh,109955,109979,10
+lady catherine de bourgh,Lady Catherine de Bourgh,116815,116839,10
+lady catherine de bourgh,Lady Catherine de Bourgh,142004,142028,10
+lady catherine de bourgh,Lady Catherine de Bourgh,142305,142329,10
+lady catherine de bourgh,Lady Catherine de Bourgh,142516,142540,10
+lady catherine de bourgh,Lady Catherine de Bourgh,149796,149820,10
+lady catherine de bourgh,Lady Catherine de Bourgh,167502,167526,10
+lady catherine de bourgh,Lady Catherine de Bourgh,169857,169881,10
+lady catherine de bourgh,Lady Catherine de Bourgh,185527,185551,10
+lady catherine de bourgh,Lady Catherine de Bourgh,266574,266598,10
+lady catherine de bourgh,Lady Catherine de Bourgh,276643,276667,10
+lady catherine de bourgh,lady Catherine de Bourgh,623282,623306,10
+lady catherine de bourgh,lady Catherine de Bourgh,643784,643808,10
+the heiress of rosings,the heiress of Rosings,111792,111814,37
+my dear miss elizabeth,My dear Miss Elizabeth,168574,168596,5
+my dear miss elizabeth,my dear Miss Elizabeth,183380,183402,5
+my dear miss elizabeth,my dear Miss Elizabeth,381290,381312,5
+sir lewis de bourgh,Sir Lewis de Bourgh,103629,103648,60
+sir lewis de bourgh,Sir Lewis De Bourgh,283090,283109,60
+sir lewis de bourgh,Sir Lewis de Bourgh,288765,288784,60
+colonel fitzwilliam,Colonel Fitzwilliam,299169,299188,2
+colonel fitzwilliam,Colonel Fitzwilliam,299793,299812,2
+colonel fitzwilliam,Colonel Fitzwilliam,300204,300223,2
+colonel fitzwilliam,Colonel Fitzwilliam,301146,301165,2
+colonel fitzwilliam,Colonel Fitzwilliam,301754,301773,2
+colonel fitzwilliam,Colonel Fitzwilliam,302275,302294,2
+colonel fitzwilliam,Colonel Fitzwilliam,304734,304753,2
+colonel fitzwilliam,Colonel Fitzwilliam,305938,305957,2
+colonel fitzwilliam,Colonel Fitzwilliam,306611,306630,2
+colonel fitzwilliam,Colonel Fitzwilliam,307305,307324,2
+colonel fitzwilliam,Colonel Fitzwilliam,307600,307619,2
+colonel fitzwilliam,Colonel Fitzwilliam,316115,316134,2
+colonel fitzwilliam,Colonel Fitzwilliam,316472,316491,2
+colonel fitzwilliam,Colonel Fitzwilliam,316957,316976,2
+colonel fitzwilliam,Colonel Fitzwilliam,318121,318140,2
+colonel fitzwilliam,Colonel Fitzwilliam,319572,319591,2
+colonel fitzwilliam,Colonel Fitzwilliam,320060,320079,2
+colonel fitzwilliam,Colonel Fitzwilliam,320937,320956,2
+colonel fitzwilliam,Colonel Fitzwilliam,322674,322693,2
+colonel fitzwilliam,Colonel Fitzwilliam,327229,327248,2
+colonel fitzwilliam,Colonel Fitzwilliam,330071,330090,2
+colonel fitzwilliam,Colonel Fitzwilliam,330358,330377,2
+colonel fitzwilliam,Colonel Fitzwilliam,358430,358449,2
+colonel fitzwilliam,Colonel Fitzwilliam,364257,364276,2
+colonel fitzwilliam,Colonel Fitzwilliam,364380,364399,2
+colonel fitzwilliam,Colonel Fitzwilliam,370574,370593,2
+colonel fitzwilliam,Colonel Fitzwilliam,370812,370831,2
+colonel fitzwilliam,Colonel Fitzwilliam,412049,412068,2
+colonel fitzwilliam,Colonel Fitzwilliam,500697,500716,2
+the late mr. darcy,the late Mr. Darcy,132991,133009,36
+the late mr. darcy,the late Mr. Darcy,134593,134611,36
+the late mr. darcy,the late Mr. Darcy,136364,136382,36
+the late mr. darcy,the late Mr. Darcy,138031,138049,36
+the late mr. darcy,the late Mr. Darcy,162854,162872,36
+the late mr. darcy,the late Mr. Darcy,251165,251183,36
+the late mr. darcy,the late Mr. Darcy,361510,361528,36
+my dear miss eliza,My dear Miss Eliza,39742,39760,5
+my dear miss eliza,my dear Miss Eliza,40833,40851,5
+my dear miss eliza,my dear Miss Eliza,159447,159465,5
+sir william lucas,Sir William Lucas,24452,24469,35
+sir william lucas,Sir William Lucas,35587,35604,35
+sir william lucas,Sir William Lucas,38393,38410,35
+sir william lucas,Sir William Lucas,158894,158911,35
+sir william lucas,Sir William Lucas,222891,222908,35
+sir william lucas,Sir William Lucas,267012,267029,35
+sir william lucas,Sir William Lucas,345580,345597,35
+sir william lucas,Sir William Lucas,585408,585425,35
+sir william lucas,Sir William Lucas,624677,624694,35
+sir william lucas,Sir William Lucas,682315,682332,35
+william goulding,William Goulding,558978,558994,21
+my dearest lizzy,My dearest Lizzy,48913,48929,5
+my dearest lizzy,My dearest Lizzy,146331,146347,5
+my dearest lizzy,My dearest Lizzy,259358,259374,5
+colonel forster,Colonel Forster,35734,35749,3
+colonel forster,Colonel Forster,36350,36365,3
+colonel forster,Colonel Forster,46131,46146,3
+colonel forster,Colonel Forster,46263,46278,3
+colonel forster,Colonel Forster,74334,74349,3
+colonel forster,Colonel Forster,100139,100154,3
+colonel forster,Colonel Forster,114965,114980,3
+colonel forster,Colonel Forster,389370,389385,3
+colonel forster,Colonel Forster,408694,408709,3
+colonel forster,Colonel Forster,479068,479083,3
+colonel forster,Colonel Forster,480074,480089,3
+colonel forster,Colonel Forster,481203,481218,3
+colonel forster,Colonel Forster,484059,484074,3
+colonel forster,Colonel Forster,484268,484283,3
+colonel forster,Colonel Forster,495749,495764,3
+colonel forster,Colonel Forster,510909,510924,3
+colonel forster,Colonel Forster,511048,511063,3
+colonel forster,Colonel Forster,511547,511562,3
+colonel forster,Colonel Forster,511861,511876,3
+colonel forster,Colonel Forster,512581,512596,3
+colonel forster,Colonel Forster,513245,513260,3
+colonel forster,Colonel Forster,514570,514585,3
+colonel forster,Colonel Forster,520833,520848,3
+colonel forster,Colonel Forster,521255,521270,3
+colonel forster,Colonel Forster,524977,524992,3
+colonel forster,Colonel Forster,525692,525707,3
+colonel forster,Colonel Forster,552904,552919,3
+charlotte lucas,Charlotte Lucas,70266,70281,1
+charlotte lucas,Charlotte Lucas,100481,100496,1
+charlotte lucas,Charlotte Lucas,154370,154385,1
+charlotte lucas,Charlotte Lucas,155076,155091,1
+charlotte lucas,Charlotte Lucas,197315,197330,1
+charlotte lucas,Charlotte Lucas,225520,225535,1
+charlotte lucas,Charlotte Lucas,231078,231093,1
+charlotte lucas,Charlotte Lucas,237807,237822,1
+georgiana darcy,Georgiana Darcy,207425,207440,15
+lady anne darcy,Lady Anne Darcy,142545,142560,54
+william collins,WILLIAM COLLINS,105257,105272,18
+george wickham,George Wickham,162637,162651,6
+george wickham,George Wickham,163115,163129,6
+george wickham,George Wickham,163304,163318,6
+george wickham,George Wickham,316378,316392,6
+george wickham,George Wickham,351626,351640,6
+george wickham,George Wickham,394893,394907,6
+george wickham,George Wickham,596688,596702,6
+mrs. jenkinson,Mrs. Jenkinson,185005,185019,49
+mrs. jenkinson,Mrs. Jenkinson,279154,279168,49
+mrs. jenkinson,Mrs. Jenkinson,283724,283738,49
+mrs. jenkinson,Mrs. Jenkinson,285470,285484,49
+mrs. jenkinson,Mrs. Jenkinson,286904,286918,49
+mrs. jenkinson,Mrs. Jenkinson,290571,290585,49
+mrs. jenkinson,Mrs. Jenkinson,292504,292518,49
+mrs. jenkinson,Mrs. Jenkinson,292656,292670,49
+mrs. jenkinson,Mrs. Jenkinson,304537,304551,49
+colonel millar,Colonel Millar,403603,403617,47
+captain carter,Captain Carter,45030,45044,65
+captain carter,Captain Carter,46283,46297,65
+captain carter,Captain Carter,50885,50899,65
+captain carter,Captain Carter,74188,74202,65
+lady catherine,Lady Catherine,104983,104997,10
+lady catherine,Lady Catherine,105533,105547,10
+lady catherine,Lady Catherine,105981,105995,10
+lady catherine,Lady Catherine,110406,110420,10
+lady catherine,Lady Catherine,110695,110709,10
+lady catherine,Lady Catherine,112032,112046,10
+lady catherine,Lady Catherine,112796,112810,10
+lady catherine,Lady Catherine,113098,113112,10
+lady catherine,Lady Catherine,125521,125535,10
+lady catherine,Lady Catherine,126891,126905,10
+lady catherine,Lady Catherine,127150,127164,10
+lady catherine,Lady Catherine,142683,142697,10
+lady catherine,Lady Catherine,143196,143210,10
+lady catherine,Lady Catherine,167378,167392,10
+lady catherine,Lady Catherine,167929,167943,10
+lady catherine,Lady Catherine,170607,170621,10
+lady catherine,Lady Catherine,188312,188326,10
+lady catherine,Lady Catherine,188446,188460,10
+lady catherine,Lady Catherine,218324,218338,10
+lady catherine,Lady Catherine,227588,227602,10
+lady catherine,Lady Catherine,256859,256873,10
+lady catherine,Lady Catherine,257244,257258,10
+lady catherine,Lady Catherine,276455,276469,10
+lady catherine,Lady Catherine,277291,277305,10
+lady catherine,Lady Catherine,279020,279034,10
+lady catherine,Lady Catherine,279122,279136,10
+lady catherine,Lady Catherine,280663,280677,10
+lady catherine,Lady Catherine,281852,281866,10
+lady catherine,Lady Catherine,282082,282096,10
+lady catherine,Lady Catherine,282324,282338,10
+lady catherine,Lady Catherine,283311,283325,10
+lady catherine,Lady Catherine,283690,283704,10
+lady catherine,Lady Catherine,284472,284486,10
+lady catherine,Lady Catherine,284960,284974,10
+lady catherine,Lady Catherine,285808,285822,10
+lady catherine,Lady Catherine,286436,286450,10
+lady catherine,Lady Catherine,286467,286481,10
+lady catherine,Lady Catherine,286833,286847,10
+lady catherine,Lady Catherine,287234,287248,10
+lady catherine,Lady Catherine,288510,288524,10
+lady catherine,Lady Catherine,290908,290922,10
+lady catherine,Lady Catherine,291941,291955,10
+lady catherine,Lady Catherine,292337,292351,10
+lady catherine,Lady Catherine,292823,292837,10
+lady catherine,Lady Catherine,293190,293204,10
+lady catherine,Lady Catherine,293417,293431,10
+lady catherine,Lady Catherine,297621,297635,10
+lady catherine,Lady Catherine,297817,297831,10
+lady catherine,Lady Catherine,298485,298499,10
+lady catherine,Lady Catherine,299100,299114,10
+lady catherine,Lady Catherine,301722,301736,10
+lady catherine,Lady Catherine,301964,301978,10
+lady catherine,Lady Catherine,302744,302758,10
+lady catherine,Lady Catherine,303826,303840,10
+lady catherine,Lady Catherine,304879,304893,10
+lady catherine,Lady Catherine,308774,308788,10
+lady catherine,Lady Catherine,308883,308897,10
+lady catherine,Lady Catherine,309592,309606,10
+lady catherine,Lady Catherine,310204,310218,10
+lady catherine,Lady Catherine,312409,312423,10
+lady catherine,Lady Catherine,315664,315678,10
+lady catherine,Lady Catherine,328723,328737,10
+lady catherine,Lady Catherine,340692,340706,10
+lady catherine,Lady Catherine,371294,371308,10
+lady catherine,Lady Catherine,371546,371560,10
+lady catherine,Lady Catherine,371979,371993,10
+lady catherine,Lady Catherine,372519,372533,10
+lady catherine,Lady Catherine,373924,373938,10
+lady catherine,Lady Catherine,375076,375090,10
+lady catherine,Lady Catherine,378500,378514,10
+lady catherine,Lady Catherine,380327,380341,10
+lady catherine,Lady Catherine,381046,381060,10
+lady catherine,lady Catherine,524118,524132,10
+lady catherine,lady Catherine,624276,624290,10
+lady catherine,Lady Catherine,624536,624550,10
+lady catherine,Lady Catherine,625307,625321,10
+lady catherine,Lady Catherine,625879,625893,10
+lady catherine,Lady Catherine,626446,626460,10
+lady catherine,Lady Catherine,629520,629534,10
+lady catherine,Lady Catherine,633068,633082,10
+lady catherine,Lady Catherine,633181,633195,10
+lady catherine,Lady Catherine,633936,633950,10
+lady catherine,Lady Catherine,635144,635158,10
+lady catherine,Lady Catherine,635414,635428,10
+lady catherine,Lady Catherine,636667,636681,10
+lady catherine,Lady Catherine,637188,637202,10
+lady catherine,Lady Catherine,637961,637975,10
+lady catherine,lady Catherine,638730,638744,10
+lady catherine,lady Catherine,638887,638901,10
+lady catherine,Lady Catherine,640134,640148,10
+lady catherine,lady Catherine,641352,641366,10
+lady catherine,Lady Catherine,646636,646650,10
+lady catherine,Lady Catherine,647472,647486,10
+lady catherine,Lady Catherine,652022,652036,10
+lady catherine,Lady Catherine,677696,677710,10
+lady catherine,Lady Catherine,678042,678056,10
+lady catherine,Lady Catherine,678636,678650,10
+lady catherine,Lady Catherine,680496,680510,10
+lady catherine,Lady Catherine,680768,680782,10
+lady catherine,Lady Catherine,681787,681801,10
+lady catherine,Lady Catherine,689586,689600,10
+miss de bourgh,Miss De Bourgh,112090,112104,37
+miss de bourgh,Miss de Bourgh,142792,142806,37
+miss de bourgh,Miss de Bourgh,167344,167358,37
+miss de bourgh,Miss de Bourgh,185034,185048,37
+miss de bourgh,Miss de Bourgh,209727,209741,37
+miss de bourgh,Miss De Bourgh,279204,279218,37
+miss de bourgh,Miss De Bourgh,279506,279520,37
+miss de bourgh,Miss De Bourgh,279958,279972,37
+miss de bourgh,Miss De Bourgh,285329,285343,37
+miss de bourgh,Miss De Bourgh,286770,286784,37
+miss de bourgh,Miss De Bourgh,286963,286977,37
+miss de bourgh,Miss De Bourgh,292421,292435,37
+miss de bourgh,Miss De Bourgh,292694,292708,37
+miss de bourgh,Miss De Bourgh,295425,295439,37
+miss de bourgh,Miss De Bourgh,309451,309465,37
+miss de bourgh,Miss De Bourgh,378628,378642,37
+miss de bourgh,Miss De Bourgh,414514,414528,37
+miss de bourgh,Miss de Bourgh,581966,581980,37
+miss de bourgh,Miss De Bourgh,630095,630109,37
+miss de bourgh,Miss De Bourgh,630469,630483,37
+miss elizabeth,Miss Elizabeth,41898,41912,5
+miss elizabeth,Miss Elizabeth,41924,41938,5
+miss elizabeth,Miss Elizabeth,56163,56177,5
+miss elizabeth,Miss Elizabeth,60911,60925,5
+miss elizabeth,Miss Elizabeth,150212,150226,5
+miss elizabeth,Miss Elizabeth,195199,195213,5
+miss elizabeth,Miss Elizabeth,276592,276606,5
+miss elizabeth,Miss Elizabeth,378951,378965,5
+miss elizabeth,Miss Elizabeth,627308,627322,5
+lady metcalfe,Lady Metcalfe,290828,290841,57
+uncle philips,uncle Philips,114904,114917,61
+uncle philips,uncle Philips,128276,128289,61
+a young lucas,a young Lucas,29196,29209,73
+miss grantley,Miss Grantley,76533,76546,67
+mrs. gardiner,Mrs. Gardiner,244239,244252,27
+mrs. gardiner,Mrs. Gardiner,244575,244588,27
+mrs. gardiner,Mrs. Gardiner,245840,245853,27
+mrs. gardiner,Mrs. Gardiner,248042,248055,27
+mrs. gardiner,Mrs. Gardiner,250197,250210,27
+mrs. gardiner,Mrs. Gardiner,250612,250625,27
+mrs. gardiner,Mrs. Gardiner,251121,251134,27
+mrs. gardiner,Mrs. Gardiner,251836,251849,27
+mrs. gardiner,Mrs. Gardiner,262690,262703,27
+mrs. gardiner,Mrs. Gardiner,263797,263810,27
+mrs. gardiner,Mrs. Gardiner,268518,268531,27
+mrs. gardiner,Mrs. Gardiner,268769,268782,27
+mrs. gardiner,Mrs. Gardiner,271186,271199,27
+mrs. gardiner,Mrs. Gardiner,382678,382691,27
+mrs. gardiner,Mrs. Gardiner,421300,421313,27
+mrs. gardiner,Mrs. Gardiner,421942,421955,27
+mrs. gardiner,Mrs. Gardiner,422903,422916,27
+mrs. gardiner,Mrs. Gardiner,424046,424059,27
+mrs. gardiner,Mrs. Gardiner,424449,424462,27
+mrs. gardiner,Mrs. Gardiner,425083,425096,27
+mrs. gardiner,Mrs. Gardiner,430863,430876,27
+mrs. gardiner,Mrs. Gardiner,431176,431189,27
+mrs. gardiner,Mrs. Gardiner,432951,432964,27
+mrs. gardiner,Mrs. Gardiner,434142,434155,27
+mrs. gardiner,Mrs. Gardiner,443724,443737,27
+mrs. gardiner,Mrs. Gardiner,445373,445386,27
+mrs. gardiner,Mrs. Gardiner,446990,447003,27
+mrs. gardiner,Mrs. Gardiner,447779,447792,27
+mrs. gardiner,Mrs. Gardiner,449945,449958,27
+mrs. gardiner,Mrs. Gardiner,450504,450517,27
+mrs. gardiner,Mrs. Gardiner,452223,452236,27
+mrs. gardiner,Mrs. Gardiner,453447,453460,27
+mrs. gardiner,Mrs. Gardiner,457642,457655,27
+mrs. gardiner,Mrs. Gardiner,461690,461703,27
+mrs. gardiner,Mrs. Gardiner,461889,461902,27
+mrs. gardiner,Mrs. Gardiner,463092,463105,27
+mrs. gardiner,Mrs. Gardiner,468706,468719,27
+mrs. gardiner,Mrs. Gardiner,469163,469176,27
+mrs. gardiner,Mrs. Gardiner,477255,477268,27
+mrs. gardiner,Mrs. Gardiner,477663,477676,27
+mrs. gardiner,Mrs. Gardiner,477697,477710,27
+mrs. gardiner,Mrs. Gardiner,485304,485317,27
+mrs. gardiner,Mrs. Gardiner,493159,493172,27
+mrs. gardiner,Mrs. Gardiner,493534,493547,27
+mrs. gardiner,Mrs. Gardiner,494014,494027,27
+mrs. gardiner,Mrs. Gardiner,495906,495919,27
+mrs. gardiner,Mrs. Gardiner,499749,499762,27
+mrs. gardiner,Mrs. Gardiner,504561,504574,27
+mrs. gardiner,Mrs. Gardiner,518528,518541,27
+mrs. gardiner,Mrs. Gardiner,526816,526829,27
+mrs. gardiner,Mrs. Gardiner,527077,527090,27
+mrs. gardiner,Mrs. Gardiner,527328,527341,27
+mrs. gardiner,Mrs. Gardiner,553577,553590,27
+mrs. gardiner,Mrs. Gardiner,592594,592607,27
+mrs. gardiner,Mrs. Gardiner,595153,595166,27
+mrs. gardiner,Mrs. Gardiner,649100,649113,27
+mrs. gardiner,Mrs. Gardiner,679151,679164,27
+mrs. annesley,Mrs. Annesley,468974,468987,24
+mrs. annesley,Mrs. Annesley,470531,470544,24
+mrs. annesley,Mrs. Annesley,605892,605905,24
+mrs. nicholls,Mrs. Nicholls,587021,587034,32
+mrs. reynolds,Mrs. Reynolds,430177,430190,44
+mrs. reynolds,Mrs. Reynolds,430964,430977,44
+mrs. reynolds,Mrs. Reynolds,431296,431309,44
+mrs. reynolds,Mrs. Reynolds,431885,431898,44
+mrs. reynolds,Mrs. Reynolds,432412,432425,44
+mrs. reynolds,Mrs. Reynolds,434324,434337,44
+mrs. reynolds,Mrs. Reynolds,435811,435824,44
+mrs. reynolds,Mrs. Reynolds,436946,436959,44
+mrs. reynolds,Mrs. Reynolds,437225,437238,44
+mrs. collins,Mrs. Collins,273091,273103,1
+mrs. collins,Mrs. Collins,283824,283836,1
+mrs. collins,Mrs. Collins,287905,287917,1
+mrs. collins,Mrs. Collins,288075,288087,1
+mrs. collins,Mrs. Collins,290796,290808,1
+mrs. collins,Mrs. Collins,292378,292390,1
+mrs. collins,Mrs. Collins,293310,293322,1
+mrs. collins,Mrs. Collins,296417,296429,1
+mrs. collins,Mrs. Collins,300032,300044,1
+mrs. collins,Mrs. Collins,300422,300434,1
+mrs. collins,Mrs. Collins,302381,302393,1
+mrs. collins,Mrs. Collins,304397,304409,1
+mrs. collins,Mrs. Collins,309999,310011,1
+mrs. collins,Mrs. Collins,313502,313514,1
+mrs. collins,Mrs. Collins,314160,314172,1
+mrs. collins,Mrs. Collins,316914,316926,1
+mrs. collins,Mrs. Collins,317776,317788,1
+mrs. collins,Mrs. Collins,319330,319342,1
+mrs. collins,Mrs. Collins,328530,328542,1
+mrs. collins,Mrs. Collins,372812,372824,1
+mrs. collins,Mrs. Collins,373134,373146,1
+mrs. collins,Mrs. Collins,373958,373970,1
+mrs. collins,Mrs. Collins,374674,374686,1
+mrs. collins,Mrs. Collins,378986,378998,1
+mrs. collins,Mrs. Collins,381083,381095,1
+mrs. collins,Mrs. Collins,523007,523019,1
+mrs. collins,Mrs. Collins,524088,524100,1
+mrs. collins,Mrs. Collins,624958,624970,1
+mrs. collins,Mrs. Collins,642753,642765,1
+mrs. wickham,Mrs. Wickham,541187,541199,11
+mrs. wickham,Mrs. Wickham,559904,559916,11
+mrs. wickham,Mrs. Wickham,685274,685286,11
+mrs. forster,Mrs. Forster,389435,389447,26
+mrs. forster,Mrs. Forster,389509,389521,26
+mrs. forster,Mrs. Forster,389831,389843,26
+mrs. forster,Mrs. Forster,390115,390127,26
+mrs. forster,Mrs. Forster,404415,404427,26
+mrs. forster,Mrs. Forster,404796,404808,26
+mrs. forster,Mrs. Forster,405232,405244,26
+mrs. forster,Mrs. Forster,406006,406018,26
+mrs. forster,Mrs. Forster,415087,415099,26
+mrs. forster,Mrs. Forster,420176,420188,26
+mrs. forster,Mrs. Forster,501164,501176,26
+mrs. forster,Mrs. Forster,554344,554356,26
+miss bingley,Miss Bingley,12811,12823,14
+miss bingley,Miss Bingley,15643,15655,14
+miss bingley,Miss Bingley,20309,20321,14
+miss bingley,Miss Bingley,22081,22093,14
+miss bingley,Miss Bingley,27419,27431,14
+miss bingley,Miss Bingley,29807,29819,14
+miss bingley,Miss Bingley,41102,41114,14
+miss bingley,Miss Bingley,41715,41727,14
+miss bingley,Miss Bingley,41957,41969,14
+miss bingley,Miss Bingley,46826,46838,14
+miss bingley,Miss Bingley,51587,51599,14
+miss bingley,Miss Bingley,52562,52574,14
+miss bingley,Miss Bingley,53482,53494,14
+miss bingley,Miss Bingley,53632,53644,14
+miss bingley,Miss Bingley,54942,54954,14
+miss bingley,Miss Bingley,55270,55282,14
+miss bingley,Miss Bingley,56346,56358,14
+miss bingley,Miss Bingley,56854,56866,14
+miss bingley,Miss Bingley,58748,58760,14
+miss bingley,Miss Bingley,59557,59569,14
+miss bingley,Miss Bingley,60829,60841,14
+miss bingley,Miss Bingley,62044,62056,14
+miss bingley,Miss Bingley,63162,63174,14
+miss bingley,Miss Bingley,63530,63542,14
+miss bingley,Miss Bingley,64014,64026,14
+miss bingley,Miss Bingley,66093,66105,14
+miss bingley,Miss Bingley,66635,66647,14
+miss bingley,Miss Bingley,74679,74691,14
+miss bingley,Miss Bingley,74801,74813,14
+miss bingley,Miss Bingley,75043,75055,14
+miss bingley,Miss Bingley,77235,77247,14
+miss bingley,Miss Bingley,82135,82147,14
+miss bingley,Miss Bingley,82766,82778,14
+miss bingley,Miss Bingley,82827,82839,14
+miss bingley,Miss Bingley,83739,83751,14
+miss bingley,Miss Bingley,84881,84893,14
+miss bingley,Miss Bingley,86358,86370,14
+miss bingley,Miss Bingley,87854,87866,14
+miss bingley,Miss Bingley,89032,89044,14
+miss bingley,Miss Bingley,89206,89218,14
+miss bingley,Miss Bingley,91066,91078,14
+miss bingley,Miss Bingley,91591,91603,14
+miss bingley,Miss Bingley,92333,92345,14
+miss bingley,Miss Bingley,92957,92969,14
+miss bingley,Miss Bingley,93786,93798,14
+miss bingley,Miss Bingley,94736,94748,14
+miss bingley,Miss Bingley,95900,95912,14
+miss bingley,Miss Bingley,97556,97568,14
+miss bingley,Miss Bingley,98082,98094,14
+miss bingley,Miss Bingley,98796,98808,14
+miss bingley,Miss Bingley,142975,142987,14
+miss bingley,Miss Bingley,162493,162505,14
+miss bingley,Miss Bingley,164042,164054,14
+miss bingley,Miss Bingley,180230,180242,14
+miss bingley,Miss Bingley,205773,205785,14
+miss bingley,Miss Bingley,207048,207060,14
+miss bingley,Miss Bingley,208896,208908,14
+miss bingley,Miss Bingley,209233,209245,14
+miss bingley,Miss Bingley,209827,209839,14
+miss bingley,Miss Bingley,210147,210159,14
+miss bingley,Miss Bingley,232344,232356,14
+miss bingley,Miss Bingley,258151,258163,14
+miss bingley,Miss Bingley,258979,258991,14
+miss bingley,Miss Bingley,259524,259536,14
+miss bingley,Miss Bingley,261780,261792,14
+miss bingley,Miss Bingley,268565,268577,14
+miss bingley,Miss Bingley,298379,298391,14
+miss bingley,Miss Bingley,309495,309507,14
+miss bingley,Miss Bingley,323529,323541,14
+miss bingley,Miss Bingley,326765,326777,14
+miss bingley,Miss Bingley,350374,350386,14
+miss bingley,Miss Bingley,467712,467724,14
+miss bingley,Miss Bingley,468393,468405,14
+miss bingley,Miss Bingley,468796,468808,14
+miss bingley,Miss Bingley,469469,469481,14
+miss bingley,Miss Bingley,470103,470115,14
+miss bingley,Miss Bingley,471773,471785,14
+miss bingley,Miss Bingley,472220,472232,14
+miss bingley,Miss Bingley,473005,473017,14
+miss bingley,Miss Bingley,474111,474123,14
+miss bingley,Miss Bingley,474648,474660,14
+miss bingley,Miss Bingley,475040,475052,14
+miss bingley,Miss Bingley,476215,476227,14
+miss bingley,Miss Bingley,477141,477153,14
+miss bingley,Miss Bingley,620766,620778,14
+miss bingley,Miss Bingley,680915,680927,14
+miss bingley,Miss Bingley,688519,688531,14
+mrs. philips,Mrs. Philips,44093,44105,33
+mrs. philips,Mrs. Philips,122925,122937,33
+mrs. philips,Mrs. Philips,123009,123021,33
+mrs. philips,Mrs. Philips,123862,123874,33
+mrs. philips,Mrs. Philips,124791,124803,33
+mrs. philips,Mrs. Philips,125457,125469,33
+mrs. philips,Mrs. Philips,126756,126768,33
+mrs. philips,Mrs. Philips,127357,127369,33
+mrs. philips,Mrs. Philips,129008,129020,33
+mrs. philips,Mrs. Philips,129335,129347,33
+mrs. philips,Mrs. Philips,141358,141370,33
+mrs. philips,Mrs. Philips,141498,141510,33
+mrs. philips,Mrs. Philips,144218,144230,33
+mrs. philips,Mrs. Philips,144779,144791,33
+mrs. philips,Mrs. Philips,244305,244317,33
+mrs. philips,Mrs. Philips,559817,559829,33
+mrs. philips,Mrs. Philips,586544,586556,33
+mrs. philips,Mrs. Philips,622058,622070,33
+mrs. philips,Mrs. Philips,682590,682602,33
+mrs. philips,Mrs. Philips,682685,682697,33
+mr. robinson,Mr. Robinson,26117,26129,72
+mr. robinson,Mr. Robinson,26184,26196,72
+mr. robinson,Mr. Robinson,26227,26239,72
+chamberlayne,Chamberlayne,389709,389721,46
+aunt philips,aunt Philips,85780,85792,38
+aunt philips,aunt Philips,389033,389045,38
+aunt philips,aunt Philips,403920,403932,38
+aunt philips,aunt Philips,516063,516075,38
+mr. gardiner,Mr. Gardiner,243950,243962,20
+mr. gardiner,Mr. Gardiner,267570,267582,20
+mr. gardiner,Mr. Gardiner,383711,383723,20
+mr. gardiner,Mr. Gardiner,421380,421392,20
+mr. gardiner,Mr. Gardiner,424512,424524,20
+mr. gardiner,Mr. Gardiner,432046,432058,20
+mr. gardiner,Mr. Gardiner,432297,432309,20
+mr. gardiner,Mr. Gardiner,434487,434499,20
+mr. gardiner,Mr. Gardiner,442944,442956,20
+mr. gardiner,Mr. Gardiner,444039,444051,20
+mr. gardiner,Mr. Gardiner,446306,446318,20
+mr. gardiner,Mr. Gardiner,467470,467482,20
+mr. gardiner,Mr. Gardiner,471138,471150,20
+mr. gardiner,Mr. Gardiner,485023,485035,20
+mr. gardiner,Mr. Gardiner,493685,493697,20
+mr. gardiner,Mr. Gardiner,494856,494868,20
+mr. gardiner,Mr. Gardiner,496431,496443,20
+mr. gardiner,Mr. Gardiner,506511,506523,20
+mr. gardiner,Mr. Gardiner,508146,508158,20
+mr. gardiner,Mr. Gardiner,518128,518140,20
+mr. gardiner,Mr. Gardiner,519962,519974,20
+mr. gardiner,Mr. Gardiner,520507,520519,20
+mr. gardiner,Mr. Gardiner,522392,522404,20
+mr. gardiner,Mr. Gardiner,524907,524919,20
+mr. gardiner,Mr. Gardiner,525889,525901,20
+mr. gardiner,Mr. Gardiner,526083,526095,20
+mr. gardiner,Mr. Gardiner,531140,531152,20
+mr. gardiner,Mr. Gardiner,537745,537757,20
+mr. gardiner,Mr. Gardiner,539481,539493,20
+mr. gardiner,Mr. Gardiner,540627,540639,20
+mr. gardiner,Mr. Gardiner,551773,551785,20
+mr. gardiner,Mr. Gardiner,553896,553908,20
+mr. gardiner,Mr. Gardiner,568357,568369,20
+mr. gardiner,Mr. Gardiner,572659,572671,20
+my dear jane,my dear Jane,146060,146072,7
+my dear jane,My dear Jane,235715,235727,7
+my dear jane,My dear Jane,237552,237564,7
+my dear jane,My dear Jane,541257,541269,7
+my dear jane,my dear Jane,607489,607501,7
+my dear jane,My dear Jane,610235,610247,7
+mr. philips,Mr. Philips,43075,43086,61
+mr. philips,Mr. Philips,44346,44357,61
+mr. philips,Mr. Philips,122787,122798,61
+mr. philips,Mr. Philips,137942,137953,61
+mr. philips,Mr. Philips,364977,364988,61
+mrs. bennet,Mrs. Bennet,5450,5461,25
+mrs. bennet,Mrs. Bennet,6679,6690,25
+mrs. bennet,Mrs. Bennet,7541,7552,25
+mrs. bennet,Mrs. Bennet,8847,8858,25
+mrs. bennet,Mrs. Bennet,9724,9735,25
+mrs. bennet,Mrs. Bennet,10302,10313,25
+mrs. bennet,Mrs. Bennet,10551,10562,25
+mrs. bennet,Mrs. Bennet,13162,13173,25
+mrs. bennet,Mrs. Bennet,15324,15335,25
+mrs. bennet,Mrs. Bennet,17487,17498,25
+mrs. bennet,Mrs. Bennet,25360,25371,25
+mrs. bennet,Mrs. Bennet,25757,25768,25
+mrs. bennet,Mrs. Bennet,29409,29420,25
+mrs. bennet,Mrs. Bennet,45177,45188,25
+mrs. bennet,Mrs. Bennet,46429,46440,25
+mrs. bennet,Mrs. Bennet,46588,46599,25
+mrs. bennet,Mrs. Bennet,47399,47410,25
+mrs. bennet,Mrs. Bennet,48632,48643,25
+mrs. bennet,Mrs. Bennet,65499,65510,25
+mrs. bennet,Mrs. Bennet,65648,65659,25
+mrs. bennet,Mrs. Bennet,66244,66255,25
+mrs. bennet,Mrs. Bennet,66755,66766,25
+mrs. bennet,Mrs. Bennet,68676,68687,25
+mrs. bennet,Mrs. Bennet,68930,68941,25
+mrs. bennet,Mrs. Bennet,72481,72492,25
+mrs. bennet,Mrs. Bennet,72807,72818,25
+mrs. bennet,Mrs. Bennet,74393,74404,25
+mrs. bennet,Mrs. Bennet,78202,78213,25
+mrs. bennet,Mrs. Bennet,96421,96432,25
+mrs. bennet,Mrs. Bennet,96739,96750,25
+mrs. bennet,Mrs. Bennet,99235,99246,25
+mrs. bennet,Mrs. Bennet,100681,100692,25
+mrs. bennet,Mrs. Bennet,102076,102087,25
+mrs. bennet,Mrs. Bennet,103386,103397,25
+mrs. bennet,Mrs. Bennet,107625,107636,25
+mrs. bennet,Mrs. Bennet,107946,107957,25
+mrs. bennet,Mrs. Bennet,109062,109073,25
+mrs. bennet,Mrs. Bennet,109337,109348,25
+mrs. bennet,Mrs. Bennet,111426,111437,25
+mrs. bennet,Mrs. Bennet,111862,111873,25
+mrs. bennet,Mrs. Bennet,115757,115768,25
+mrs. bennet,Mrs. Bennet,117977,117988,25
+mrs. bennet,Mrs. Bennet,118641,118652,25
+mrs. bennet,Mrs. Bennet,118755,118766,25
+mrs. bennet,Mrs. Bennet,125433,125444,25
+mrs. bennet,Mrs. Bennet,126066,126077,25
+mrs. bennet,Mrs. Bennet,147859,147870,25
+mrs. bennet,Mrs. Bennet,148106,148117,25
+mrs. bennet,Mrs. Bennet,148225,148236,25
+mrs. bennet,Mrs. Bennet,171751,171762,25
+mrs. bennet,Mrs. Bennet,172609,172620,25
+mrs. bennet,Mrs. Bennet,174037,174048,25
+mrs. bennet,Mrs. Bennet,179287,179298,25
+mrs. bennet,Mrs. Bennet,179649,179660,25
+mrs. bennet,Mrs. Bennet,180427,180438,25
+mrs. bennet,Mrs. Bennet,180916,180927,25
+mrs. bennet,Mrs. Bennet,181968,181979,25
+mrs. bennet,Mrs. Bennet,182326,182337,25
+mrs. bennet,Mrs. Bennet,183283,183294,25
+mrs. bennet,Mrs. Bennet,192292,192303,25
+mrs. bennet,Mrs. Bennet,193013,193024,25
+mrs. bennet,Mrs. Bennet,193965,193976,25
+mrs. bennet,Mrs. Bennet,195168,195179,25
+mrs. bennet,Mrs. Bennet,195627,195638,25
+mrs. bennet,Mrs. Bennet,195987,195998,25
+mrs. bennet,Mrs. Bennet,196537,196548,25
+mrs. bennet,Mrs. Bennet,197777,197788,25
+mrs. bennet,Mrs. Bennet,198249,198260,25
+mrs. bennet,Mrs. Bennet,199996,200007,25
+mrs. bennet,Mrs. Bennet,202101,202112,25
+mrs. bennet,Mrs. Bennet,212065,212076,25
+mrs. bennet,Mrs. Bennet,217804,217815,25
+mrs. bennet,Mrs. Bennet,219489,219500,25
+mrs. bennet,Mrs. Bennet,223182,223193,25
+mrs. bennet,Mrs. Bennet,224328,224339,25
+mrs. bennet,Mrs. Bennet,226103,226114,25
+mrs. bennet,Mrs. Bennet,226249,226260,25
+mrs. bennet,Mrs. Bennet,227917,227928,25
+mrs. bennet,Mrs. Bennet,228307,228318,25
+mrs. bennet,Mrs. Bennet,228670,228681,25
+mrs. bennet,Mrs. Bennet,230334,230345,25
+mrs. bennet,Mrs. Bennet,231393,231404,25
+mrs. bennet,Mrs. Bennet,234730,234741,25
+mrs. bennet,Mrs. Bennet,240866,240877,25
+mrs. bennet,Mrs. Bennet,241418,241429,25
+mrs. bennet,Mrs. Bennet,243827,243838,25
+mrs. bennet,Mrs. Bennet,244289,244300,25
+mrs. bennet,Mrs. Bennet,244767,244778,25
+mrs. bennet,Mrs. Bennet,249905,249916,25
+mrs. bennet,Mrs. Bennet,255085,255096,25
+mrs. bennet,Mrs. Bennet,373216,373227,25
+mrs. bennet,Mrs. Bennet,390576,390587,25
+mrs. bennet,Mrs. Bennet,391015,391026,25
+mrs. bennet,Mrs. Bennet,400687,400698,25
+mrs. bennet,Mrs. Bennet,403773,403784,25
+mrs. bennet,Mrs. Bennet,404825,404836,25
+mrs. bennet,Mrs. Bennet,415323,415334,25
+mrs. bennet,Mrs. Bennet,420702,420713,25
+mrs. bennet,Mrs. Bennet,505259,505270,25
+mrs. bennet,Mrs. Bennet,507284,507295,25
+mrs. bennet,Mrs. Bennet,518715,518726,25
+mrs. bennet,Mrs. Bennet,523819,523830,25
+mrs. bennet,Mrs. Bennet,526468,526479,25
+mrs. bennet,Mrs. Bennet,539284,539295,25
+mrs. bennet,Mrs. Bennet,539414,539425,25
+mrs. bennet,Mrs. Bennet,544131,544142,25
+mrs. bennet,Mrs. Bennet,544293,544304,25
+mrs. bennet,Mrs. Bennet,544477,544488,25
+mrs. bennet,Mrs. Bennet,546744,546755,25
+mrs. bennet,Mrs. Bennet,547796,547807,25
+mrs. bennet,Mrs. Bennet,548168,548179,25
+mrs. bennet,Mrs. Bennet,548385,548396,25
+mrs. bennet,Mrs. Bennet,553923,553934,25
+mrs. bennet,Mrs. Bennet,556198,556209,25
+mrs. bennet,Mrs. Bennet,561322,561333,25
+mrs. bennet,Mrs. Bennet,581028,581039,25
+mrs. bennet,Mrs. Bennet,584593,584604,25
+mrs. bennet,Mrs. Bennet,585506,585517,25
+mrs. bennet,Mrs. Bennet,586382,586393,25
+mrs. bennet,Mrs. Bennet,589062,589073,25
+mrs. bennet,Mrs. Bennet,590823,590834,25
+mrs. bennet,Mrs. Bennet,594703,594714,25
+mrs. bennet,Mrs. Bennet,596151,596162,25
+mrs. bennet,Mrs. Bennet,599529,599540,25
+mrs. bennet,Mrs. Bennet,600101,600112,25
+mrs. bennet,Mrs. Bennet,601875,601886,25
+mrs. bennet,Mrs. Bennet,606790,606801,25
+mrs. bennet,Mrs. Bennet,607648,607659,25
+mrs. bennet,Mrs. Bennet,607877,607888,25
+mrs. bennet,Mrs. Bennet,609591,609602,25
+mrs. bennet,Mrs. Bennet,610130,610141,25
+mrs. bennet,Mrs. Bennet,611036,611047,25
+mrs. bennet,Mrs. Bennet,611741,611752,25
+mrs. bennet,Mrs. Bennet,612190,612201,25
+mrs. bennet,Mrs. Bennet,612727,612738,25
+mrs. bennet,Mrs. Bennet,613615,613626,25
+mrs. bennet,Mrs. Bennet,617213,617224,25
+mrs. bennet,Mrs. Bennet,622014,622025,25
+mrs. bennet,Mrs. Bennet,623432,623443,25
+mrs. bennet,Mrs. Bennet,623847,623858,25
+mrs. bennet,Mrs. Bennet,624239,624250,25
+mrs. bennet,Mrs. Bennet,624804,624815,25
+mrs. bennet,Mrs. Bennet,625223,625234,25
+mrs. bennet,Mrs. Bennet,640848,640859,25
+mrs. bennet,Mrs. Bennet,647537,647548,25
+mrs. bennet,Mrs. Bennet,647740,647751,25
+mrs. bennet,Mrs. Bennet,665267,665278,25
+mrs. bennet,Mrs. Bennet,666149,666160,25
+mrs. bennet,Mrs. Bennet,666571,666582,25
+mrs. bennet,Mrs. Bennet,672263,672274,25
+mrs. bennet,Mrs. Bennet,674133,674144,25
+mrs. bennet,Mrs. Bennet,683589,683600,25
+mrs. bennet,Mrs. Bennet,685542,685553,25
+mr. wickham,Mr. Wickham,121054,121065,6
+mr. wickham,Mr. Wickham,122388,122399,6
+mr. wickham,Mr. Wickham,122731,122742,6
+mr. wickham,Mr. Wickham,124315,124326,6
+mr. wickham,Mr. Wickham,124665,124676,6
+mr. wickham,Mr. Wickham,126302,126313,6
+mr. wickham,Mr. Wickham,127837,127848,6
+mr. wickham,Mr. Wickham,128148,128159,6
+mr. wickham,Mr. Wickham,128346,128357,6
+mr. wickham,Mr. Wickham,128828,128839,6
+mr. wickham,Mr. Wickham,129422,129433,6
+mr. wickham,Mr. Wickham,129892,129903,6
+mr. wickham,Mr. Wickham,130199,130210,6
+mr. wickham,Mr. Wickham,133543,133554,6
+mr. wickham,Mr. Wickham,142099,142110,6
+mr. wickham,Mr. Wickham,144145,144156,6
+mr. wickham,Mr. Wickham,144446,144457,6
+mr. wickham,Mr. Wickham,145125,145136,6
+mr. wickham,Mr. Wickham,146784,146795,6
+mr. wickham,Mr. Wickham,148599,148610,6
+mr. wickham,Mr. Wickham,148878,148889,6
+mr. wickham,Mr. Wickham,150606,150617,6
+mr. wickham,Mr. Wickham,152206,152217,6
+mr. wickham,Mr. Wickham,152450,152461,6
+mr. wickham,Mr. Wickham,158500,158511,6
+mr. wickham,Mr. Wickham,164942,164953,6
+mr. wickham,Mr. Wickham,165420,165431,6
+mr. wickham,Mr. Wickham,165569,165580,6
+mr. wickham,Mr. Wickham,165735,165746,6
+mr. wickham,Mr. Wickham,179167,179178,6
+mr. wickham,Mr. Wickham,202458,202469,6
+mr. wickham,Mr. Wickham,242344,242355,6
+mr. wickham,Mr. Wickham,250141,250152,6
+mr. wickham,Mr. Wickham,252915,252926,6
+mr. wickham,Mr. Wickham,253098,253109,6
+mr. wickham,Mr. Wickham,253486,253497,6
+mr. wickham,Mr. Wickham,266225,266236,6
+mr. wickham,Mr. Wickham,284854,284865,6
+mr. wickham,Mr. Wickham,336112,336123,6
+mr. wickham,Mr. Wickham,340470,340481,6
+mr. wickham,Mr. Wickham,351099,351110,6
+mr. wickham,Mr. Wickham,351373,351384,6
+mr. wickham,Mr. Wickham,352725,352736,6
+mr. wickham,Mr. Wickham,352947,352958,6
+mr. wickham,Mr. Wickham,353398,353409,6
+mr. wickham,Mr. Wickham,353975,353986,6
+mr. wickham,Mr. Wickham,356268,356279,6
+mr. wickham,Mr. Wickham,357262,357273,6
+mr. wickham,Mr. Wickham,357372,357383,6
+mr. wickham,Mr. Wickham,357848,357859,6
+mr. wickham,Mr. Wickham,360340,360351,6
+mr. wickham,Mr. Wickham,362798,362809,6
+mr. wickham,Mr. Wickham,410805,410816,6
+mr. wickham,Mr. Wickham,430468,430479,6
+mr. wickham,Mr. Wickham,431852,431863,6
+mr. wickham,Mr. Wickham,481022,481033,6
+mr. wickham,Mr. Wickham,486693,486704,6
+mr. wickham,Mr. Wickham,533829,533840,6
+mr. wickham,Mr. Wickham,540825,540836,6
+mr. wickham,Mr. Wickham,552096,552107,6
+mr. wickham,Mr. Wickham,552403,552414,6
+mr. wickham,Mr. Wickham,553035,553046,6
+mr. wickham,Mr. Wickham,561188,561199,6
+mr. wickham,Mr. Wickham,568419,568430,6
+mr. wickham,Mr. Wickham,584006,584017,6
+mr. wickham,Mr. Wickham,584292,584303,6
+mr. wickham,Mr. Wickham,585092,585103,6
+miss watson,Miss Watson,46320,46331,68
+maria lucas,Maria Lucas,17146,17157,12
+maria lucas,Maria Lucas,282479,282490,12
+sir william,Sir William,2529,2540,35
+sir william,Sir William,9300,9311,35
+sir william,Sir William,38435,38446,35
+sir william,Sir William,38781,38792,35
+sir william,Sir William,40145,40156,35
+sir william,Sir William,40427,40438,35
+sir william,Sir William,46187,46198,35
+sir william,Sir William,70396,70407,35
+sir william,Sir William,159821,159832,35
+sir william,Sir William,160076,160087,35
+sir william,Sir William,160190,160201,35
+sir william,Sir William,215124,215135,35
+sir william,Sir William,215584,215595,35
+sir william,Sir William,223359,223370,35
+sir william,Sir William,223561,223572,35
+sir william,Sir William,224089,224100,35
+sir william,Sir William,224399,224410,35
+sir william,Sir William,225212,225223,35
+sir william,Sir William,262068,262079,35
+sir william,Sir William,265832,265843,35
+sir william,Sir William,267281,267292,35
+sir william,Sir William,275887,275898,35
+sir william,Sir William,279799,279810,35
+sir william,Sir William,281237,281248,35
+sir william,Sir William,283206,283217,35
+sir william,Sir William,284077,284088,35
+sir william,Sir William,286319,286330,35
+sir william,Sir William,292353,292364,35
+sir william,Sir William,293096,293107,35
+sir william,Sir William,293642,293653,35
+sir william,Sir William,294073,294084,35
+sir william,Sir William,294304,294315,35
+sir william,Sir William,297032,297043,35
+sir william,Sir William,682559,682570,35
+miss bennet,Miss Bennet,14364,14375,7
+miss bennet,Miss Bennet,23680,23691,7
+miss bennet,Miss Bennet,23949,23960,7
+miss bennet,Miss Bennet,24198,24209,7
+miss bennet,Miss Bennet,26474,26485,7
+miss bennet,Miss Bennet,29736,29747,7
+miss bennet,Miss Bennet,46511,46522,7
+miss bennet,Miss Bennet,52173,52184,7
+miss bennet,Miss Bennet,64582,64593,7
+miss bennet,Miss Bennet,66270,66281,7
+miss bennet,Miss Bennet,66675,66686,7
+miss bennet,Miss Bennet,80206,80217,7
+miss bennet,Miss Bennet,81651,81662,7
+miss bennet,Miss Bennet,82426,82437,7
+miss bennet,Miss Bennet,83901,83912,7
+miss bennet,Miss Bennet,88015,88026,7
+miss bennet,Miss Bennet,89192,89203,7
+miss bennet,Miss Bennet,90111,90122,7
+miss bennet,Miss Bennet,97814,97825,7
+miss bennet,Miss Bennet,117708,117719,7
+miss bennet,Miss Bennet,121919,121930,7
+miss bennet,Miss Bennet,130901,130912,7
+miss bennet,Miss Bennet,132978,132989,7
+miss bennet,Miss Bennet,161860,161871,7
+miss bennet,Miss Bennet,203590,203601,7
+miss bennet,Miss Bennet,235935,235946,7
+miss bennet,Miss Bennet,242880,242891,7
+miss bennet,Miss Bennet,249469,249480,7
+miss bennet,Miss Bennet,288818,288829,7
+miss bennet,Miss Bennet,291004,291015,7
+miss bennet,Miss Bennet,301032,301043,7
+miss bennet,Miss Bennet,303098,303109,7
+miss bennet,Miss Bennet,304294,304305,7
+miss bennet,Miss Bennet,308967,308978,7
+miss bennet,Miss Bennet,315041,315052,7
+miss bennet,Miss Bennet,345941,345952,7
+miss bennet,Miss Bennet,372563,372574,7
+miss bennet,Miss Bennet,393813,393824,7
+miss bennet,Miss Bennet,398017,398028,7
+miss bennet,Miss Bennet,461709,461720,7
+miss bennet,Miss Bennet,473926,473937,7
+miss bennet,Miss Bennet,510697,510708,7
+miss bennet,Miss Bennet,529313,529324,7
+miss bennet,Miss Bennet,530801,530812,7
+miss bennet,Miss Bennet,556932,556943,7
+miss bennet,Miss Bennet,587405,587416,7
+miss bennet,Miss Bennet,604769,604780,7
+miss bennet,Miss Bennet,608268,608279,7
+miss bennet,Miss Bennet,610370,610381,7
+miss bennet,Miss Bennet,617044,617055,7
+miss bennet,Miss Bennet,623009,623020,7
+miss bennet,Miss Bennet,624073,624084,7
+miss bennet,Miss Bennet,625430,625441,7
+miss bennet,Miss Bennet,626519,626530,7
+miss bennet,Miss Bennet,626803,626814,7
+miss bennet,Miss Bennet,628492,628503,7
+miss bennet,Miss Bennet,628935,628946,7
+miss bennet,Miss Bennet,630813,630824,7
+miss bennet,Miss Bennet,631530,631541,7
+miss bennet,Miss Bennet,633321,633332,7
+miss bennet,Miss Bennet,636501,636512,7
+miss bennet,Miss Bennet,636802,636813,7
+miss bennet,Miss Bennet,662091,662102,7
+miss bennet,Miss Bennet,662839,662850,7
+miss bennet,Miss Bennet,664374,664385,7
+mr. bingley,Mr. Bingley,1959,1970,17
+mr. bingley,Mr. Bingley,2338,2349,17
+mr. bingley,Mr. Bingley,2782,2793,17
+mr. bingley,Mr. Bingley,4572,4583,17
+mr. bingley,Mr. Bingley,4910,4921,17
+mr. bingley,Mr. Bingley,4980,4991,17
+mr. bingley,Mr. Bingley,6141,6152,17
+mr. bingley,Mr. Bingley,7171,7182,17
+mr. bingley,Mr. Bingley,7200,7211,17
+mr. bingley,Mr. Bingley,8521,8532,17
+mr. bingley,Mr. Bingley,9009,9020,17
+mr. bingley,Mr. Bingley,9609,9620,17
+mr. bingley,Mr. Bingley,9844,9855,17
+mr. bingley,Mr. Bingley,10424,10435,17
+mr. bingley,Mr. Bingley,10986,10997,17
+mr. bingley,Mr. Bingley,11359,11370,17
+mr. bingley,Mr. Bingley,11440,11451,17
+mr. bingley,Mr. Bingley,12018,12029,17
+mr. bingley,Mr. Bingley,12432,12443,17
+mr. bingley,Mr. Bingley,13517,13528,17
+mr. bingley,Mr. Bingley,14988,14999,17
+mr. bingley,Mr. Bingley,15404,15415,17
+mr. bingley,Mr. Bingley,16567,16578,17
+mr. bingley,Mr. Bingley,18503,18514,17
+mr. bingley,Mr. Bingley,21459,21470,17
+mr. bingley,Mr. Bingley,21626,21637,17
+mr. bingley,Mr. Bingley,22285,22296,17
+mr. bingley,Mr. Bingley,25820,25831,17
+mr. bingley,Mr. Bingley,34357,34368,17
+mr. bingley,Mr. Bingley,44488,44499,17
+mr. bingley,Mr. Bingley,47735,47746,17
+mr. bingley,Mr. Bingley,49571,49582,17
+mr. bingley,Mr. Bingley,54164,54175,17
+mr. bingley,Mr. Bingley,60722,60733,17
+mr. bingley,Mr. Bingley,65147,65158,17
+mr. bingley,Mr. Bingley,67192,67203,17
+mr. bingley,Mr. Bingley,69189,69200,17
+mr. bingley,Mr. Bingley,70412,70423,17
+mr. bingley,Mr. Bingley,70797,70808,17
+mr. bingley,Mr. Bingley,72523,72534,17
+mr. bingley,Mr. Bingley,72612,72623,17
+mr. bingley,Mr. Bingley,73072,73083,17
+mr. bingley,Mr. Bingley,73617,73628,17
+mr. bingley,Mr. Bingley,75197,75208,17
+mr. bingley,Mr. Bingley,77517,77528,17
+mr. bingley,Mr. Bingley,79328,79339,17
+mr. bingley,Mr. Bingley,80864,80875,17
+mr. bingley,Mr. Bingley,96873,96884,17
+mr. bingley,Mr. Bingley,97189,97200,17
+mr. bingley,Mr. Bingley,100746,100757,17
+mr. bingley,Mr. Bingley,100875,100886,17
+mr. bingley,Mr. Bingley,101044,101055,17
+mr. bingley,Mr. Bingley,122614,122625,17
+mr. bingley,Mr. Bingley,140457,140468,17
+mr. bingley,Mr. Bingley,140478,140489,17
+mr. bingley,Mr. Bingley,140639,140650,17
+mr. bingley,Mr. Bingley,145263,145274,17
+mr. bingley,Mr. Bingley,146742,146753,17
+mr. bingley,Mr. Bingley,147201,147212,17
+mr. bingley,Mr. Bingley,147462,147473,17
+mr. bingley,Mr. Bingley,148369,148380,17
+mr. bingley,Mr. Bingley,149524,149535,17
+mr. bingley,Mr. Bingley,154132,154143,17
+mr. bingley,Mr. Bingley,165172,165183,17
+mr. bingley,Mr. Bingley,165709,165720,17
+mr. bingley,Mr. Bingley,166133,166144,17
+mr. bingley,Mr. Bingley,166246,166257,17
+mr. bingley,Mr. Bingley,166808,166819,17
+mr. bingley,Mr. Bingley,170903,170914,17
+mr. bingley,Mr. Bingley,171704,171715,17
+mr. bingley,Mr. Bingley,179823,179834,17
+mr. bingley,Mr. Bingley,180057,180068,17
+mr. bingley,Mr. Bingley,180561,180572,17
+mr. bingley,Mr. Bingley,181501,181512,17
+mr. bingley,Mr. Bingley,205432,205443,17
+mr. bingley,Mr. Bingley,205961,205972,17
+mr. bingley,Mr. Bingley,212480,212491,17
+mr. bingley,Mr. Bingley,228370,228381,17
+mr. bingley,Mr. Bingley,238901,238912,17
+mr. bingley,Mr. Bingley,240804,240815,17
+mr. bingley,Mr. Bingley,241455,241466,17
+mr. bingley,Mr. Bingley,245053,245064,17
+mr. bingley,Mr. Bingley,246294,246305,17
+mr. bingley,Mr. Bingley,247053,247064,17
+mr. bingley,Mr. Bingley,248748,248759,17
+mr. bingley,Mr. Bingley,258785,258796,17
+mr. bingley,Mr. Bingley,311080,311091,17
+mr. bingley,Mr. Bingley,311390,311401,17
+mr. bingley,Mr. Bingley,311877,311888,17
+mr. bingley,Mr. Bingley,323766,323777,17
+mr. bingley,Mr. Bingley,326687,326698,17
+mr. bingley,Mr. Bingley,328233,328244,17
+mr. bingley,Mr. Bingley,344010,344021,17
+mr. bingley,Mr. Bingley,366530,366541,17
+mr. bingley,Mr. Bingley,367422,367433,17
+mr. bingley,Mr. Bingley,448729,448740,17
+mr. bingley,Mr. Bingley,448858,448869,17
+mr. bingley,Mr. Bingley,586502,586513,17
+mr. bingley,Mr. Bingley,589028,589039,17
+mr. bingley,Mr. Bingley,590128,590139,17
+mr. bingley,Mr. Bingley,590802,590813,17
+mr. bingley,Mr. Bingley,591847,591858,17
+mr. bingley,Mr. Bingley,592409,592420,17
+mr. bingley,Mr. Bingley,596111,596122,17
+mr. bingley,Mr. Bingley,597224,597235,17
+mr. bingley,Mr. Bingley,597993,598004,17
+mr. bingley,Mr. Bingley,599690,599701,17
+mr. bingley,Mr. Bingley,609396,609407,17
+mr. bingley,Mr. Bingley,610288,610299,17
+mr. bingley,Mr. Bingley,647370,647381,17
+mr. bingley,Mr. Bingley,658526,658537,17
+mr. bingley,Mr. Bingley,660583,660594,17
+mr. bingley,Mr. Bingley,666312,666323,17
+mr. bingley,Mr. Bingley,684384,684395,17
+old wickham,old Wickham,162841,162852,64
+fitzwilliam,Fitzwilliam,251746,251757,2
+fitzwilliam,Fitzwilliam,303033,303044,2
+fitzwilliam,Fitzwilliam,307794,307805,2
+fitzwilliam,Fitzwilliam,325103,325114,2
+fitzwilliam,Fitzwilliam,325277,325288,2
+fitzwilliam,Fitzwilliam,325961,325972,2
+fitzwilliam,Fitzwilliam,356040,356051,2
+fitzwilliam,FITZWILLIAM,359026,359037,2
+mr. collins,Mr. Collins,101524,101535,18
+mr. collins,Mr. Collins,102373,102384,18
+mr. collins,Mr. Collins,107024,107035,18
+mr. collins,Mr. Collins,107187,107198,18
+mr. collins,Mr. Collins,107362,107373,18
+mr. collins,Mr. Collins,108905,108916,18
+mr. collins,Mr. Collins,110109,110120,18
+mr. collins,Mr. Collins,114401,114412,18
+mr. collins,Mr. Collins,115207,115218,18
+mr. collins,Mr. Collins,115915,115926,18
+mr. collins,Mr. Collins,116141,116152,18
+mr. collins,Mr. Collins,118553,118564,18
+mr. collins,Mr. Collins,119059,119070,18
+mr. collins,Mr. Collins,119206,119217,18
+mr. collins,Mr. Collins,119760,119771,18
+mr. collins,Mr. Collins,119813,119824,18
+mr. collins,Mr. Collins,123515,123526,18
+mr. collins,Mr. Collins,125017,125028,18
+mr. collins,Mr. Collins,125390,125401,18
+mr. collins,Mr. Collins,126024,126035,18
+mr. collins,Mr. Collins,126450,126461,18
+mr. collins,Mr. Collins,128858,128869,18
+mr. collins,Mr. Collins,141296,141307,18
+mr. collins,Mr. Collins,142155,142166,18
+mr. collins,Mr. Collins,142400,142411,18
+mr. collins,Mr. Collins,143149,143160,18
+mr. collins,Mr. Collins,144598,144609,18
+mr. collins,Mr. Collins,144728,144739,18
+mr. collins,Mr. Collins,149451,149462,18
+mr. collins,Mr. Collins,150508,150519,18
+mr. collins,Mr. Collins,150685,150696,18
+mr. collins,Mr. Collins,151582,151593,18
+mr. collins,Mr. Collins,154644,154655,18
+mr. collins,Mr. Collins,166956,166967,18
+mr. collins,Mr. Collins,168442,168453,18
+mr. collins,Mr. Collins,170007,170018,18
+mr. collins,Mr. Collins,170087,170098,18
+mr. collins,Mr. Collins,170317,170328,18
+mr. collins,Mr. Collins,175940,175951,18
+mr. collins,Mr. Collins,177299,177310,18
+mr. collins,Mr. Collins,178209,178220,18
+mr. collins,Mr. Collins,178881,178892,18
+mr. collins,Mr. Collins,179788,179799,18
+mr. collins,Mr. Collins,181245,181256,18
+mr. collins,Mr. Collins,181595,181606,18
+mr. collins,Mr. Collins,182631,182642,18
+mr. collins,Mr. Collins,182963,182974,18
+mr. collins,Mr. Collins,183347,183358,18
+mr. collins,Mr. Collins,184180,184191,18
+mr. collins,Mr. Collins,185079,185090,18
+mr. collins,Mr. Collins,187473,187484,18
+mr. collins,Mr. Collins,188483,188494,18
+mr. collins,Mr. Collins,188758,188769,18
+mr. collins,Mr. Collins,189348,189359,18
+mr. collins,Mr. Collins,189831,189842,18
+mr. collins,Mr. Collins,192206,192217,18
+mr. collins,Mr. Collins,192613,192624,18
+mr. collins,Mr. Collins,193243,193254,18
+mr. collins,Mr. Collins,193509,193520,18
+mr. collins,Mr. Collins,194416,194427,18
+mr. collins,Mr. Collins,194827,194838,18
+mr. collins,Mr. Collins,194883,194894,18
+mr. collins,Mr. Collins,194900,194911,18
+mr. collins,Mr. Collins,195365,195376,18
+mr. collins,Mr. Collins,195852,195863,18
+mr. collins,Mr. Collins,196920,196931,18
+mr. collins,Mr. Collins,197548,197559,18
+mr. collins,Mr. Collins,199370,199381,18
+mr. collins,Mr. Collins,199556,199567,18
+mr. collins,Mr. Collins,199792,199803,18
+mr. collins,Mr. Collins,200053,200064,18
+mr. collins,Mr. Collins,201426,201437,18
+mr. collins,Mr. Collins,202141,202152,18
+mr. collins,Mr. Collins,212858,212869,18
+mr. collins,Mr. Collins,213314,213325,18
+mr. collins,Mr. Collins,214486,214497,18
+mr. collins,Mr. Collins,215244,215255,18
+mr. collins,Mr. Collins,215642,215653,18
+mr. collins,Mr. Collins,216206,216217,18
+mr. collins,Mr. Collins,217172,217183,18
+mr. collins,Mr. Collins,218487,218498,18
+mr. collins,Mr. Collins,220160,220171,18
+mr. collins,Mr. Collins,220535,220546,18
+mr. collins,Mr. Collins,220909,220920,18
+mr. collins,Mr. Collins,221380,221391,18
+mr. collins,Mr. Collins,221607,221618,18
+mr. collins,Mr. Collins,222113,222124,18
+mr. collins,Mr. Collins,222482,222493,18
+mr. collins,Mr. Collins,223425,223436,18
+mr. collins,Mr. Collins,224261,224272,18
+mr. collins,Mr. Collins,224598,224609,18
+mr. collins,Mr. Collins,225912,225923,18
+mr. collins,Mr. Collins,226990,227001,18
+mr. collins,Mr. Collins,227839,227850,18
+mr. collins,Mr. Collins,229843,229854,18
+mr. collins,Mr. Collins,230788,230799,18
+mr. collins,Mr. Collins,231944,231955,18
+mr. collins,Mr. Collins,237015,237026,18
+mr. collins,Mr. Collins,237566,237577,18
+mr. collins,Mr. Collins,243281,243292,18
+mr. collins,Mr. Collins,245154,245165,18
+mr. collins,Mr. Collins,254899,254910,18
+mr. collins,Mr. Collins,257310,257321,18
+mr. collins,Mr. Collins,265384,265395,18
+mr. collins,Mr. Collins,272822,272833,18
+mr. collins,Mr. Collins,274272,274283,18
+mr. collins,Mr. Collins,274706,274717,18
+mr. collins,Mr. Collins,275734,275745,18
+mr. collins,Mr. Collins,276251,276262,18
+mr. collins,Mr. Collins,276551,276562,18
+mr. collins,Mr. Collins,278021,278032,18
+mr. collins,Mr. Collins,279705,279716,18
+mr. collins,Mr. Collins,280097,280108,18
+mr. collins,Mr. Collins,280324,280335,18
+mr. collins,Mr. Collins,281534,281545,18
+mr. collins,Mr. Collins,282892,282903,18
+mr. collins,Mr. Collins,283529,283540,18
+mr. collins,Mr. Collins,285750,285761,18
+mr. collins,Mr. Collins,286008,286019,18
+mr. collins,Mr. Collins,288578,288589,18
+mr. collins,Mr. Collins,292942,292953,18
+mr. collins,Mr. Collins,293602,293613,18
+mr. collins,Mr. Collins,293965,293976,18
+mr. collins,Mr. Collins,294331,294342,18
+mr. collins,Mr. Collins,295093,295104,18
+mr. collins,Mr. Collins,295340,295351,18
+mr. collins,Mr. Collins,295727,295738,18
+mr. collins,Mr. Collins,296693,296704,18
+mr. collins,Mr. Collins,298757,298768,18
+mr. collins,Mr. Collins,299279,299290,18
+mr. collins,Mr. Collins,312464,312475,18
+mr. collins,Mr. Collins,312607,312618,18
+mr. collins,Mr. Collins,312930,312941,18
+mr. collins,Mr. Collins,328673,328684,18
+mr. collins,Mr. Collins,370965,370976,18
+mr. collins,Mr. Collins,372398,372409,18
+mr. collins,Mr. Collins,378763,378774,18
+mr. collins,Mr. Collins,379831,379842,18
+mr. collins,Mr. Collins,382444,382455,18
+mr. collins,Mr. Collins,389130,389141,18
+mr. collins,Mr. Collins,522472,522483,18
+mr. collins,Mr. Collins,621914,621925,18
+mr. collins,Mr. Collins,642297,642308,18
+mr. collins,Mr. Collins,642318,642329,18
+mr. collins,Mr. Collins,645021,645032,18
+mr. collins,Mr. Collins,646402,646413,18
+mr. collins,Mr. Collins,671516,671527,18
+mr. collins,Mr. Collins,680599,680610,18
+mr. collins,Mr. Collins,681587,681598,18
+the servant,the servant,46554,46565,8
+the servant,the servant,485274,485285,8
+the servant,the servant,485513,485524,8
+the servant,the servant,493214,493225,8
+the servant,the servant,593769,593780,8
+the servant,the servant,622872,622883,8
+miss lizzy,Miss Lizzy,198405,198415,5
+miss lizzy,Miss Lizzy,610437,610447,5
+the waiter,the waiter,387028,387038,52
+the waiter,the waiter,387164,387174,52
+the waiter,the waiter,387429,387439,52
+miss darcy,Miss Darcy,60783,60793,15
+miss darcy,Miss Darcy,75684,75694,15
+miss darcy,Miss Darcy,139767,139777,15
+miss darcy,Miss Darcy,208975,208985,15
+miss darcy,Miss Darcy,209508,209518,15
+miss darcy,Miss Darcy,209878,209888,15
+miss darcy,Miss Darcy,229168,229178,15
+miss darcy,Miss Darcy,232825,232835,15
+miss darcy,Miss Darcy,233504,233514,15
+miss darcy,Miss Darcy,239881,239891,15
+miss darcy,Miss Darcy,258521,258531,15
+miss darcy,Miss Darcy,261378,261388,15
+miss darcy,Miss Darcy,322791,322801,15
+miss darcy,Miss Darcy,323174,323184,15
+miss darcy,Miss Darcy,364189,364199,15
+miss darcy,Miss Darcy,374453,374463,15
+miss darcy,Miss Darcy,431939,431949,15
+miss darcy,Miss Darcy,432001,432011,15
+miss darcy,Miss Darcy,432681,432691,15
+miss darcy,Miss Darcy,435645,435655,15
+miss darcy,Miss Darcy,435837,435847,15
+miss darcy,Miss Darcy,436345,436355,15
+miss darcy,Miss Darcy,449410,449420,15
+miss darcy,Miss Darcy,456088,456098,15
+miss darcy,Miss Darcy,456325,456335,15
+miss darcy,Miss Darcy,456529,456539,15
+miss darcy,Miss Darcy,459060,459070,15
+miss darcy,Miss Darcy,461776,461786,15
+miss darcy,Miss Darcy,467005,467015,15
+miss darcy,Miss Darcy,468339,468349,15
+miss darcy,Miss Darcy,469248,469258,15
+miss darcy,Miss Darcy,469534,469544,15
+miss darcy,Miss Darcy,470548,470558,15
+miss darcy,Miss Darcy,471980,471990,15
+miss darcy,Miss Darcy,473500,473510,15
+miss darcy,Miss Darcy,489739,489749,15
+miss darcy,Miss Darcy,500275,500285,15
+miss darcy,Miss Darcy,569634,569644,15
+miss darcy,Miss Darcy,681325,681335,15
+miss eliza,Miss Eliza,40528,40538,5
+miss eliza,Miss Eliza,58723,58733,5
+miss eliza,Miss Eliza,91366,91376,5
+miss eliza,Miss Eliza,162589,162599,5
+miss eliza,Miss Eliza,163637,163647,5
+miss eliza,Miss Eliza,472359,472369,5
+mr. morris,Mr. Morris,1079,1089,71
+mrs. hurst,Mrs. Hurst,12786,12796,30
+mrs. hurst,Mrs. Hurst,17690,17700,30
+mrs. hurst,Mrs. Hurst,22153,22163,30
+mrs. hurst,Mrs. Hurst,24017,24027,30
+mrs. hurst,Mrs. Hurst,29792,29802,30
+mrs. hurst,Mrs. Hurst,51572,51582,30
+mrs. hurst,Mrs. Hurst,55481,55491,30
+mrs. hurst,Mrs. Hurst,57071,57081,30
+mrs. hurst,Mrs. Hurst,63147,63157,30
+mrs. hurst,Mrs. Hurst,74786,74796,30
+mrs. hurst,Mrs. Hurst,75229,75239,30
+mrs. hurst,Mrs. Hurst,83021,83031,30
+mrs. hurst,Mrs. Hurst,86274,86284,30
+mrs. hurst,Mrs. Hurst,86461,86471,30
+mrs. hurst,Mrs. Hurst,89063,89073,30
+mrs. hurst,Mrs. Hurst,179470,179480,30
+mrs. hurst,Mrs. Hurst,180216,180226,30
+mrs. hurst,Mrs. Hurst,258619,258629,30
+mrs. hurst,Mrs. Hurst,323514,323524,30
+mrs. hurst,Mrs. Hurst,468378,468388,30
+mrs. hurst,Mrs. Hurst,468781,468791,30
+mr. bennet,Mr. Bennet,403,413,16
+mr. bennet,Mr. Bennet,502,512,16
+mr. bennet,Mr. Bennet,633,643,16
+mr. bennet,Mr. Bennet,1462,1472,16
+mr. bennet,Mr. Bennet,3395,3405,16
+mr. bennet,Mr. Bennet,4026,4036,16
+mr. bennet,Mr. Bennet,4515,4525,16
+mr. bennet,Mr. Bennet,5370,5380,16
+mr. bennet,Mr. Bennet,6178,6188,16
+mr. bennet,Mr. Bennet,7732,7742,16
+mr. bennet,Mr. Bennet,8055,8065,16
+mr. bennet,Mr. Bennet,8743,8753,16
+mr. bennet,Mr. Bennet,9865,9875,16
+mr. bennet,Mr. Bennet,15995,16005,16
+mr. bennet,Mr. Bennet,16351,16361,16
+mr. bennet,Mr. Bennet,17746,17756,16
+mr. bennet,Mr. Bennet,42662,42672,16
+mr. bennet,Mr. Bennet,44709,44719,16
+mr. bennet,Mr. Bennet,45714,45724,16
+mr. bennet,Mr. Bennet,47947,47957,16
+mr. bennet,Mr. Bennet,49382,49392,16
+mr. bennet,Mr. Bennet,100224,100234,16
+mr. bennet,Mr. Bennet,102338,102348,16
+mr. bennet,Mr. Bennet,105354,105364,16
+mr. bennet,Mr. Bennet,107285,107295,16
+mr. bennet,Mr. Bennet,109694,109704,16
+mr. bennet,Mr. Bennet,110068,110078,16
+mr. bennet,Mr. Bennet,113440,113450,16
+mr. bennet,Mr. Bennet,113912,113922,16
+mr. bennet,Mr. Bennet,114263,114273,16
+mr. bennet,Mr. Bennet,115567,115577,16
+mr. bennet,Mr. Bennet,115631,115641,16
+mr. bennet,Mr. Bennet,116082,116092,16
+mr. bennet,Mr. Bennet,119109,119119,16
+mr. bennet,Mr. Bennet,119371,119381,16
+mr. bennet,Mr. Bennet,119467,119477,16
+mr. bennet,Mr. Bennet,177244,177254,16
+mr. bennet,Mr. Bennet,180003,180013,16
+mr. bennet,Mr. Bennet,194126,194136,16
+mr. bennet,Mr. Bennet,194316,194326,16
+mr. bennet,Mr. Bennet,194540,194550,16
+mr. bennet,Mr. Bennet,196128,196138,16
+mr. bennet,Mr. Bennet,200893,200903,16
+mr. bennet,Mr. Bennet,215549,215559,16
+mr. bennet,Mr. Bennet,218214,218224,16
+mr. bennet,Mr. Bennet,225333,225343,16
+mr. bennet,Mr. Bennet,230940,230950,16
+mr. bennet,Mr. Bennet,231024,231034,16
+mr. bennet,Mr. Bennet,231767,231777,16
+mr. bennet,Mr. Bennet,232056,232066,16
+mr. bennet,Mr. Bennet,241502,241512,16
+mr. bennet,Mr. Bennet,242188,242198,16
+mr. bennet,Mr. Bennet,384893,384903,16
+mr. bennet,Mr. Bennet,390670,390680,16
+mr. bennet,Mr. Bennet,406700,406710,16
+mr. bennet,Mr. Bennet,408287,408297,16
+mr. bennet,Mr. Bennet,416272,416282,16
+mr. bennet,Mr. Bennet,506181,506191,16
+mr. bennet,Mr. Bennet,506670,506680,16
+mr. bennet,Mr. Bennet,507652,507662,16
+mr. bennet,Mr. Bennet,517756,517766,16
+mr. bennet,Mr. Bennet,518346,518356,16
+mr. bennet,Mr. Bennet,520181,520191,16
+mr. bennet,Mr. Bennet,520375,520385,16
+mr. bennet,Mr. Bennet,520664,520674,16
+mr. bennet,Mr. Bennet,526943,526953,16
+mr. bennet,Mr. Bennet,527963,527973,16
+mr. bennet,Mr. Bennet,530493,530503,16
+mr. bennet,Mr. Bennet,536730,536740,16
+mr. bennet,Mr. Bennet,542955,542965,16
+mr. bennet,Mr. Bennet,543792,543802,16
+mr. bennet,Mr. Bennet,544693,544703,16
+mr. bennet,Mr. Bennet,548119,548129,16
+mr. bennet,Mr. Bennet,551822,551832,16
+mr. bennet,Mr. Bennet,553789,553799,16
+mr. bennet,Mr. Bennet,555261,555271,16
+mr. bennet,Mr. Bennet,556682,556692,16
+mr. bennet,Mr. Bennet,571853,571863,16
+mr. bennet,Mr. Bennet,585247,585257,16
+mr. bennet,Mr. Bennet,598087,598097,16
+mr. bennet,Mr. Bennet,610893,610903,16
+mr. bennet,Mr. Bennet,613223,613233,16
+mr. bennet,Mr. Bennet,617397,617407,16
+mr. bennet,Mr. Bennet,618299,618309,16
+mr. bennet,Mr. Bennet,666006,666016,16
+mr. bennet,Mr. Bennet,666930,666940,16
+mr. bennet,Mr. Bennet,667601,667611,16
+mr. bennet,Mr. Bennet,674430,674440,16
+mr. bennet,Mr. Bennet,680580,680590,16
+mr. bennet,Mr. Bennet,684178,684188,16
+miss lucas,Miss Lucas,16794,16804,1
+miss lucas,Miss Lucas,25796,25806,1
+miss lucas,Miss Lucas,27918,27928,1
+miss lucas,Miss Lucas,28149,28159,1
+miss lucas,Miss Lucas,30889,30899,1
+miss lucas,Miss Lucas,36110,36120,1
+miss lucas,Miss Lucas,36551,36561,1
+miss lucas,Miss Lucas,36956,36966,1
+miss lucas,Miss Lucas,166851,166861,1
+miss lucas,Miss Lucas,178819,178829,1
+miss lucas,Miss Lucas,197851,197861,1
+miss lucas,Miss Lucas,197993,198003,1
+miss lucas,Miss Lucas,201949,201959,1
+miss lucas,Miss Lucas,212823,212833,1
+miss lucas,Miss Lucas,213382,213392,1
+miss lucas,Miss Lucas,214241,214251,1
+miss lucas,Miss Lucas,214976,214986,1
+miss lucas,Miss Lucas,220020,220030,1
+miss lucas,Miss Lucas,220611,220621,1
+miss lucas,Miss Lucas,225896,225906,1
+miss lucas,Miss Lucas,227347,227357,1
+miss lucas,Miss Lucas,230546,230556,1
+miss lucas,Miss Lucas,255346,255356,1
+miss lucas,Miss Lucas,298683,298693,1
+miss lucas,Miss Lucas,596431,596441,1
+lady lucas,Lady Lucas,2545,2555,1
+lady lucas,Lady Lucas,9254,9264,1
+lady lucas,Lady Lucas,10827,10837,1
+lady lucas,Lady Lucas,25273,25283,1
+lady lucas,Lady Lucas,39510,39520,1
+lady lucas,Lady Lucas,71240,71250,1
+lady lucas,Lady Lucas,171598,171608,1
+lady lucas,Lady Lucas,172724,172734,1
+lady lucas,Lady Lucas,174073,174083,1
+lady lucas,Lady Lucas,177376,177386,1
+lady lucas,Lady Lucas,215140,215150,1
+lady lucas,Lady Lucas,215428,215438,1
+lady lucas,Lady Lucas,225227,225237,1
+lady lucas,Lady Lucas,226030,226040,1
+lady lucas,Lady Lucas,245321,245331,1
+lady lucas,lady Lucas,390909,390919,1
+lady lucas,lady Lucas,516231,516241,1
+lady lucas,Lady Lucas,542036,542046,1
+elizabeth,Elizabeth,5088,5097,5
+elizabeth,Elizabeth,13303,13312,5
+elizabeth,Elizabeth,14658,14667,5
+elizabeth,Elizabeth,15047,15056,5
+elizabeth,Elizabeth,15575,15584,5
+elizabeth,Elizabeth,18430,18439,5
+elizabeth,Elizabeth,18783,18792,5
+elizabeth,Elizabeth,20450,20459,5
+elizabeth,Elizabeth,25482,25491,5
+elizabeth,Elizabeth,28462,28471,5
+elizabeth,Elizabeth,30071,30080,5
+elizabeth,Elizabeth,32549,32558,5
+elizabeth,Elizabeth,34397,34406,5
+elizabeth,Elizabeth,36201,36210,5
+elizabeth,Elizabeth,37839,37848,5
+elizabeth,Elizabeth,39609,39618,5
+elizabeth,Elizabeth,40393,40402,5
+elizabeth,Elizabeth,40765,40774,5
+elizabeth,Elizabeth,40933,40942,5
+elizabeth,Elizabeth,47627,47636,5
+elizabeth,Elizabeth,48080,48089,5
+elizabeth,Elizabeth,48895,48904,5
+elizabeth,Elizabeth,49399,49408,5
+elizabeth,Elizabeth,49832,49841,5
+elizabeth,Elizabeth,50718,50727,5
+elizabeth,Elizabeth,51019,51028,5
+elizabeth,Elizabeth,51605,51614,5
+elizabeth,Elizabeth,52272,52281,5
+elizabeth,Elizabeth,52701,52710,5
+elizabeth,Elizabeth,52797,52806,5
+elizabeth,Elizabeth,53236,53245,5
+elizabeth,Elizabeth,53419,53428,5
+elizabeth,Elizabeth,53753,53762,5
+elizabeth,Elizabeth,53996,54005,5
+elizabeth,Elizabeth,54555,54564,5
+elizabeth,Elizabeth,55042,55051,5
+elizabeth,Elizabeth,58125,58134,5
+elizabeth,Elizabeth,58897,58906,5
+elizabeth,Elizabeth,59108,59117,5
+elizabeth,Elizabeth,59448,59457,5
+elizabeth,Elizabeth,60532,60541,5
+elizabeth,Elizabeth,62076,62085,5
+elizabeth,Elizabeth,63467,63476,5
+elizabeth,Elizabeth,64102,64111,5
+elizabeth,Elizabeth,64956,64965,5
+elizabeth,Elizabeth,67676,67685,5
+elizabeth,Elizabeth,69577,69586,5
+elizabeth,Elizabeth,70011,70020,5
+elizabeth,Elizabeth,70166,70175,5
+elizabeth,Elizabeth,71827,71836,5
+elizabeth,Elizabeth,72331,72340,5
+elizabeth,Elizabeth,74442,74451,5
+elizabeth,Elizabeth,74926,74935,5
+elizabeth,Elizabeth,75267,75276,5
+elizabeth,Elizabeth,77536,77545,5
+elizabeth,Elizabeth,79311,79320,5
+elizabeth,Elizabeth,82036,82045,5
+elizabeth,Elizabeth,82577,82586,5
+elizabeth,Elizabeth,82783,82792,5
+elizabeth,Elizabeth,82912,82921,5
+elizabeth,Elizabeth,83088,83097,5
+elizabeth,Elizabeth,83837,83846,5
+elizabeth,Elizabeth,84510,84519,5
+elizabeth,Elizabeth,85057,85066,5
+elizabeth,Elizabeth,85957,85966,5
+elizabeth,Elizabeth,86289,86298,5
+elizabeth,Elizabeth,86591,86600,5
+elizabeth,Elizabeth,86791,86800,5
+elizabeth,Elizabeth,87303,87312,5
+elizabeth,Elizabeth,87491,87500,5
+elizabeth,Elizabeth,88492,88501,5
+elizabeth,Elizabeth,91347,91356,5
+elizabeth,Elizabeth,91536,91545,5
+elizabeth,Elizabeth,91747,91756,5
+elizabeth,Elizabeth,92125,92134,5
+elizabeth,Elizabeth,93113,93122,5
+elizabeth,Elizabeth,93610,93619,5
+elizabeth,Elizabeth,94028,94037,5
+elizabeth,Elizabeth,94639,94648,5
+elizabeth,Elizabeth,95424,95433,5
+elizabeth,Elizabeth,96197,96206,5
+elizabeth,Elizabeth,96295,96304,5
+elizabeth,Elizabeth,96684,96693,5
+elizabeth,Elizabeth,96995,97004,5
+elizabeth,Elizabeth,97993,98002,5
+elizabeth,Elizabeth,98823,98832,5
+elizabeth,Elizabeth,99108,99117,5
+elizabeth,Elizabeth,99666,99675,5
+elizabeth,Elizabeth,101947,101956,5
+elizabeth,Elizabeth,105915,105924,5
+elizabeth,Elizabeth,114163,114172,5
+elizabeth,Elizabeth,118597,118606,5
+elizabeth,Elizabeth,118676,118685,5
+elizabeth,Elizabeth,119591,119600,5
+elizabeth,Elizabeth,122124,122133,5
+elizabeth,Elizabeth,122202,122211,5
+elizabeth,Elizabeth,125172,125181,5
+elizabeth,Elizabeth,127871,127880,5
+elizabeth,Elizabeth,128429,128438,5
+elizabeth,Elizabeth,129523,129532,5
+elizabeth,Elizabeth,129940,129949,5
+elizabeth,Elizabeth,130417,130426,5
+elizabeth,Elizabeth,130832,130841,5
+elizabeth,Elizabeth,131101,131110,5
+elizabeth,Elizabeth,133405,133414,5
+elizabeth,Elizabeth,134906,134915,5
+elizabeth,Elizabeth,136037,136046,5
+elizabeth,Elizabeth,137257,137266,5
+elizabeth,Elizabeth,138540,138549,5
+elizabeth,Elizabeth,140347,140356,5
+elizabeth,Elizabeth,141344,141353,5
+elizabeth,Elizabeth,142195,142204,5
+elizabeth,Elizabeth,142935,142944,5
+elizabeth,Elizabeth,143937,143946,5
+elizabeth,Elizabeth,144365,144374,5
+elizabeth,Elizabeth,145061,145070,5
+elizabeth,Elizabeth,147911,147920,5
+elizabeth,Elizabeth,148538,148547,5
+elizabeth,Elizabeth,148830,148839,5
+elizabeth,Elizabeth,149348,149357,5
+elizabeth,Elizabeth,150380,150389,5
+elizabeth,Elizabeth,151454,151463,5
+elizabeth,Elizabeth,152075,152084,5
+elizabeth,Elizabeth,152377,152386,5
+elizabeth,Elizabeth,153552,153561,5
+elizabeth,Elizabeth,154187,154196,5
+elizabeth,Elizabeth,155903,155912,5
+elizabeth,Elizabeth,157418,157427,5
+elizabeth,Elizabeth,158368,158377,5
+elizabeth,Elizabeth,158720,158729,5
+elizabeth,Elizabeth,163839,163848,5
+elizabeth,Elizabeth,164154,164163,5
+elizabeth,Elizabeth,164621,164630,5
+elizabeth,Elizabeth,166164,166173,5
+elizabeth,Elizabeth,166613,166622,5
+elizabeth,Elizabeth,166829,166838,5
+elizabeth,Elizabeth,168048,168057,5
+elizabeth,Elizabeth,170346,170355,5
+elizabeth,Elizabeth,170785,170794,5
+elizabeth,Elizabeth,172852,172861,5
+elizabeth,Elizabeth,173620,173629,5
+elizabeth,Elizabeth,174231,174240,5
+elizabeth,Elizabeth,174700,174709,5
+elizabeth,Elizabeth,175165,175174,5
+elizabeth,Elizabeth,175783,175792,5
+elizabeth,Elizabeth,177449,177458,5
+elizabeth,Elizabeth,180166,180175,5
+elizabeth,Elizabeth,181343,181352,5
+elizabeth,Elizabeth,181981,181990,5
+elizabeth,Elizabeth,182156,182165,5
+elizabeth,Elizabeth,182268,182277,5
+elizabeth,Elizabeth,182559,182568,5
+elizabeth,Elizabeth,182824,182833,5
+elizabeth,Elizabeth,182978,182987,5
+elizabeth,Elizabeth,184266,184275,5
+elizabeth,Elizabeth,187884,187893,5
+elizabeth,Elizabeth,189851,189860,5
+elizabeth,Elizabeth,191825,191834,5
+elizabeth,Elizabeth,192397,192406,5
+elizabeth,Elizabeth,195425,195434,5
+elizabeth,Elizabeth,195720,195729,5
+elizabeth,Elizabeth,195911,195920,5
+elizabeth,Elizabeth,196582,196591,5
+elizabeth,Elizabeth,196756,196765,5
+elizabeth,Elizabeth,198203,198212,5
+elizabeth,Elizabeth,199614,199623,5
+elizabeth,Elizabeth,201476,201485,5
+elizabeth,Elizabeth,202196,202205,5
+elizabeth,Elizabeth,202707,202716,5
+elizabeth,Elizabeth,203778,203787,5
+elizabeth,Elizabeth,204034,204043,5
+elizabeth,Elizabeth,205199,205208,5
+elizabeth,Elizabeth,210794,210803,5
+elizabeth,Elizabeth,211422,211431,5
+elizabeth,Elizabeth,212871,212880,5
+elizabeth,Elizabeth,213213,213222,5
+elizabeth,Elizabeth,216869,216878,5
+elizabeth,Elizabeth,216948,216957,5
+elizabeth,Elizabeth,219355,219364,5
+elizabeth,Elizabeth,220093,220102,5
+elizabeth,Elizabeth,220236,220245,5
+elizabeth,Elizabeth,221031,221040,5
+elizabeth,Elizabeth,221791,221800,5
+elizabeth,Elizabeth,221943,221952,5
+elizabeth,Elizabeth,222745,222754,5
+elizabeth,Elizabeth,223769,223778,5
+elizabeth,Elizabeth,224813,224822,5
+elizabeth,Elizabeth,225134,225143,5
+elizabeth,Elizabeth,225805,225814,5
+elizabeth,Elizabeth,226355,226364,5
+elizabeth,Elizabeth,226453,226462,5
+elizabeth,Elizabeth,228421,228430,5
+elizabeth,Elizabeth,228762,228771,5
+elizabeth,Elizabeth,229358,229367,5
+elizabeth,Elizabeth,229449,229458,5
+elizabeth,Elizabeth,233251,233260,5
+elizabeth,Elizabeth,234704,234713,5
+elizabeth,Elizabeth,235109,235118,5
+elizabeth,Elizabeth,235740,235749,5
+elizabeth,Elizabeth,236062,236071,5
+elizabeth,Elizabeth,238940,238949,5
+elizabeth,Elizabeth,240745,240754,5
+elizabeth,Elizabeth,240981,240990,5
+elizabeth,Elizabeth,242607,242616,5
+elizabeth,Elizabeth,245935,245944,5
+elizabeth,Elizabeth,246079,246088,5
+elizabeth,Elizabeth,246522,246531,5
+elizabeth,Elizabeth,247916,247925,5
+elizabeth,Elizabeth,249013,249022,5
+elizabeth,Elizabeth,250235,250244,5
+elizabeth,Elizabeth,250481,250490,5
+elizabeth,Elizabeth,251863,251872,5
+elizabeth,Elizabeth,252989,252998,5
+elizabeth,Elizabeth,254288,254297,5
+elizabeth,Elizabeth,254741,254750,5
+elizabeth,Elizabeth,255415,255424,5
+elizabeth,Elizabeth,255898,255907,5
+elizabeth,Elizabeth,256315,256324,5
+elizabeth,Elizabeth,256480,256489,5
+elizabeth,Elizabeth,256965,256974,5
+elizabeth,Elizabeth,257381,257390,5
+elizabeth,Elizabeth,257583,257592,5
+elizabeth,Elizabeth,258687,258696,5
+elizabeth,Elizabeth,262181,262190,5
+elizabeth,Elizabeth,262729,262738,5
+elizabeth,Elizabeth,262811,262820,5
+elizabeth,Elizabeth,263001,263010,5
+elizabeth,Elizabeth,263408,263417,5
+elizabeth,Elizabeth,265052,265061,5
+elizabeth,Elizabeth,266335,266344,5
+elizabeth,Elizabeth,267234,267243,5
+elizabeth,Elizabeth,267714,267723,5
+elizabeth,Elizabeth,268190,268199,5
+elizabeth,Elizabeth,268889,268898,5
+elizabeth,Elizabeth,270234,270243,5
+elizabeth,Elizabeth,271274,271283,5
+elizabeth,Elizabeth,272143,272152,5
+elizabeth,Elizabeth,272560,272569,5
+elizabeth,Elizabeth,273157,273166,5
+elizabeth,Elizabeth,273779,273788,5
+elizabeth,Elizabeth,274920,274929,5
+elizabeth,Elizabeth,276205,276214,5
+elizabeth,Elizabeth,276379,276388,5
+elizabeth,Elizabeth,277664,277673,5
+elizabeth,Elizabeth,278675,278684,5
+elizabeth,Elizabeth,278924,278933,5
+elizabeth,Elizabeth,279563,279572,5
+elizabeth,Elizabeth,279815,279824,5
+elizabeth,Elizabeth,281774,281783,5
+elizabeth,Elizabeth,282809,282818,5
+elizabeth,Elizabeth,283248,283257,5
+elizabeth,Elizabeth,284363,284372,5
+elizabeth,Elizabeth,284881,284890,5
+elizabeth,Elizabeth,286417,286426,5
+elizabeth,Elizabeth,286669,286678,5
+elizabeth,Elizabeth,287731,287740,5
+elizabeth,Elizabeth,287969,287978,5
+elizabeth,Elizabeth,288420,288429,5
+elizabeth,Elizabeth,289720,289729,5
+elizabeth,Elizabeth,291873,291882,5
+elizabeth,Elizabeth,292018,292027,5
+elizabeth,Elizabeth,293714,293723,5
+elizabeth,Elizabeth,294505,294514,5
+elizabeth,Elizabeth,294850,294859,5
+elizabeth,Elizabeth,295847,295856,5
+elizabeth,Elizabeth,296479,296488,5
+elizabeth,Elizabeth,297307,297316,5
+elizabeth,Elizabeth,298064,298073,5
+elizabeth,Elizabeth,299609,299618,5
+elizabeth,Elizabeth,300145,300154,5
+elizabeth,Elizabeth,300554,300563,5
+elizabeth,Elizabeth,302596,302605,5
+elizabeth,Elizabeth,304763,304772,5
+elizabeth,Elizabeth,305154,305163,5
+elizabeth,Elizabeth,305871,305880,5
+elizabeth,Elizabeth,307572,307581,5
+elizabeth,Elizabeth,308144,308153,5
+elizabeth,Elizabeth,308840,308849,5
+elizabeth,Elizabeth,309246,309255,5
+elizabeth,Elizabeth,309632,309641,5
+elizabeth,Elizabeth,309716,309725,5
+elizabeth,Elizabeth,309921,309930,5
+elizabeth,Elizabeth,312155,312164,5
+elizabeth,Elizabeth,313465,313474,5
+elizabeth,Elizabeth,313734,313743,5
+elizabeth,Elizabeth,314540,314549,5
+elizabeth,Elizabeth,315326,315335,5
+elizabeth,Elizabeth,316243,316252,5
+elizabeth,Elizabeth,317675,317684,5
+elizabeth,Elizabeth,317734,317743,5
+elizabeth,Elizabeth,318075,318084,5
+elizabeth,Elizabeth,318427,318436,5
+elizabeth,Elizabeth,321919,321928,5
+elizabeth,Elizabeth,323716,323725,5
+elizabeth,Elizabeth,325170,325179,5
+elizabeth,Elizabeth,328827,328836,5
+elizabeth,Elizabeth,329429,329438,5
+elizabeth,Elizabeth,330882,330891,5
+elizabeth,Elizabeth,331169,331178,5
+elizabeth,Elizabeth,333789,333798,5
+elizabeth,Elizabeth,335744,335753,5
+elizabeth,Elizabeth,336645,336654,5
+elizabeth,Elizabeth,338060,338069,5
+elizabeth,Elizabeth,339510,339519,5
+elizabeth,Elizabeth,340843,340852,5
+elizabeth,Elizabeth,342715,342724,5
+elizabeth,Elizabeth,359069,359078,5
+elizabeth,Elizabeth,370727,370736,5
+elizabeth,Elizabeth,371522,371531,5
+elizabeth,Elizabeth,372944,372953,5
+elizabeth,Elizabeth,375224,375233,5
+elizabeth,Elizabeth,376597,376606,5
+elizabeth,Elizabeth,378749,378758,5
+elizabeth,Elizabeth,379602,379611,5
+elizabeth,Elizabeth,380825,380834,5
+elizabeth,Elizabeth,381595,381604,5
+elizabeth,Elizabeth,382402,382411,5
+elizabeth,Elizabeth,383104,383113,5
+elizabeth,Elizabeth,383512,383521,5
+elizabeth,Elizabeth,383794,383803,5
+elizabeth,Elizabeth,386201,386210,5
+elizabeth,Elizabeth,386552,386561,5
+elizabeth,Elizabeth,386992,387001,5
+elizabeth,Elizabeth,387629,387638,5
+elizabeth,Elizabeth,387969,387978,5
+elizabeth,Elizabeth,390427,390436,5
+elizabeth,Elizabeth,390700,390709,5
+elizabeth,Elizabeth,392570,392579,5
+elizabeth,Elizabeth,393251,393260,5
+elizabeth,Elizabeth,393507,393516,5
+elizabeth,Elizabeth,393921,393930,5
+elizabeth,Elizabeth,394402,394411,5
+elizabeth,Elizabeth,395366,395375,5
+elizabeth,Elizabeth,399103,399112,5
+elizabeth,Elizabeth,401574,401583,5
+elizabeth,Elizabeth,404078,404087,5
+elizabeth,Elizabeth,405440,405449,5
+elizabeth,Elizabeth,405520,405529,5
+elizabeth,Elizabeth,406442,406451,5
+elizabeth,Elizabeth,409199,409208,5
+elizabeth,Elizabeth,410780,410789,5
+elizabeth,Elizabeth,411892,411901,5
+elizabeth,Elizabeth,413116,413125,5
+elizabeth,Elizabeth,414578,414587,5
+elizabeth,Elizabeth,414931,414940,5
+elizabeth,Elizabeth,415749,415758,5
+elizabeth,Elizabeth,416909,416918,5
+elizabeth,Elizabeth,417735,417744,5
+elizabeth,Elizabeth,420902,420911,5
+elizabeth,Elizabeth,422232,422241,5
+elizabeth,Elizabeth,423386,423395,5
+elizabeth,Elizabeth,424269,424278,5
+elizabeth,Elizabeth,424555,424564,5
+elizabeth,Elizabeth,424813,424822,5
+elizabeth,Elizabeth,425301,425310,5
+elizabeth,Elizabeth,426697,426706,5
+elizabeth,Elizabeth,427081,427090,5
+elizabeth,Elizabeth,427752,427761,5
+elizabeth,Elizabeth,428338,428347,5
+elizabeth,Elizabeth,428673,428682,5
+elizabeth,Elizabeth,429322,429331,5
+elizabeth,Elizabeth,430300,430309,5
+elizabeth,Elizabeth,430915,430924,5
+elizabeth,Elizabeth,431324,431333,5
+elizabeth,Elizabeth,431440,431449,5
+elizabeth,Elizabeth,431838,431847,5
+elizabeth,Elizabeth,432750,432759,5
+elizabeth,Elizabeth,432973,432982,5
+elizabeth,Elizabeth,433173,433182,5
+elizabeth,Elizabeth,434030,434039,5
+elizabeth,Elizabeth,434257,434266,5
+elizabeth,Elizabeth,435182,435191,5
+elizabeth,Elizabeth,435757,435766,5
+elizabeth,Elizabeth,436208,436217,5
+elizabeth,Elizabeth,436558,436567,5
+elizabeth,Elizabeth,437065,437074,5
+elizabeth,Elizabeth,438165,438174,5
+elizabeth,Elizabeth,438760,438769,5
+elizabeth,Elizabeth,440274,440283,5
+elizabeth,Elizabeth,441697,441706,5
+elizabeth,Elizabeth,443599,443608,5
+elizabeth,Elizabeth,444346,444355,5
+elizabeth,Elizabeth,444587,444596,5
+elizabeth,Elizabeth,446320,446329,5
+elizabeth,Elizabeth,447037,447046,5
+elizabeth,Elizabeth,447090,447099,5
+elizabeth,Elizabeth,447846,447855,5
+elizabeth,Elizabeth,448760,448769,5
+elizabeth,Elizabeth,449695,449704,5
+elizabeth,Elizabeth,450751,450760,5
+elizabeth,Elizabeth,451435,451444,5
+elizabeth,Elizabeth,451677,451686,5
+elizabeth,Elizabeth,452099,452108,5
+elizabeth,Elizabeth,452826,452835,5
+elizabeth,Elizabeth,454041,454050,5
+elizabeth,Elizabeth,454266,454275,5
+elizabeth,Elizabeth,454869,454878,5
+elizabeth,Elizabeth,455539,455548,5
+elizabeth,Elizabeth,456192,456201,5
+elizabeth,Elizabeth,456577,456586,5
+elizabeth,Elizabeth,456833,456842,5
+elizabeth,Elizabeth,457278,457287,5
+elizabeth,Elizabeth,458211,458220,5
+elizabeth,Elizabeth,459889,459898,5
+elizabeth,Elizabeth,462031,462040,5
+elizabeth,Elizabeth,462422,462431,5
+elizabeth,Elizabeth,462546,462555,5
+elizabeth,Elizabeth,464773,464782,5
+elizabeth,Elizabeth,467366,467375,5
+elizabeth,Elizabeth,467689,467698,5
+elizabeth,Elizabeth,469204,469213,5
+elizabeth,Elizabeth,469410,469419,5
+elizabeth,Elizabeth,470125,470134,5
+elizabeth,Elizabeth,470825,470834,5
+elizabeth,Elizabeth,471371,471380,5
+elizabeth,Elizabeth,472058,472067,5
+elizabeth,Elizabeth,472531,472540,5
+elizabeth,Elizabeth,473168,473177,5
+elizabeth,Elizabeth,473609,473618,5
+elizabeth,Elizabeth,473733,473742,5
+elizabeth,Elizabeth,474036,474045,5
+elizabeth,Elizabeth,474437,474446,5
+elizabeth,Elizabeth,474703,474712,5
+elizabeth,Elizabeth,474904,474913,5
+elizabeth,Elizabeth,476251,476260,5
+elizabeth,Elizabeth,477273,477282,5
+elizabeth,Elizabeth,477628,477637,5
+elizabeth,Elizabeth,477797,477806,5
+elizabeth,Elizabeth,478184,478193,5
+elizabeth,Elizabeth,480456,480465,5
+elizabeth,Elizabeth,484560,484569,5
+elizabeth,Elizabeth,485371,485380,5
+elizabeth,Elizabeth,488243,488252,5
+elizabeth,Elizabeth,488975,488984,5
+elizabeth,Elizabeth,490163,490172,5
+elizabeth,Elizabeth,490647,490656,5
+elizabeth,Elizabeth,493747,493756,5
+elizabeth,Elizabeth,494486,494495,5
+elizabeth,Elizabeth,494961,494970,5
+elizabeth,Elizabeth,495189,495198,5
+elizabeth,Elizabeth,495844,495853,5
+elizabeth,Elizabeth,498264,498273,5
+elizabeth,Elizabeth,499855,499864,5
+elizabeth,Elizabeth,502487,502496,5
+elizabeth,Elizabeth,502789,502798,5
+elizabeth,Elizabeth,503224,503233,5
+elizabeth,Elizabeth,503412,503421,5
+elizabeth,Elizabeth,504371,504380,5
+elizabeth,Elizabeth,504830,504839,5
+elizabeth,Elizabeth,509456,509465,5
+elizabeth,Elizabeth,509759,509768,5
+elizabeth,Elizabeth,510152,510161,5
+elizabeth,Elizabeth,510446,510455,5
+elizabeth,Elizabeth,510652,510661,5
+elizabeth,Elizabeth,513411,513420,5
+elizabeth,Elizabeth,514737,514746,5
+elizabeth,Elizabeth,515217,515226,5
+elizabeth,Elizabeth,516447,516456,5
+elizabeth,Elizabeth,519552,519561,5
+elizabeth,Elizabeth,521465,521474,5
+elizabeth,Elizabeth,522596,522605,5
+elizabeth,Elizabeth,527129,527138,5
+elizabeth,Elizabeth,527422,527431,5
+elizabeth,Elizabeth,527680,527689,5
+elizabeth,Elizabeth,528299,528308,5
+elizabeth,Elizabeth,528590,528599,5
+elizabeth,Elizabeth,530526,530535,5
+elizabeth,Elizabeth,531869,531878,5
+elizabeth,Elizabeth,532271,532280,5
+elizabeth,Elizabeth,532932,532941,5
+elizabeth,Elizabeth,534865,534874,5
+elizabeth,Elizabeth,535105,535114,5
+elizabeth,Elizabeth,535586,535595,5
+elizabeth,Elizabeth,536220,536229,5
+elizabeth,Elizabeth,536976,536985,5
+elizabeth,Elizabeth,537655,537664,5
+elizabeth,Elizabeth,538669,538678,5
+elizabeth,Elizabeth,539170,539179,5
+elizabeth,Elizabeth,542421,542430,5
+elizabeth,Elizabeth,548852,548861,5
+elizabeth,Elizabeth,554736,554745,5
+elizabeth,Elizabeth,555445,555454,5
+elizabeth,Elizabeth,555709,555718,5
+elizabeth,Elizabeth,556898,556907,5
+elizabeth,Elizabeth,557554,557563,5
+elizabeth,Elizabeth,557988,557997,5
+elizabeth,Elizabeth,558732,558741,5
+elizabeth,Elizabeth,559246,559255,5
+elizabeth,Elizabeth,561053,561062,5
+elizabeth,Elizabeth,561671,561680,5
+elizabeth,Elizabeth,562580,562589,5
+elizabeth,Elizabeth,562793,562802,5
+elizabeth,Elizabeth,564628,564637,5
+elizabeth,Elizabeth,565017,565026,5
+elizabeth,Elizabeth,565232,565241,5
+elizabeth,Elizabeth,566711,566720,5
+elizabeth,Elizabeth,566759,566768,5
+elizabeth,Elizabeth,566914,566923,5
+elizabeth,Elizabeth,576618,576627,5
+elizabeth,Elizabeth,577833,577842,5
+elizabeth,Elizabeth,581732,581741,5
+elizabeth,Elizabeth,581988,581997,5
+elizabeth,Elizabeth,584423,584432,5
+elizabeth,Elizabeth,585743,585752,5
+elizabeth,Elizabeth,587538,587547,5
+elizabeth,Elizabeth,588084,588093,5
+elizabeth,Elizabeth,588743,588752,5
+elizabeth,Elizabeth,590626,590635,5
+elizabeth,Elizabeth,591373,591382,5
+elizabeth,Elizabeth,591973,591982,5
+elizabeth,Elizabeth,592474,592483,5
+elizabeth,Elizabeth,593867,593876,5
+elizabeth,Elizabeth,594099,594108,5
+elizabeth,Elizabeth,594891,594900,5
+elizabeth,Elizabeth,597014,597023,5
+elizabeth,Elizabeth,597616,597625,5
+elizabeth,Elizabeth,598208,598217,5
+elizabeth,Elizabeth,600470,600479,5
+elizabeth,Elizabeth,601229,601238,5
+elizabeth,Elizabeth,601572,601581,5
+elizabeth,Elizabeth,602261,602270,5
+elizabeth,Elizabeth,602637,602646,5
+elizabeth,Elizabeth,603067,603076,5
+elizabeth,Elizabeth,603831,603840,5
+elizabeth,Elizabeth,604801,604810,5
+elizabeth,Elizabeth,606198,606207,5
+elizabeth,Elizabeth,606319,606328,5
+elizabeth,Elizabeth,608283,608292,5
+elizabeth,Elizabeth,608396,608405,5
+elizabeth,Elizabeth,611075,611084,5
+elizabeth,Elizabeth,611163,611172,5
+elizabeth,Elizabeth,611612,611621,5
+elizabeth,Elizabeth,611836,611845,5
+elizabeth,Elizabeth,612027,612036,5
+elizabeth,Elizabeth,612921,612930,5
+elizabeth,Elizabeth,613707,613716,5
+elizabeth,Elizabeth,614490,614499,5
+elizabeth,Elizabeth,614703,614712,5
+elizabeth,Elizabeth,614978,614987,5
+elizabeth,Elizabeth,615725,615734,5
+elizabeth,Elizabeth,616424,616433,5
+elizabeth,Elizabeth,616717,616726,5
+elizabeth,Elizabeth,619538,619547,5
+elizabeth,Elizabeth,619850,619859,5
+elizabeth,Elizabeth,620167,620176,5
+elizabeth,Elizabeth,620660,620669,5
+elizabeth,Elizabeth,621197,621206,5
+elizabeth,Elizabeth,623519,623528,5
+elizabeth,Elizabeth,623622,623631,5
+elizabeth,Elizabeth,623721,623730,5
+elizabeth,Elizabeth,624039,624048,5
+elizabeth,Elizabeth,624124,624133,5
+elizabeth,Elizabeth,625032,625041,5
+elizabeth,Elizabeth,625417,625426,5
+elizabeth,Elizabeth,625743,625752,5
+elizabeth,Elizabeth,626076,626085,5
+elizabeth,Elizabeth,626195,626204,5
+elizabeth,Elizabeth,626644,626653,5
+elizabeth,Elizabeth,627701,627710,5
+elizabeth,Elizabeth,627975,627984,5
+elizabeth,Elizabeth,631154,631163,5
+elizabeth,Elizabeth,632874,632883,5
+elizabeth,Elizabeth,633014,633023,5
+elizabeth,Elizabeth,635995,636004,5
+elizabeth,Elizabeth,636918,636927,5
+elizabeth,Elizabeth,637627,637636,5
+elizabeth,Elizabeth,637841,637850,5
+elizabeth,Elizabeth,638226,638235,5
+elizabeth,Elizabeth,639123,639132,5
+elizabeth,Elizabeth,639763,639772,5
+elizabeth,Elizabeth,640877,640886,5
+elizabeth,Elizabeth,641821,641830,5
+elizabeth,Elizabeth,642923,642932,5
+elizabeth,Elizabeth,643438,643447,5
+elizabeth,Elizabeth,644237,644246,5
+elizabeth,Elizabeth,646099,646108,5
+elizabeth,Elizabeth,646863,646872,5
+elizabeth,Elizabeth,647346,647355,5
+elizabeth,Elizabeth,647950,647959,5
+elizabeth,Elizabeth,648083,648092,5
+elizabeth,Elizabeth,648260,648269,5
+elizabeth,Elizabeth,649823,649832,5
+elizabeth,Elizabeth,650138,650147,5
+elizabeth,Elizabeth,650698,650707,5
+elizabeth,Elizabeth,651419,651428,5
+elizabeth,Elizabeth,652060,652069,5
+elizabeth,Elizabeth,652629,652638,5
+elizabeth,Elizabeth,656321,656330,5
+elizabeth,Elizabeth,658761,658770,5
+elizabeth,Elizabeth,659539,659548,5
+elizabeth,Elizabeth,660550,660559,5
+elizabeth,Elizabeth,661070,661079,5
+elizabeth,Elizabeth,661600,661609,5
+elizabeth,Elizabeth,662879,662888,5
+elizabeth,Elizabeth,664875,664884,5
+elizabeth,Elizabeth,665681,665690,5
+elizabeth,Elizabeth,666505,666514,5
+elizabeth,Elizabeth,666997,667006,5
+elizabeth,Elizabeth,669057,669066,5
+elizabeth,Elizabeth,670153,670162,5
+elizabeth,Elizabeth,671720,671729,5
+elizabeth,Elizabeth,673343,673352,5
+elizabeth,Elizabeth,673909,673918,5
+elizabeth,Elizabeth,674333,674342,5
+elizabeth,Elizabeth,674680,674689,5
+elizabeth,Elizabeth,678722,678731,5
+elizabeth,Elizabeth,679118,679127,5
+elizabeth,Elizabeth,680709,680718,5
+elizabeth,Elizabeth,681626,681635,5
+elizabeth,Elizabeth,682053,682062,5
+elizabeth,Elizabeth,682972,682981,5
+elizabeth,Elizabeth,684703,684712,5
+elizabeth,Elizabeth,686014,686023,5
+elizabeth,Elizabeth,686277,686286,5
+elizabeth,Elizabeth,687035,687044,5
+elizabeth,Elizabeth,688172,688181,5
+elizabeth,Elizabeth,688807,688816,5
+elizabeth,Elizabeth,689046,689055,5
+elizabeth,Elizabeth,689394,689403,5
+elizabeth,Elizabeth,689836,689845,5
+elizabeth,Elizabeth,689915,689924,5
+elizabeth,Elizabeth,690482,690491,5
+mr. darcy,Mr. Darcy,11686,11695,19
+mr. darcy,Mr. Darcy,12754,12763,19
+mr. darcy,Mr. Darcy,13426,13435,19
+mr. darcy,Mr. Darcy,14331,14340,19
+mr. darcy,Mr. Darcy,15021,15030,19
+mr. darcy,Mr. Darcy,17959,17968,19
+mr. darcy,Mr. Darcy,26759,26768,19
+mr. darcy,Mr. Darcy,27234,27243,19
+mr. darcy,Mr. Darcy,29178,29187,19
+mr. darcy,Mr. Darcy,34515,34524,19
+mr. darcy,Mr. Darcy,35656,35665,19
+mr. darcy,Mr. Darcy,35779,35788,19
+mr. darcy,Mr. Darcy,36270,36279,19
+mr. darcy,Mr. Darcy,37066,37075,19
+mr. darcy,Mr. Darcy,38204,38213,19
+mr. darcy,Mr. Darcy,38513,38522,19
+mr. darcy,Mr. Darcy,38970,38979,19
+mr. darcy,Mr. Darcy,39332,39341,19
+mr. darcy,Mr. Darcy,39788,39797,19
+mr. darcy,Mr. Darcy,40003,40012,19
+mr. darcy,Mr. Darcy,40301,40310,19
+mr. darcy,Mr. Darcy,40730,40739,19
+mr. darcy,Mr. Darcy,41854,41863,19
+mr. darcy,Mr. Darcy,51830,51839,19
+mr. darcy,Mr. Darcy,54972,54981,19
+mr. darcy,Mr. Darcy,56318,56327,19
+mr. darcy,Mr. Darcy,56833,56842,19
+mr. darcy,Mr. Darcy,59686,59695,19
+mr. darcy,Mr. Darcy,69632,69641,19
+mr. darcy,Mr. Darcy,70126,70135,19
+mr. darcy,Mr. Darcy,74562,74571,19
+mr. darcy,Mr. Darcy,75016,75025,19
+mr. darcy,Mr. Darcy,76786,76795,19
+mr. darcy,Mr. Darcy,79810,79819,19
+mr. darcy,Mr. Darcy,80587,80596,19
+mr. darcy,Mr. Darcy,82014,82023,19
+mr. darcy,Mr. Darcy,82621,82630,19
+mr. darcy,Mr. Darcy,82668,82677,19
+mr. darcy,Mr. Darcy,83202,83211,19
+mr. darcy,Mr. Darcy,83813,83822,19
+mr. darcy,Mr. Darcy,86571,86580,19
+mr. darcy,Mr. Darcy,86651,86660,19
+mr. darcy,Mr. Darcy,88698,88707,19
+mr. darcy,Mr. Darcy,89269,89278,19
+mr. darcy,Mr. Darcy,91658,91667,19
+mr. darcy,Mr. Darcy,92387,92396,19
+mr. darcy,Mr. Darcy,93538,93547,19
+mr. darcy,Mr. Darcy,93568,93577,19
+mr. darcy,Mr. Darcy,94700,94709,19
+mr. darcy,Mr. Darcy,94820,94829,19
+mr. darcy,Mr. Darcy,97954,97963,19
+mr. darcy,Mr. Darcy,122032,122041,19
+mr. darcy,Mr. Darcy,122458,122467,19
+mr. darcy,Mr. Darcy,130096,130105,19
+mr. darcy,Mr. Darcy,130360,130369,19
+mr. darcy,Mr. Darcy,131050,131059,19
+mr. darcy,Mr. Darcy,132668,132677,19
+mr. darcy,Mr. Darcy,133129,133138,19
+mr. darcy,Mr. Darcy,135172,135181,19
+mr. darcy,Mr. Darcy,136668,136677,19
+mr. darcy,Mr. Darcy,138146,138155,19
+mr. darcy,Mr. Darcy,138195,138204,19
+mr. darcy,Mr. Darcy,138355,138364,19
+mr. darcy,Mr. Darcy,138606,138615,19
+mr. darcy,Mr. Darcy,140737,140746,19
+mr. darcy,Mr. Darcy,140773,140782,19
+mr. darcy,Mr. Darcy,142620,142629,19
+mr. darcy,Mr. Darcy,145229,145238,19
+mr. darcy,Mr. Darcy,146403,146412,19
+mr. darcy,Mr. Darcy,146938,146947,19
+mr. darcy,Mr. Darcy,148659,148668,19
+mr. darcy,Mr. Darcy,152993,153002,19
+mr. darcy,Mr. Darcy,155172,155181,19
+mr. darcy,Mr. Darcy,156045,156054,19
+mr. darcy,Mr. Darcy,156596,156605,19
+mr. darcy,Mr. Darcy,159017,159026,19
+mr. darcy,Mr. Darcy,159575,159584,19
+mr. darcy,Mr. Darcy,161053,161062,19
+mr. darcy,Mr. Darcy,162993,163002,19
+mr. darcy,Mr. Darcy,163142,163151,19
+mr. darcy,Mr. Darcy,163236,163245,19
+mr. darcy,Mr. Darcy,163933,163942,19
+mr. darcy,Mr. Darcy,164331,164340,19
+mr. darcy,Mr. Darcy,165299,165308,19
+mr. darcy,Mr. Darcy,165470,165479,19
+mr. darcy,Mr. Darcy,165686,165695,19
+mr. darcy,Mr. Darcy,165865,165874,19
+mr. darcy,Mr. Darcy,166020,166029,19
+mr. darcy,Mr. Darcy,167823,167832,19
+mr. darcy,Mr. Darcy,168123,168132,19
+mr. darcy,Mr. Darcy,168374,168383,19
+mr. darcy,Mr. Darcy,169533,169542,19
+mr. darcy,Mr. Darcy,169939,169948,19
+mr. darcy,Mr. Darcy,170154,170163,19
+mr. darcy,Mr. Darcy,170440,170449,19
+mr. darcy,Mr. Darcy,173077,173086,19
+mr. darcy,Mr. Darcy,173175,173184,19
+mr. darcy,Mr. Darcy,173423,173432,19
+mr. darcy,Mr. Darcy,173731,173740,19
+mr. darcy,Mr. Darcy,177082,177091,19
+mr. darcy,Mr. Darcy,177905,177914,19
+mr. darcy,Mr. Darcy,178963,178972,19
+mr. darcy,Mr. Darcy,202886,202895,19
+mr. darcy,Mr. Darcy,207287,207296,19
+mr. darcy,Mr. Darcy,209334,209343,19
+mr. darcy,Mr. Darcy,233147,233156,19
+mr. darcy,Mr. Darcy,242650,242659,19
+mr. darcy,Mr. Darcy,242822,242831,19
+mr. darcy,Mr. Darcy,243151,243160,19
+mr. darcy,Mr. Darcy,248422,248431,19
+mr. darcy,Mr. Darcy,248540,248549,19
+mr. darcy,Mr. Darcy,251534,251543,19
+mr. darcy,Mr. Darcy,253344,253353,19
+mr. darcy,Mr. Darcy,258464,258473,19
+mr. darcy,Mr. Darcy,262581,262590,19
+mr. darcy,Mr. Darcy,285120,285129,19
+mr. darcy,Mr. Darcy,298113,298122,19
+mr. darcy,Mr. Darcy,299136,299145,19
+mr. darcy,Mr. Darcy,299550,299559,19
+mr. darcy,Mr. Darcy,299915,299924,19
+mr. darcy,Mr. Darcy,301838,301847,19
+mr. darcy,Mr. Darcy,302782,302791,19
+mr. darcy,Mr. Darcy,303697,303706,19
+mr. darcy,Mr. Darcy,304629,304638,19
+mr. darcy,Mr. Darcy,305293,305302,19
+mr. darcy,Mr. Darcy,306247,306256,19
+mr. darcy,Mr. Darcy,307109,307118,19
+mr. darcy,Mr. Darcy,310393,310402,19
+mr. darcy,Mr. Darcy,310408,310417,19
+mr. darcy,Mr. Darcy,311022,311031,19
+mr. darcy,Mr. Darcy,314372,314381,19
+mr. darcy,Mr. Darcy,314973,314982,19
+mr. darcy,Mr. Darcy,316563,316572,19
+mr. darcy,Mr. Darcy,318300,318309,19
+mr. darcy,Mr. Darcy,318486,318495,19
+mr. darcy,Mr. Darcy,320022,320031,19
+mr. darcy,Mr. Darcy,320874,320883,19
+mr. darcy,Mr. Darcy,323734,323743,19
+mr. darcy,Mr. Darcy,324877,324886,19
+mr. darcy,Mr. Darcy,325555,325564,19
+mr. darcy,Mr. Darcy,326114,326123,19
+mr. darcy,Mr. Darcy,326579,326588,19
+mr. darcy,Mr. Darcy,327698,327707,19
+mr. darcy,Mr. Darcy,327940,327949,19
+mr. darcy,Mr. Darcy,328425,328434,19
+mr. darcy,Mr. Darcy,328904,328913,19
+mr. darcy,Mr. Darcy,329565,329574,19
+mr. darcy,Mr. Darcy,330608,330617,19
+mr. darcy,Mr. Darcy,333395,333404,19
+mr. darcy,Mr. Darcy,334703,334712,19
+mr. darcy,Mr. Darcy,338203,338212,19
+mr. darcy,Mr. Darcy,339876,339885,19
+mr. darcy,Mr. Darcy,341251,341260,19
+mr. darcy,Mr. Darcy,342005,342014,19
+mr. darcy,Mr. Darcy,342256,342265,19
+mr. darcy,Mr. Darcy,352580,352589,19
+mr. darcy,Mr. Darcy,359085,359094,19
+mr. darcy,Mr. Darcy,362596,362605,19
+mr. darcy,Mr. Darcy,363561,363570,19
+mr. darcy,Mr. Darcy,363694,363703,19
+mr. darcy,Mr. Darcy,364736,364745,19
+mr. darcy,Mr. Darcy,365356,365365,19
+mr. darcy,Mr. Darcy,365372,365381,19
+mr. darcy,Mr. Darcy,365748,365757,19
+mr. darcy,Mr. Darcy,366490,366499,19
+mr. darcy,Mr. Darcy,368417,368426,19
+mr. darcy,Mr. Darcy,370516,370525,19
+mr. darcy,Mr. Darcy,374481,374490,19
+mr. darcy,Mr. Darcy,375571,375580,19
+mr. darcy,Mr. Darcy,377249,377258,19
+mr. darcy,Mr. Darcy,384145,384154,19
+mr. darcy,Mr. Darcy,393789,393798,19
+mr. darcy,Mr. Darcy,394029,394038,19
+mr. darcy,Mr. Darcy,395692,395701,19
+mr. darcy,Mr. Darcy,395924,395933,19
+mr. darcy,Mr. Darcy,396777,396786,19
+mr. darcy,Mr. Darcy,397661,397670,19
+mr. darcy,Mr. Darcy,398192,398201,19
+mr. darcy,Mr. Darcy,398488,398497,19
+mr. darcy,Mr. Darcy,399456,399465,19
+mr. darcy,Mr. Darcy,404192,404201,19
+mr. darcy,Mr. Darcy,412075,412084,19
+mr. darcy,Mr. Darcy,412725,412734,19
+mr. darcy,Mr. Darcy,413886,413895,19
+mr. darcy,Mr. Darcy,425386,425395,19
+mr. darcy,Mr. Darcy,431427,431436,19
+mr. darcy,Mr. Darcy,434076,434085,19
+mr. darcy,Mr. Darcy,436708,436717,19
+mr. darcy,Mr. Darcy,439130,439139,19
+mr. darcy,Mr. Darcy,442020,442029,19
+mr. darcy,Mr. Darcy,444433,444442,19
+mr. darcy,Mr. Darcy,446723,446732,19
+mr. darcy,Mr. Darcy,447931,447940,19
+mr. darcy,Mr. Darcy,450681,450690,19
+mr. darcy,Mr. Darcy,454158,454167,19
+mr. darcy,Mr. Darcy,454296,454305,19
+mr. darcy,Mr. Darcy,456923,456932,19
+mr. darcy,Mr. Darcy,457856,457865,19
+mr. darcy,Mr. Darcy,460242,460251,19
+mr. darcy,Mr. Darcy,461604,461613,19
+mr. darcy,Mr. Darcy,463225,463234,19
+mr. darcy,Mr. Darcy,463387,463396,19
+mr. darcy,Mr. Darcy,463773,463782,19
+mr. darcy,Mr. Darcy,464732,464741,19
+mr. darcy,Mr. Darcy,470926,470935,19
+mr. darcy,Mr. Darcy,471947,471956,19
+mr. darcy,Mr. Darcy,474600,474609,19
+mr. darcy,Mr. Darcy,475186,475195,19
+mr. darcy,Mr. Darcy,475404,475413,19
+mr. darcy,Mr. Darcy,484759,484768,19
+mr. darcy,Mr. Darcy,494043,494052,19
+mr. darcy,Mr. Darcy,499933,499942,19
+mr. darcy,Mr. Darcy,500669,500678,19
+mr. darcy,Mr. Darcy,548954,548963,19
+mr. darcy,Mr. Darcy,549694,549703,19
+mr. darcy,Mr. Darcy,564569,564578,19
+mr. darcy,Mr. Darcy,564607,564616,19
+mr. darcy,Mr. Darcy,565414,565423,19
+mr. darcy,Mr. Darcy,571777,571786,19
+mr. darcy,Mr. Darcy,572506,572515,19
+mr. darcy,Mr. Darcy,572700,572709,19
+mr. darcy,Mr. Darcy,576686,576695,19
+mr. darcy,Mr. Darcy,578033,578042,19
+mr. darcy,Mr. Darcy,580499,580508,19
+mr. darcy,Mr. Darcy,591448,591457,19
+mr. darcy,Mr. Darcy,591793,591802,19
+mr. darcy,Mr. Darcy,592352,592361,19
+mr. darcy,Mr. Darcy,597056,597065,19
+mr. darcy,Mr. Darcy,597659,597668,19
+mr. darcy,Mr. Darcy,600610,600619,19
+mr. darcy,Mr. Darcy,602870,602879,19
+mr. darcy,Mr. Darcy,603369,603378,19
+mr. darcy,Mr. Darcy,607356,607365,19
+mr. darcy,Mr. Darcy,613007,613016,19
+mr. darcy,Mr. Darcy,627412,627421,19
+mr. darcy,Mr. Darcy,629358,629367,19
+mr. darcy,Mr. Darcy,630584,630593,19
+mr. darcy,Mr. Darcy,631182,631191,19
+mr. darcy,Mr. Darcy,633675,633684,19
+mr. darcy,Mr. Darcy,636125,636134,19
+mr. darcy,Mr. Darcy,638116,638125,19
+mr. darcy,Mr. Darcy,644104,644113,19
+mr. darcy,Mr. Darcy,647074,647083,19
+mr. darcy,Mr. Darcy,648487,648496,19
+mr. darcy,Mr. Darcy,662211,662220,19
+mr. darcy,Mr. Darcy,665345,665354,19
+mr. darcy,Mr. Darcy,666110,666119,19
+mr. darcy,Mr. Darcy,666229,666238,19
+mr. darcy,Mr. Darcy,667430,667439,19
+mr. darcy,Mr. Darcy,667645,667654,19
+mr. darcy,Mr. Darcy,668039,668048,19
+mr. darcy,Mr. Darcy,668835,668844,19
+mr. darcy,Mr. Darcy,670265,670274,19
+mr. darcy,Mr. Darcy,670887,670896,19
+mr. darcy,Mr. Darcy,672705,672714,19
+mr. darcy,Mr. Darcy,673752,673761,19
+mr. darcy,Mr. Darcy,674745,674754,19
+mr. darcy,Mr. Darcy,679087,679096,19
+mr. darcy,Mr. Darcy,680328,680337,19
+mr. darcy,Mr. Darcy,680474,680483,19
+mr. darcy,Mr. Darcy,680749,680758,19
+mr. darcy,Mr. Darcy,682169,682178,19
+mr. darcy,Mr. Darcy,686504,686513,19
+mr. darcy,Mr. Darcy,686946,686955,19
+miss king,Miss King,17111,17120,58
+miss king,Miss King,264162,264171,58
+miss king,Miss King,268934,268943,58
+miss king,Miss King,269402,269411,58
+miss king,Miss King,365958,365967,58
+mrs. hill,Mrs. Hill,531049,531058,29
+mrs. hill,Mrs. Hill,542375,542384,29
+mrs. hill,Mrs. Hill,560028,560037,29
+mr. jones,Mr. Jones,49165,49174,69
+mr. jones,Mr. Jones,64217,64226,69
+mr. jones,Mr. Jones,64528,64537,69
+mr. jones,Mr. Jones,66388,66397,69
+mr. jones,Mr. Jones,123323,123332,69
+charlotte,Charlotte,25740,25749,1
+charlotte,Charlotte,26747,26756,1
+charlotte,Charlotte,30940,30949,1
+charlotte,Charlotte,33578,33587,1
+charlotte,Charlotte,34224,34233,1
+charlotte,Charlotte,35685,35694,1
+charlotte,Charlotte,70688,70697,1
+charlotte,Charlotte,71063,71072,1
+charlotte,Charlotte,155401,155410,1
+charlotte,Charlotte,155715,155724,1
+charlotte,Charlotte,197617,197626,1
+charlotte,Charlotte,198146,198155,1
+charlotte,Charlotte,199747,199756,1
+charlotte,Charlotte,213010,213019,1
+charlotte,Charlotte,213170,213179,1
+charlotte,Charlotte,214079,214088,1
+charlotte,Charlotte,216029,216038,1
+charlotte,Charlotte,216060,216069,1
+charlotte,Charlotte,220283,220292,1
+charlotte,Charlotte,220556,220565,1
+charlotte,Charlotte,221309,221318,1
+charlotte,Charlotte,221903,221912,1
+charlotte,Charlotte,222254,222263,1
+charlotte,Charlotte,222460,222469,1
+charlotte,Charlotte,223948,223957,1
+charlotte,Charlotte,226369,226378,1
+charlotte,Charlotte,226563,226572,1
+charlotte,Charlotte,227771,227780,1
+charlotte,Charlotte,230659,230668,1
+charlotte,Charlotte,236763,236772,1
+charlotte,Charlotte,237049,237058,1
+charlotte,Charlotte,237442,237451,1
+charlotte,Charlotte,243321,243330,1
+charlotte,Charlotte,255588,255597,1
+charlotte,Charlotte,256032,256041,1
+charlotte,Charlotte,256691,256700,1
+charlotte,Charlotte,256985,256994,1
+charlotte,Charlotte,263466,263475,1
+charlotte,Charlotte,265141,265150,1
+charlotte,Charlotte,265339,265348,1
+charlotte,Charlotte,265785,265794,1
+charlotte,Charlotte,272838,272847,1
+charlotte,Charlotte,274416,274425,1
+charlotte,Charlotte,274489,274498,1
+charlotte,Charlotte,274976,274985,1
+charlotte,Charlotte,275916,275925,1
+charlotte,Charlotte,276220,276229,1
+charlotte,Charlotte,276342,276351,1
+charlotte,Charlotte,277069,277078,1
+charlotte,Charlotte,277359,277368,1
+charlotte,Charlotte,277726,277735,1
+charlotte,Charlotte,279359,279368,1
+charlotte,Charlotte,279433,279442,1
+charlotte,Charlotte,279721,279730,1
+charlotte,Charlotte,280201,280210,1
+charlotte,Charlotte,286756,286765,1
+charlotte,Charlotte,287464,287473,1
+charlotte,Charlotte,288627,288636,1
+charlotte,Charlotte,293821,293830,1
+charlotte,Charlotte,294894,294903,1
+charlotte,Charlotte,295214,295223,1
+charlotte,Charlotte,295638,295647,1
+charlotte,Charlotte,297428,297437,1
+charlotte,Charlotte,299331,299340,1
+charlotte,Charlotte,314884,314893,1
+charlotte,Charlotte,315178,315187,1
+charlotte,Charlotte,315394,315403,1
+charlotte,Charlotte,340765,340774,1
+charlotte,Charlotte,368799,368808,1
+charlotte,Charlotte,379744,379753,1
+charlotte,Charlotte,381399,381408,1
+charlotte,Charlotte,381900,381909,1
+charlotte,Charlotte,401840,401849,1
+charlotte,Charlotte,523614,523623,1
+charlotte,Charlotte,625100,625109,1
+charlotte,Charlotte,645788,645797,1
+charlotte,Charlotte,681886,681895,1
+mary king,Mary King,387493,387502,58
+mary king,Mary King,387603,387612,58
+miss pope,Miss Pope,290885,290894,59
+mr. hurst,Mr. Hurst,11631,11640,22
+mr. hurst,Mr. Hurst,51862,51871,22
+mr. hurst,Mr. Hurst,55023,55032,22
+mr. hurst,Mr. Hurst,58607,58616,22
+mr. hurst,Mr. Hurst,63321,63330,22
+mr. hurst,Mr. Hurst,75183,75192,22
+mr. hurst,Mr. Hurst,88058,88067,22
+mr. hurst,Mr. Hurst,88586,88595,22
+mr. hurst,Mr. Hurst,88736,88745,22
+mr. hurst,Mr. Hurst,88910,88919,22
+mr. hurst,Mr. Hurst,96003,96012,22
+mr. hurst,Mr. Hurst,204759,204768,22
+georgiana,Georgiana,303670,303679,15
+georgiana,Georgiana,356515,356524,15
+georgiana,Georgiana,356962,356971,15
+georgiana,Georgiana,374353,374362,15
+georgiana,Georgiana,458572,458581,15
+georgiana,Georgiana,468451,468460,15
+georgiana,Georgiana,471317,471326,15
+georgiana,Georgiana,474187,474196,15
+georgiana,Georgiana,474749,474758,15
+georgiana,Georgiana,474927,474936,15
+georgiana,Georgiana,657814,657823,15
+georgiana,Georgiana,688711,688720,15
+georgiana,Georgiana,688837,688846,15
+georgiana,Georgiana,688996,689005,15
+lady anne,Lady Anne,374510,374519,37
+mr. denny,Mr. Denny,115109,115118,41
+mr. denny,Mr. Denny,120546,120555,41
+mr. denny,Mr. Denny,120969,120978,41
+mr. denny,Mr. Denny,122717,122726,41
+mr. denny,Mr. Denny,124112,124121,41
+mr. denny,Mr. Denny,153163,153172,41
+de bourgh,de Bourgh,142292,142301,37
+de bourgh,De Bourgh,190446,190455,37
+mr. stone,Mr. Stone,564144,564153,23
+catherine,Catherine,15712,15721,10
+catherine,Catherine,43501,43510,10
+catherine,Catherine,44905,44914,10
+catherine,Catherine,50696,50705,10
+catherine,Catherine,99859,99868,10
+catherine,Catherine,106735,106744,10
+catherine,Catherine,148721,148730,10
+catherine,Catherine,376682,376691,10
+catherine,Catherine,376806,376815,10
+catherine,Catherine,524349,524358,10
+catherine,Catherine,611089,611098,10
+mrs. long,Mrs. Long,571,580,31
+mrs. long,Mrs. Long,858,867,31
+mrs. long,Mrs. Long,5151,5160,31
+mrs. long,Mrs. Long,5212,5221,31
+mrs. long,Mrs. Long,5929,5938,31
+mrs. long,Mrs. Long,6484,6493,31
+mrs. long,Mrs. Long,27040,27049,31
+mrs. long,Mrs. Long,27660,27669,31
+mrs. long,Mrs. Long,27786,27795,31
+mrs. long,Mrs. Long,27901,27910,31
+mrs. long,Mrs. Long,542051,542060,31
+mrs. long,Mrs. Long,589848,589857,31
+mrs. long,Mrs. Long,607543,607552,31
+mrs. long,Mrs. Long,607731,607740,31
+reynolds,Reynolds,581395,581403,44
+caroline,CAROLINE,47279,47287,14
+caroline,Caroline,60440,60448,14
+caroline,Caroline,77029,77037,14
+caroline,Caroline,90996,91004,14
+caroline,Caroline,204322,204330,14
+caroline,Caroline,206016,206024,14
+caroline,Caroline,208498,208506,14
+caroline,Caroline,210273,210281,14
+caroline,Caroline,211510,211518,14
+caroline,Caroline,226843,226851,14
+caroline,Caroline,232917,232925,14
+caroline,Caroline,233449,233457,14
+caroline,Caroline,249618,249626,14
+caroline,Caroline,257814,257822,14
+caroline,Caroline,258182,258190,14
+caroline,Caroline,258606,258614,14
+caroline,Caroline,259943,259951,14
+nicholls,Nicholls,90612,90620,32
+charles,Charles,60027,60034,17
+charles,Charles,60414,60421,17
+charles,Charles,61332,61339,17
+charles,Charles,77250,77257,17
+charles,Charles,90180,90187,17
+charles,Charles,206347,206354,17
+charles,Charles,208113,208120,17
+wickham,Wickham,130562,130569,6
+wickham,Wickham,131254,131261,6
+wickham,Wickham,131892,131899,6
+wickham,Wickham,132279,132286,6
+wickham,Wickham,137214,137221,6
+wickham,Wickham,138793,138800,6
+wickham,Wickham,143469,143476,6
+wickham,Wickham,145389,145396,6
+wickham,Wickham,150464,150471,6
+wickham,Wickham,153228,153235,6
+wickham,Wickham,153624,153631,6
+wickham,Wickham,153962,153969,6
+wickham,Wickham,154977,154984,6
+wickham,Wickham,155814,155821,6
+wickham,Wickham,164694,164701,6
+wickham,Wickham,203236,203243,6
+wickham,Wickham,204114,204121,6
+wickham,Wickham,241988,241995,6
+wickham,Wickham,250627,250634,6
+wickham,Wickham,250913,250920,6
+wickham,Wickham,251352,251359,6
+wickham,Wickham,262608,262615,6
+wickham,Wickham,268809,268816,6
+wickham,Wickham,344216,344223,6
+wickham,Wickham,361309,361316,6
+wickham,Wickham,361717,361724,6
+wickham,Wickham,362071,362078,6
+wickham,Wickham,364930,364937,6
+wickham,Wickham,367029,367036,6
+wickham,Wickham,367226,367233,6
+wickham,Wickham,367520,367527,6
+wickham,Wickham,377803,377810,6
+wickham,Wickham,387407,387414,6
+wickham,Wickham,387474,387481,6
+wickham,Wickham,387579,387586,6
+wickham,Wickham,389985,389992,6
+wickham,Wickham,390520,390527,6
+wickham,Wickham,392799,392806,6
+wickham,Wickham,394645,394652,6
+wickham,Wickham,395868,395875,6
+wickham,Wickham,396483,396490,6
+wickham,Wickham,397650,397657,6
+wickham,Wickham,397994,398001,6
+wickham,Wickham,398643,398650,6
+wickham,Wickham,412779,412786,6
+wickham,Wickham,413207,413214,6
+wickham,Wickham,413636,413643,6
+wickham,Wickham,417763,417770,6
+wickham,Wickham,424765,424772,6
+wickham,Wickham,451528,451535,6
+wickham,Wickham,451558,451565,6
+wickham,Wickham,452353,452360,6
+wickham,Wickham,452916,452923,6
+wickham,Wickham,453169,453176,6
+wickham,Wickham,464451,464458,6
+wickham,Wickham,472511,472518,6
+wickham,Wickham,474178,474185,6
+wickham,Wickham,479191,479198,6
+wickham,Wickham,491074,491081,6
+wickham,Wickham,491443,491450,6
+wickham,Wickham,491719,491726,6
+wickham,Wickham,496088,496095,6
+wickham,Wickham,497230,497237,6
+wickham,Wickham,499108,499115,6
+wickham,Wickham,499250,499257,6
+wickham,Wickham,499519,499526,6
+wickham,Wickham,505480,505487,6
+wickham,Wickham,506228,506235,6
+wickham,Wickham,511476,511483,6
+wickham,Wickham,512620,512627,6
+wickham,Wickham,512721,512728,6
+wickham,Wickham,514051,514058,6
+wickham,Wickham,518978,518985,6
+wickham,Wickham,520953,520960,6
+wickham,Wickham,525070,525077,6
+wickham,Wickham,526760,526767,6
+wickham,Wickham,534946,534953,6
+wickham,Wickham,536486,536493,6
+wickham,Wickham,537622,537629,6
+wickham,Wickham,537785,537792,6
+wickham,Wickham,540134,540141,6
+wickham,Wickham,545059,545066,6
+wickham,Wickham,548806,548813,6
+wickham,Wickham,551462,551469,6
+wickham,Wickham,553844,553851,6
+wickham,Wickham,555484,555491,6
+wickham,Wickham,556543,556550,6
+wickham,Wickham,557289,557296,6
+wickham,Wickham,557954,557961,6
+wickham,Wickham,561626,561633,6
+wickham,Wickham,562266,562273,6
+wickham,Wickham,562978,562985,6
+wickham,Wickham,563553,563560,6
+wickham,Wickham,564697,564704,6
+wickham,Wickham,564832,564839,6
+wickham,Wickham,565176,565183,6
+wickham,Wickham,568490,568497,6
+wickham,Wickham,568750,568757,6
+wickham,Wickham,569919,569926,6
+wickham,Wickham,570231,570238,6
+wickham,Wickham,570522,570529,6
+wickham,Wickham,571006,571013,6
+wickham,Wickham,571258,571265,6
+wickham,Wickham,572064,572071,6
+wickham,Wickham,572361,572368,6
+wickham,Wickham,574917,574924,6
+wickham,Wickham,575866,575873,6
+wickham,Wickham,579135,579142,6
+wickham,Wickham,579162,579169,6
+wickham,Wickham,580666,580673,6
+wickham,Wickham,618859,618866,6
+wickham,Wickham,646538,646545,6
+wickham,Wickham,674558,674565,6
+wickham,Wickham,685877,685884,6
+wickham,Wickham,686548,686555,6
+wickham,Wickham,686711,686718,6
+bingley,Bingley,1249,1256,17
+bingley,Bingley,14089,14096,17
+bingley,Bingley,22694,22701,17
+bingley,Bingley,22931,22938,17
+bingley,Bingley,23047,23054,17
+bingley,Bingley,23271,23278,17
+bingley,Bingley,23452,23459,17
+bingley,Bingley,31621,31628,17
+bingley,Bingley,32113,32120,17
+bingley,Bingley,38881,38888,17
+bingley,BINGLEY,47288,47295,17
+bingley,Bingley,56112,56119,17
+bingley,Bingley,56809,56816,17
+bingley,Bingley,57600,57607,17
+bingley,Bingley,57791,57798,17
+bingley,Bingley,59033,59040,17
+bingley,Bingley,61200,61207,17
+bingley,Bingley,64203,64210,17
+bingley,Bingley,64621,64628,17
+bingley,Bingley,66211,66218,17
+bingley,Bingley,66506,66513,17
+bingley,Bingley,68206,68213,17
+bingley,Bingley,70034,70041,17
+bingley,Bingley,71177,71184,17
+bingley,Bingley,78562,78569,17
+bingley,Bingley,79130,79137,17
+bingley,Bingley,79478,79485,17
+bingley,Bingley,81510,81517,17
+bingley,Bingley,82280,82287,17
+bingley,Bingley,88165,88172,17
+bingley,Bingley,121715,121722,17
+bingley,Bingley,121878,121885,17
+bingley,Bingley,159495,159502,17
+bingley,Bingley,159955,159962,17
+bingley,Bingley,164438,164445,17
+bingley,Bingley,166705,166712,17
+bingley,Bingley,171227,171234,17
+bingley,Bingley,175275,175282,17
+bingley,Bingley,177699,177706,17
+bingley,Bingley,180712,180719,17
+bingley,Bingley,204331,204338,17
+bingley,Bingley,211975,211982,17
+bingley,Bingley,226757,226764,17
+bingley,Bingley,228796,228803,17
+bingley,Bingley,229603,229610,17
+bingley,Bingley,234285,234292,17
+bingley,Bingley,249098,249105,17
+bingley,Bingley,324011,324018,17
+bingley,Bingley,324113,324120,17
+bingley,Bingley,324473,324480,17
+bingley,Bingley,324716,324723,17
+bingley,Bingley,345221,345228,17
+bingley,Bingley,345634,345641,17
+bingley,Bingley,349713,349720,17
+bingley,Bingley,368336,368343,17
+bingley,Bingley,377287,377294,17
+bingley,Bingley,384630,384637,17
+bingley,Bingley,399870,399877,17
+bingley,Bingley,400175,400182,17
+bingley,Bingley,457061,457068,17
+bingley,Bingley,457191,457198,17
+bingley,Bingley,458553,458560,17
+bingley,Bingley,458641,458648,17
+bingley,Bingley,462362,462369,17
+bingley,Bingley,463012,463019,17
+bingley,Bingley,473633,473640,17
+bingley,Bingley,593029,593036,17
+bingley,Bingley,594566,594573,17
+bingley,Bingley,596955,596962,17
+bingley,Bingley,597854,597861,17
+bingley,Bingley,599956,599963,17
+bingley,Bingley,601995,602002,17
+bingley,Bingley,602302,602309,17
+bingley,Bingley,602773,602780,17
+bingley,Bingley,607950,607957,17
+bingley,Bingley,612243,612250,17
+bingley,Bingley,612908,612915,17
+bingley,Bingley,613171,613178,17
+bingley,Bingley,613394,613401,17
+bingley,Bingley,613549,613556,17
+bingley,Bingley,614149,614156,17
+bingley,Bingley,614543,614550,17
+bingley,Bingley,616115,616122,17
+bingley,Bingley,617345,617352,17
+bingley,Bingley,619237,619244,17
+bingley,Bingley,619906,619913,17
+bingley,Bingley,622421,622428,17
+bingley,Bingley,622978,622985,17
+bingley,Bingley,638323,638330,17
+bingley,Bingley,640210,640217,17
+bingley,Bingley,647647,647654,17
+bingley,Bingley,647855,647862,17
+bingley,Bingley,659988,659995,17
+bingley,Bingley,660831,660838,17
+bingley,Bingley,663401,663408,17
+bingley,Bingley,663813,663820,17
+bingley,Bingley,664603,664610,17
+bingley,Bingley,664656,664663,17
+bingley,Bingley,664956,664963,17
+bingley,Bingley,665394,665401,17
+bingley,Bingley,665664,665671,17
+bingley,Bingley,665855,665862,17
+bingley,Bingley,678509,678516,17
+bingley,Bingley,682787,682794,17
+bingley,Bingley,683700,683707,17
+bingley,Bingley,688411,688418,17
+richard,Richard,114940,114947,62
+harriet,Harriet,389600,389607,48
+harriet,HARRIET,513462,513469,48
+louisa,Louisa,46961,46967,30
+louisa,Louisa,55699,55705,30
+louisa,Louisa,56098,56104,30
+louisa,Louisa,95967,95973,30
+louisa,Louisa,207532,207538,30
+louisa,Louisa,475319,475325,30
+bennet,Bennet,13313,13319,25
+bennet,Bennet,41913,41919,25
+bennet,Bennet,41939,41945,25
+bennet,Bennet,56178,56184,25
+bennet,Bennet,57133,57139,25
+bennet,Bennet,58734,58740,25
+bennet,Bennet,60926,60932,25
+bennet,Bennet,63516,63522,25
+bennet,Bennet,91377,91383,25
+bennet,Bennet,216879,216885,25
+bennet,Bennet,475159,475165,25
+bennet,BENNET,514683,514689,25
+bennet,Bennet,546296,546302,25
+bennet,Bennet,596723,596729,25
+bennet,Bennet,627323,627329,25
+bennet,Bennet,642981,642987,25
+butler,butler,531494,531500,0
+clarke,Clarke,46409,46415,66
+eliza,Eliza,26734,26739,5
+eliza,Eliza,26831,26836,5
+eliza,Eliza,27961,27966,5
+eliza,Eliza,31899,31904,5
+eliza,Eliza,36599,36604,5
+eliza,Eliza,63510,63515,5
+eliza,Eliza,220869,220874,5
+eliza,Eliza,255653,255658,5
+eliza,Eliza,256100,256105,5
+eliza,Eliza,278510,278515,5
+eliza,Eliza,299515,299520,5
+eliza,Eliza,315222,315227,5
+eliza,Eliza,317226,317231,5
+eliza,Eliza,475153,475158,5
+pratt,Pratt,389998,390003,51
+pratt,Pratt,514151,514156,51
+stone,stone,427493,427498,23
+denny,Denny,133969,133974,4
+denny,Denny,389974,389979,4
+denny,Denny,481447,481452,4
+denny,Denny,511455,511460,4
+denny,Denny,511568,511573,4
+denny,Denny,511620,511625,4
+maria,Maria,255991,255996,12
+maria,Maria,262084,262089,12
+maria,Maria,267048,267053,12
+maria,Maria,276969,276974,12
+maria,Maria,278425,278430,12
+maria,Maria,278710,278715,12
+maria,Maria,279075,279080,12
+maria,Maria,283154,283159,12
+maria,Maria,285200,285205,12
+maria,Maria,287053,287058,12
+maria,Maria,287959,287964,12
+maria,Maria,310016,310021,12
+maria,Maria,378371,378376,12
+maria,Maria,382732,382737,12
+maria,Maria,383224,383229,12
+maria,Maria,390833,390838,12
+maria,Maria,390937,390942,12
+maria,Maria,648246,648251,12
+lizzy,Lizzy,2994,2999,5
+lizzy,Lizzy,3040,3045,5
+lizzy,Lizzy,3336,3341,5
+lizzy,Lizzy,4935,4940,5
+lizzy,Lizzy,5856,5861,5
+lizzy,Lizzy,17217,17222,5
+lizzy,Lizzy,18012,18017,5
+lizzy,Lizzy,19443,19448,5
+lizzy,Lizzy,26903,26908,5
+lizzy,Lizzy,27985,27990,5
+lizzy,Lizzy,50256,50261,5
+lizzy,Lizzy,68044,68049,5
+lizzy,Lizzy,72605,72610,5
+lizzy,Lizzy,182397,182402,5
+lizzy,Lizzy,182767,182772,5
+lizzy,Lizzy,182915,182920,5
+lizzy,Lizzy,193274,193279,5
+lizzy,Lizzy,193988,193993,5
+lizzy,Lizzy,194404,194409,5
+lizzy,Lizzy,194843,194848,5
+lizzy,Lizzy,194850,194855,5
+lizzy,Lizzy,194948,194953,5
+lizzy,Lizzy,195039,195044,5
+lizzy,Lizzy,197581,197586,5
+lizzy,Lizzy,197924,197929,5
+lizzy,Lizzy,208398,208403,5
+lizzy,Lizzy,223452,223457,5
+lizzy,Lizzy,236852,236857,5
+lizzy,Lizzy,238326,238331,5
+lizzy,Lizzy,241550,241555,5
+lizzy,Lizzy,245085,245090,5
+lizzy,Lizzy,247688,247693,5
+lizzy,Lizzy,252061,252066,5
+lizzy,Lizzy,270329,270334,5
+lizzy,Lizzy,270861,270866,5
+lizzy,Lizzy,389102,389107,5
+lizzy,Lizzy,390742,390747,5
+lizzy,Lizzy,395940,395945,5
+lizzy,Lizzy,397197,397202,5
+lizzy,Lizzy,400674,400679,5
+lizzy,Lizzy,401665,401670,5
+lizzy,Lizzy,403390,403395,5
+lizzy,Lizzy,406776,406781,5
+lizzy,Lizzy,431244,431249,5
+lizzy,Lizzy,451479,451484,5
+lizzy,Lizzy,478793,478798,5
+lizzy,Lizzy,480016,480021,5
+lizzy,Lizzy,480884,480889,5
+lizzy,Lizzy,482486,482491,5
+lizzy,Lizzy,483445,483450,5
+lizzy,Lizzy,496116,496121,5
+lizzy,Lizzy,521378,521383,5
+lizzy,Lizzy,528692,528697,5
+lizzy,Lizzy,529145,529150,5
+lizzy,Lizzy,540241,540246,5
+lizzy,Lizzy,562593,562598,5
+lizzy,Lizzy,573478,573483,5
+lizzy,Lizzy,574401,574406,5
+lizzy,Lizzy,575237,575242,5
+lizzy,Lizzy,576918,576923,5
+lizzy,Lizzy,587636,587641,5
+lizzy,Lizzy,601628,601633,5
+lizzy,Lizzy,608416,608421,5
+lizzy,Lizzy,611792,611797,5
+lizzy,Lizzy,615477,615482,5
+lizzy,Lizzy,620824,620829,5
+lizzy,Lizzy,621509,621514,5
+lizzy,Lizzy,637618,637623,5
+lizzy,Lizzy,641065,641070,5
+lizzy,Lizzy,643181,643186,5
+lizzy,Lizzy,643643,643648,5
+lizzy,Lizzy,643900,643905,5
+lizzy,Lizzy,645861,645866,5
+lizzy,Lizzy,646619,646624,5
+lizzy,Lizzy,661005,661010,5
+lizzy,Lizzy,662176,662181,5
+lizzy,Lizzy,662551,662556,5
+lizzy,Lizzy,663033,663038,5
+lizzy,Lizzy,663536,663541,5
+lizzy,Lizzy,664698,664703,5
+lizzy,Lizzy,665601,665606,5
+lizzy,Lizzy,666061,666066,5
+lizzy,Lizzy,666125,666130,5
+lizzy,Lizzy,666625,666630,5
+lizzy,Lizzy,668404,668409,5
+lizzy,Lizzy,669458,669463,5
+lizzy,Lizzy,669749,669754,5
+lizzy,Lizzy,670792,670797,5
+lizzy,Lizzy,672782,672787,5
+lizzy,Lizzy,673009,673014,5
+lizzy,Lizzy,673113,673118,5
+lizzy,LIZZY,686461,686466,5
+sarah,Sarah,610355,610360,34
+darcy,Darcy,13613,13618,19
+darcy,Darcy,22606,22611,19
+darcy,Darcy,22718,22723,19
+darcy,Darcy,22916,22921,19
+darcy,Darcy,23023,23028,19
+darcy,Darcy,23086,23091,19
+darcy,Darcy,23325,23330,19
+darcy,Darcy,23740,23745,19
+darcy,Darcy,57768,57773,19
+darcy,Darcy,60360,60365,19
+darcy,Darcy,61676,61681,19
+darcy,Darcy,62697,62702,19
+darcy,Darcy,63814,63819,19
+darcy,Darcy,68409,68414,19
+darcy,Darcy,68866,68871,19
+darcy,Darcy,69480,69485,19
+darcy,Darcy,72056,72061,19
+darcy,Darcy,72272,72277,19
+darcy,Darcy,75366,75371,19
+darcy,Darcy,77022,77027,19
+darcy,Darcy,77161,77166,19
+darcy,Darcy,77605,77610,19
+darcy,Darcy,79978,79983,19
+darcy,Darcy,81711,81716,19
+darcy,Darcy,81874,81879,19
+darcy,Darcy,84709,84714,19
+darcy,Darcy,85096,85101,19
+darcy,Darcy,87904,87909,19
+darcy,Darcy,89010,89015,19
+darcy,Darcy,90469,90474,19
+darcy,Darcy,91199,91204,19
+darcy,Darcy,94895,94900,19
+darcy,Darcy,96096,96101,19
+darcy,Darcy,121705,121710,19
+darcy,Darcy,139870,139875,19
+darcy,Darcy,153590,153595,19
+darcy,Darcy,153941,153946,19
+darcy,Darcy,155679,155684,19
+darcy,Darcy,158451,158456,19
+darcy,Darcy,158812,158817,19
+darcy,Darcy,159810,159815,19
+darcy,Darcy,162316,162321,19
+darcy,Darcy,175375,175380,19
+darcy,Darcy,179976,179981,19
+darcy,Darcy,250962,250967,19
+darcy,Darcy,251758,251763,19
+darcy,Darcy,302219,302224,19
+darcy,Darcy,303688,303693,19
+darcy,Darcy,307394,307399,19
+darcy,Darcy,307953,307958,19
+darcy,Darcy,308535,308540,19
+darcy,Darcy,308958,308963,19
+darcy,Darcy,309266,309271,19
+darcy,Darcy,312078,312083,19
+darcy,Darcy,320573,320578,19
+darcy,Darcy,323001,323006,19
+darcy,Darcy,323689,323694,19
+darcy,Darcy,323862,323867,19
+darcy,Darcy,324220,324225,19
+darcy,Darcy,329989,329994,19
+darcy,Darcy,336366,336371,19
+darcy,Darcy,336543,336548,19
+darcy,Darcy,337064,337069,19
+darcy,DARCY,359038,359043,19
+darcy,Darcy,367510,367515,19
+darcy,Darcy,372281,372286,19
+darcy,Darcy,395124,395129,19
+darcy,Darcy,457041,457046,19
+darcy,Darcy,458597,458602,19
+darcy,Darcy,472472,472477,19
+darcy,Darcy,472866,472871,19
+darcy,Darcy,473310,473315,19
+darcy,Darcy,475010,475015,19
+darcy,Darcy,476237,476242,19
+darcy,Darcy,476927,476932,19
+darcy,Darcy,485803,485808,19
+darcy,Darcy,486342,486347,19
+darcy,Darcy,486880,486885,19
+darcy,Darcy,487248,487253,19
+darcy,Darcy,487865,487870,19
+darcy,Darcy,488092,488097,19
+darcy,Darcy,527813,527818,19
+darcy,Darcy,568166,568171,19
+darcy,Darcy,581824,581829,19
+darcy,Darcy,583133,583138,19
+darcy,Darcy,594277,594282,19
+darcy,Darcy,595111,595116,19
+darcy,Darcy,605129,605134,19
+darcy,Darcy,647410,647415,19
+darcy,Darcy,647972,647977,19
+darcy,Darcy,648947,648952,19
+darcy,Darcy,653822,653827,19
+darcy,Darcy,654662,654667,19
+darcy,Darcy,657437,657442,19
+darcy,Darcy,658614,658619,19
+darcy,Darcy,661526,661531,19
+darcy,Darcy,666435,666440,19
+darcy,Darcy,671010,671015,19
+darcy,Darcy,683727,683732,19
+darcy,Darcy,686192,686197,19
+darcy,Darcy,688117,688122,19
+darcy,Darcy,688561,688566,19
+darcy,Darcy,688745,688750,19
+darcy,Darcy,688906,688911,19
+darcy,Darcy,690464,690469,19
+lucas,Lucas,24896,24901,1
+lucas,Lucas,213747,213752,1
+lucas,Lucas,228073,228078,1
+lucas,Lucas,230202,230207,1
+lucas,Lucas,607328,607333,1
+lucas,Lucas,638616,638621,1
+lucas,Lucas,681722,681727,1
+kitty,Kitty,5587,5592,9
+kitty,Kitty,5680,5685,9
+kitty,Kitty,5807,5812,9
+kitty,Kitty,8006,8011,9
+kitty,Kitty,114617,114622,9
+kitty,Kitty,120720,120725,9
+kitty,Kitty,124336,124341,9
+kitty,Kitty,152334,152339,9
+kitty,Kitty,182467,182472,9
+kitty,Kitty,183299,183304,9
+kitty,Kitty,197681,197686,9
+kitty,Kitty,199665,199670,9
+kitty,Kitty,225858,225863,9
+kitty,Kitty,264589,264594,9
+kitty,Kitty,385002,385007,9
+kitty,Kitty,388379,388384,9
+kitty,Kitty,389389,389394,9
+kitty,Kitty,389849,389854,9
+kitty,Kitty,390338,390343,9
+kitty,Kitty,391448,391453,9
+kitty,Kitty,391572,391577,9
+kitty,Kitty,403131,403136,9
+kitty,Kitty,403987,403992,9
+kitty,Kitty,404863,404868,9
+kitty,Kitty,405109,405114,9
+kitty,Kitty,407984,407989,9
+kitty,Kitty,415243,415248,9
+kitty,Kitty,418077,418082,9
+kitty,Kitty,419073,419078,9
+kitty,Kitty,419749,419754,9
+kitty,Kitty,420334,420339,9
+kitty,Kitty,420786,420791,9
+kitty,Kitty,479226,479231,9
+kitty,Kitty,483299,483304,9
+kitty,Kitty,504302,504307,9
+kitty,Kitty,508964,508969,9
+kitty,Kitty,509387,509392,9
+kitty,Kitty,512280,512285,9
+kitty,Kitty,515824,515829,9
+kitty,Kitty,515951,515956,9
+kitty,Kitty,528985,528990,9
+kitty,Kitty,529620,529625,9
+kitty,Kitty,529680,529685,9
+kitty,Kitty,529864,529869,9
+kitty,Kitty,530240,530245,9
+kitty,Kitty,539263,539268,9
+kitty,Kitty,540366,540371,9
+kitty,Kitty,542062,542067,9
+kitty,Kitty,591548,591553,9
+kitty,Kitty,591663,591668,9
+kitty,Kitty,610522,610527,9
+kitty,Kitty,610613,610618,9
+kitty,Kitty,611213,611218,9
+kitty,Kitty,611502,611507,9
+kitty,Kitty,611966,611971,9
+kitty,Kitty,612127,612132,9
+kitty,Kitty,615717,615722,9
+kitty,Kitty,617150,617155,9
+kitty,Kitty,619177,619182,9
+kitty,Kitty,623448,623453,9
+kitty,Kitty,647961,647966,9
+kitty,Kitty,648041,648046,9
+kitty,Kitty,648220,648225,9
+kitty,Kitty,648324,648329,9
+kitty,Kitty,666136,666141,9
+kitty,Kitty,666364,666369,9
+kitty,Kitty,666380,666385,9
+kitty,Kitty,666389,666394,9
+kitty,Kitty,668195,668200,9
+kitty,Kitty,671670,671675,9
+kitty,Kitty,684803,684808,9
+lydia,Lydia,3163,3168,11
+lydia,Lydia,8463,8468,11
+lydia,Lydia,8584,8589,11
+lydia,Lydia,15726,15731,11
+lydia,Lydia,43515,43520,11
+lydia,Lydia,44957,44962,11
+lydia,Lydia,46237,46242,11
+lydia,Lydia,47326,47331,11
+lydia,Lydia,50710,50715,11
+lydia,Lydia,50823,50828,11
+lydia,Lydia,73174,73179,11
+lydia,Lydia,74063,74068,11
+lydia,Lydia,99873,99878,11
+lydia,Lydia,100963,100968,11
+lydia,Lydia,106749,106754,11
+lydia,Lydia,114642,114647,11
+lydia,Lydia,114743,114748,11
+lydia,Lydia,115143,115148,11
+lydia,Lydia,115815,115820,11
+lydia,Lydia,118948,118953,11
+lydia,Lydia,120593,120598,11
+lydia,Lydia,120730,120735,11
+lydia,Lydia,122851,122856,11
+lydia,Lydia,124346,124351,11
+lydia,Lydia,129537,129542,11
+lydia,Lydia,129576,129581,11
+lydia,Lydia,144588,144593,11
+lydia,Lydia,144628,144633,11
+lydia,Lydia,148735,148740,11
+lydia,Lydia,152344,152349,11
+lydia,Lydia,153182,153187,11
+lydia,Lydia,153531,153536,11
+lydia,Lydia,180253,180258,11
+lydia,Lydia,197396,197401,11
+lydia,Lydia,199685,199690,11
+lydia,Lydia,223279,223284,11
+lydia,Lydia,225868,225873,11
+lydia,Lydia,264599,264604,11
+lydia,Lydia,376696,376701,11
+lydia,Lydia,376864,376869,11
+lydia,Lydia,376929,376934,11
+lydia,Lydia,385012,385017,11
+lydia,Lydia,385466,385471,11
+lydia,Lydia,386846,386851,11
+lydia,Lydia,387071,387076,11
+lydia,Lydia,388391,388396,11
+lydia,Lydia,388468,388473,11
+lydia,Lydia,390319,390324,11
+lydia,Lydia,391214,391219,11
+lydia,Lydia,392333,392338,11
+lydia,Lydia,392471,392476,11
+lydia,Lydia,393160,393165,11
+lydia,Lydia,403141,403146,11
+lydia,Lydia,403721,403726,11
+lydia,Lydia,404336,404341,11
+lydia,Lydia,404642,404647,11
+lydia,Lydia,404755,404760,11
+lydia,Lydia,404945,404950,11
+lydia,Lydia,405276,405281,11
+lydia,Lydia,405626,405631,11
+lydia,Lydia,405902,405907,11
+lydia,Lydia,406202,406207,11
+lydia,Lydia,406539,406544,11
+lydia,Lydia,406987,406992,11
+lydia,Lydia,407282,407287,11
+lydia,Lydia,408037,408042,11
+lydia,Lydia,408646,408651,11
+lydia,Lydia,409548,409553,11
+lydia,Lydia,409708,409713,11
+lydia,Lydia,410495,410500,11
+lydia,Lydia,410757,410762,11
+lydia,Lydia,415067,415072,11
+lydia,Lydia,415619,415624,11
+lydia,Lydia,419663,419668,11
+lydia,Lydia,478980,478985,11
+lydia,Lydia,480136,480141,11
+lydia,Lydia,481047,481052,11
+lydia,Lydia,481318,481323,11
+lydia,Lydia,481528,481533,11
+lydia,Lydia,482790,482795,11
+lydia,Lydia,484931,484936,11
+lydia,Lydia,488826,488831,11
+lydia,Lydia,491272,491277,11
+lydia,Lydia,491805,491810,11
+lydia,Lydia,492001,492006,11
+lydia,Lydia,492286,492291,11
+lydia,Lydia,492347,492352,11
+lydia,Lydia,493015,493020,11
+lydia,Lydia,493482,493487,11
+lydia,Lydia,493586,493591,11
+lydia,Lydia,497324,497329,11
+lydia,Lydia,497763,497768,11
+lydia,Lydia,498092,498097,11
+lydia,Lydia,500483,500488,11
+lydia,Lydia,501143,501148,11
+lydia,Lydia,505172,505177,11
+lydia,Lydia,505801,505806,11
+lydia,Lydia,506715,506720,11
+lydia,Lydia,507537,507542,11
+lydia,Lydia,507948,507953,11
+lydia,Lydia,509842,509847,11
+lydia,Lydia,511131,511136,11
+lydia,Lydia,512371,512376,11
+lydia,Lydia,513287,513292,11
+lydia,Lydia,514040,514045,11
+lydia,LYDIA,514677,514682,11
+lydia,Lydia,514723,514728,11
+lydia,Lydia,525573,525578,11
+lydia,Lydia,526668,526673,11
+lydia,Lydia,527854,527859,11
+lydia,Lydia,528942,528947,11
+lydia,Lydia,529761,529766,11
+lydia,Lydia,536095,536100,11
+lydia,Lydia,537210,537215,11
+lydia,Lydia,537302,537307,11
+lydia,Lydia,539504,539509,11
+lydia,Lydia,539884,539889,11
+lydia,Lydia,540434,540439,11
+lydia,Lydia,542273,542278,11
+lydia,Lydia,542578,542583,11
+lydia,Lydia,543246,543251,11
+lydia,Lydia,544165,544170,11
+lydia,Lydia,544644,544649,11
+lydia,Lydia,545419,545424,11
+lydia,Lydia,546020,546025,11
+lydia,Lydia,546290,546295,11
+lydia,Lydia,549601,549606,11
+lydia,Lydia,551474,551479,11
+lydia,Lydia,553969,553974,11
+lydia,Lydia,554216,554221,11
+lydia,Lydia,555952,555957,11
+lydia,Lydia,556330,556335,11
+lydia,Lydia,556957,556962,11
+lydia,Lydia,556967,556972,11
+lydia,Lydia,558260,558265,11
+lydia,Lydia,558765,558770,11
+lydia,Lydia,559448,559453,11
+lydia,Lydia,559687,559692,11
+lydia,Lydia,560456,560461,11
+lydia,Lydia,561650,561655,11
+lydia,Lydia,561719,561724,11
+lydia,Lydia,562215,562220,11
+lydia,Lydia,565110,565115,11
+lydia,Lydia,565921,565926,11
+lydia,Lydia,566338,566343,11
+lydia,Lydia,566739,566744,11
+lydia,Lydia,568510,568515,11
+lydia,Lydia,570565,570570,11
+lydia,Lydia,570845,570850,11
+lydia,Lydia,571500,571505,11
+lydia,Lydia,575839,575844,11
+lydia,Lydia,576736,576741,11
+lydia,Lydia,579877,579882,11
+lydia,Lydia,581044,581049,11
+lydia,Lydia,584560,584565,11
+lydia,Lydia,584795,584800,11
+lydia,Lydia,585846,585851,11
+lydia,Lydia,596717,596722,11
+lydia,Lydia,618868,618873,11
+lydia,Lydia,622280,622285,11
+lydia,Lydia,645085,645090,11
+lydia,Lydia,649174,649179,11
+lydia,Lydia,665119,665124,11
+lydia,Lydia,670922,670927,11
+lydia,Lydia,677421,677426,11
+lydia,Lydia,685024,685029,11
+lydia,Lydia,685066,685071,11
+lydia,Lydia,685213,685218,11
+lydia,Lydia,685889,685894,11
+lydia,Lydia,686301,686306,11
+lydia,Lydia,688233,688238,11
+madam,Madam,66622,66627,40
+madam,madam,108501,108506,40
+madam,madam,141746,141751,40
+madam,madam,173360,173365,40
+madam,Madam,182107,182112,40
+madam,Madam,193495,193500,40
+madam,Madam,200079,200084,40
+madam,Madam,200791,200796,40
+madam,Madam,217986,217991,40
+madam,Madam,303164,303169,40
+madam,Madam,303959,303964,40
+madam,madam,339244,339249,40
+madam,Madam,343084,343089,40
+madam,madam,357638,357643,40
+madam,Madam,373865,373870,40
+madam,madam,530834,530839,40
+madam,madam,531035,531040,40
+madam,Madam,585706,585711,40
+madam,madam,624226,624231,40
+madam,Madam,626719,626724,40
+john,John,374646,374650,8
+john,John,494030,494034,8
+mary,Mary,6938,6942,13
+mary,Mary,7039,7043,13
+mary,Mary,7109,7113,13
+mary,Mary,15607,15611,13
+mary,Mary,28566,28570,13
+mary,Mary,37461,37465,13
+mary,Mary,37619,37623,13
+mary,Mary,37954,37958,13
+mary,Mary,50503,50507,13
+mary,Mary,99689,99693,13
+mary,Mary,106597,106601,13
+mary,Mary,119027,119031,13
+mary,Mary,148996,149000,13
+mary,Mary,174398,174402,13
+mary,Mary,174587,174591,13
+mary,Mary,174889,174893,13
+mary,Mary,175061,175065,13
+mary,Mary,175483,175487,13
+mary,Mary,175544,175548,13
+mary,Mary,175715,175719,13
+mary,Mary,219601,219605,13
+mary,Mary,391362,391366,13
+mary,Mary,392063,392067,13
+mary,Mary,392440,392444,13
+mary,Mary,504293,504297,13
+mary,Mary,508955,508959,13
+mary,Mary,509401,509405,13
+mary,Mary,510241,510245,13
+mary,Mary,515815,515819,13
+mary,Mary,515985,515989,13
+mary,Mary,539254,539258,13
+mary,Mary,610951,610955,13
+mary,Mary,619114,619118,13
+mary,Mary,647785,647789,13
+mary,Mary,671662,671666,13
+mary,Mary,685424,685428,13
+mary,Mary,685589,685593,13
+anne,Anne,303556,303560,37
+anne,Anne,309154,309158,37
+anne,Anne,309162,309166,37
+jane,Jane,3128,3132,7
+jane,Jane,15490,15494,7
+jane,Jane,15590,15594,7
+jane,Jane,16479,16483,7
+jane,Jane,16957,16961,7
+jane,Jane,17182,17186,7
+jane,Jane,18421,18425,7
+jane,Jane,25915,25919,7
+jane,Jane,27210,27214,7
+jane,Jane,27447,27451,7
+jane,Jane,30006,30010,7
+jane,Jane,30226,30230,7
+jane,Jane,30451,30455,7
+jane,Jane,30690,30694,7
+jane,Jane,31928,31932,7
+jane,Jane,32125,32129,7
+jane,Jane,32325,32329,7
+jane,Jane,32740,32744,7
+jane,Jane,33597,33601,7
+jane,Jane,46697,46701,7
+jane,Jane,46761,46765,7
+jane,Jane,46846,46850,7
+jane,Jane,47469,47473,7
+jane,Jane,48219,48223,7
+jane,Jane,48376,48380,7
+jane,Jane,48549,48553,7
+jane,Jane,50204,50208,7
+jane,Jane,51366,51370,7
+jane,Jane,52327,52331,7
+jane,Jane,52898,52902,7
+jane,Jane,53578,53582,7
+jane,Jane,54224,54228,7
+jane,Jane,54507,54511,7
+jane,Jane,54725,54729,7
+jane,Jane,55260,55264,7
+jane,Jane,57128,57132,7
+jane,Jane,65369,65373,7
+jane,Jane,65619,65623,7
+jane,Jane,66084,66088,7
+jane,Jane,71292,71296,7
+jane,Jane,71363,71367,7
+jane,Jane,72555,72559,7
+jane,Jane,74144,74148,7
+jane,Jane,74474,74478,7
+jane,Jane,84992,84996,7
+jane,Jane,87146,87150,7
+jane,Jane,87817,87821,7
+jane,Jane,96550,96554,7
+jane,Jane,97174,97178,7
+jane,Jane,97503,97507,7
+jane,Jane,97900,97904,7
+jane,Jane,98894,98898,7
+jane,Jane,99339,99343,7
+jane,Jane,99657,99661,7
+jane,Jane,100773,100777,7
+jane,Jane,101938,101942,7
+jane,Jane,105792,105796,7
+jane,Jane,118262,118266,7
+jane,Jane,118589,118593,7
+jane,Jane,118703,118707,7
+jane,Jane,123530,123534,7
+jane,Jane,125193,125197,7
+jane,Jane,125259,125263,7
+jane,Jane,145082,145086,7
+jane,Jane,145150,145154,7
+jane,Jane,147144,147148,7
+jane,Jane,148421,148425,7
+jane,Jane,150303,150307,7
+jane,Jane,159967,159971,7
+jane,Jane,164447,164451,7
+jane,Jane,164784,164788,7
+jane,Jane,165094,165098,7
+jane,Jane,166685,166689,7
+jane,Jane,171029,171033,7
+jane,Jane,171674,171678,7
+jane,Jane,172042,172046,7
+jane,Jane,172199,172203,7
+jane,Jane,175205,175209,7
+jane,Jane,175239,175243,7
+jane,Jane,180073,180077,7
+jane,Jane,196671,196675,7
+jane,Jane,196697,196701,7
+jane,Jane,198194,198198,7
+jane,Jane,199656,199660,7
+jane,Jane,203899,203903,7
+jane,Jane,204194,204198,7
+jane,Jane,204273,204277,7
+jane,Jane,205519,205523,7
+jane,Jane,206974,206978,7
+jane,Jane,208268,208272,7
+jane,Jane,208412,208416,7
+jane,Jane,209106,209110,7
+jane,Jane,209137,209141,7
+jane,Jane,209779,209783,7
+jane,Jane,210170,210174,7
+jane,Jane,211027,211031,7
+jane,Jane,211837,211841,7
+jane,Jane,224137,224141,7
+jane,Jane,225653,225657,7
+jane,Jane,226829,226833,7
+jane,Jane,228412,228416,7
+jane,Jane,228939,228943,7
+jane,Jane,229284,229288,7
+jane,Jane,229668,229672,7
+jane,Jane,229768,229772,7
+jane,Jane,232683,232687,7
+jane,Jane,233270,233274,7
+jane,Jane,233562,233566,7
+jane,Jane,234402,234406,7
+jane,Jane,234659,234663,7
+jane,Jane,235210,235214,7
+jane,Jane,238114,238118,7
+jane,Jane,239902,239906,7
+jane,Jane,241200,241204,7
+jane,Jane,241873,241877,7
+jane,Jane,242152,242156,7
+jane,Jane,245006,245010,7
+jane,Jane,245033,245037,7
+jane,Jane,245926,245930,7
+jane,Jane,246184,246188,7
+jane,Jane,247556,247560,7
+jane,Jane,248468,248472,7
+jane,Jane,248855,248859,7
+jane,Jane,249135,249139,7
+jane,Jane,249448,249452,7
+jane,Jane,254991,254995,7
+jane,Jane,257464,257468,7
+jane,Jane,257746,257750,7
+jane,Jane,258854,258858,7
+jane,Jane,259231,259235,7
+jane,Jane,262250,262254,7
+jane,Jane,262528,262532,7
+jane,Jane,265618,265622,7
+jane,Jane,267591,267595,7
+jane,Jane,268367,268371,7
+jane,Jane,268673,268677,7
+jane,Jane,300920,300924,7
+jane,Jane,309987,309991,7
+jane,Jane,313811,313815,7
+jane,Jane,319879,319883,7
+jane,Jane,319947,319951,7
+jane,Jane,326703,326707,7
+jane,Jane,326942,326946,7
+jane,Jane,327398,327402,7
+jane,Jane,328981,328985,7
+jane,Jane,329863,329867,7
+jane,Jane,340336,340340,7
+jane,Jane,366562,366566,7
+jane,Jane,368317,368321,7
+jane,Jane,368328,368332,7
+jane,Jane,368894,368898,7
+jane,Jane,368915,368919,7
+jane,Jane,369720,369724,7
+jane,Jane,376634,376638,7
+jane,Jane,377198,377202,7
+jane,Jane,377356,377360,7
+jane,Jane,377674,377678,7
+jane,Jane,383772,383776,7
+jane,Jane,383941,383945,7
+jane,Jane,384247,384251,7
+jane,Jane,386983,386987,7
+jane,Jane,387812,387816,7
+jane,Jane,388874,388878,7
+jane,Jane,390604,390608,7
+jane,Jane,391110,391114,7
+jane,Jane,393542,393546,7
+jane,Jane,394941,394945,7
+jane,Jane,395803,395807,7
+jane,Jane,397437,397441,7
+jane,Jane,399275,399279,7
+jane,Jane,400107,400111,7
+jane,Jane,400760,400764,7
+jane,Jane,400906,400910,7
+jane,Jane,401484,401488,7
+jane,Jane,405486,405490,7
+jane,Jane,408451,408455,7
+jane,Jane,419124,419128,7
+jane,Jane,423111,423115,7
+jane,Jane,459106,459110,7
+jane,Jane,459414,459418,7
+jane,Jane,477870,477874,7
+jane,Jane,478222,478226,7
+jane,Jane,486526,486530,7
+jane,Jane,487565,487569,7
+jane,Jane,491391,491395,7
+jane,Jane,491486,491490,7
+jane,Jane,492793,492797,7
+jane,Jane,497163,497167,7
+jane,Jane,499202,499206,7
+jane,Jane,499317,499321,7
+jane,Jane,499485,499489,7
+jane,Jane,500547,500551,7
+jane,Jane,500876,500880,7
+jane,Jane,502816,502820,7
+jane,Jane,503326,503330,7
+jane,Jane,503596,503600,7
+jane,Jane,504668,504672,7
+jane,Jane,504923,504927,7
+jane,Jane,510533,510537,7
+jane,Jane,512928,512932,7
+jane,Jane,513356,513360,7
+jane,Jane,515204,515208,7
+jane,Jane,516852,516856,7
+jane,Jane,519713,519717,7
+jane,Jane,522495,522499,7
+jane,Jane,525974,525978,7
+jane,Jane,530517,530521,7
+jane,Jane,531802,531806,7
+jane,Jane,532318,532322,7
+jane,Jane,532900,532904,7
+jane,Jane,535384,535388,7
+jane,Jane,536015,536019,7
+jane,Jane,537261,537265,7
+jane,Jane,538302,538306,7
+jane,Jane,539467,539471,7
+jane,Jane,541621,541625,7
+jane,Jane,547016,547020,7
+jane,Jane,554727,554731,7
+jane,Jane,555700,555704,7
+jane,Jane,555921,555925,7
+jane,Jane,557751,557755,7
+jane,Jane,558711,558715,7
+jane,Jane,559556,559560,7
+jane,Jane,564906,564910,7
+jane,Jane,566647,566651,7
+jane,Jane,574455,574459,7
+jane,Jane,576120,576124,7
+jane,Jane,576637,576641,7
+jane,Jane,586434,586438,7
+jane,Jane,588300,588304,7
+jane,Jane,590268,590272,7
+jane,Jane,591324,591328,7
+jane,Jane,591958,591962,7
+jane,Jane,592542,592546,7
+jane,Jane,592675,592679,7
+jane,Jane,593015,593019,7
+jane,Jane,593807,593811,7
+jane,Jane,595635,595639,7
+jane,Jane,598518,598522,7
+jane,Jane,599277,599281,7
+jane,Jane,601600,601604,7
+jane,Jane,602542,602546,7
+jane,Jane,603110,603114,7
+jane,Jane,607973,607977,7
+jane,Jane,610500,610504,7
+jane,Jane,610733,610737,7
+jane,Jane,611582,611586,7
+jane,Jane,612820,612824,7
+jane,Jane,614670,614674,7
+jane,Jane,615156,615160,7
+jane,Jane,616662,616666,7
+jane,Jane,616894,616898,7
+jane,Jane,617664,617668,7
+jane,Jane,617724,617728,7
+jane,Jane,618468,618472,7
+jane,Jane,618895,618899,7
+jane,Jane,619632,619636,7
+jane,Jane,619814,619818,7
+jane,Jane,619924,619928,7
+jane,Jane,621117,621121,7
+jane,Jane,621297,621301,7
+jane,Jane,621498,621502,7
+jane,Jane,622447,622451,7
+jane,Jane,638362,638366,7
+jane,Jane,647684,647688,7
+jane,Jane,647867,647871,7
+jane,Jane,658542,658546,7
+jane,Jane,661094,661098,7
+jane,Jane,661897,661901,7
+jane,Jane,662050,662054,7
+jane,Jane,662515,662519,7
+jane,Jane,663012,663016,7
+jane,Jane,663310,663314,7
+jane,Jane,664297,664301,7
+jane,Jane,666752,666756,7
+jane,Jane,668982,668986,7
+jane,Jane,672884,672888,7
+jane,Jane,674650,674654,7
+jane,Jane,676312,676316,7
+jane,Jane,676363,676367,7
+jane,Jane,680291,680295,7
+jane,Jane,681055,681059,7
+jane,Jane,681150,681154,7
+jane,Jane,684400,684404,7
+jane,Jane,684694,684698,7
+jane,Jane,687570,687574,7
+king,King,24606,24610,58
+long,long,37976,37980,31
+long,long,41999,42003,31
+long,long,42640,42644,31
+long,long,44273,44277,31
+long,long,48399,48403,31
+long,long,49730,49734,31
+long,long,60970,60974,31
+long,long,76063,76067,31
+long,long,76765,76769,31
+long,long,76819,76823,31
+long,long,76940,76944,31
+long,long,91512,91516,31
+long,long,97158,97162,31
+long,long,98027,98031,31
+long,long,101892,101896,31
+long,long,107590,107594,31
+long,long,122581,122585,31
+long,long,127765,127769,31
+long,long,130355,130359,31
+long,long,131357,131361,31
+long,long,142483,142487,31
+long,long,147537,147541,31
+long,long,151333,151337,31
+long,long,154315,154319,31
+long,long,162473,162477,31
+long,long,174098,174102,31
+long,long,174270,174274,31
+long,long,175651,175655,31
+long,long,179771,179775,31
+long,long,187849,187853,31
+long,long,192231,192235,31
+long,long,214500,214504,31
+long,long,217421,217425,31
+long,long,219228,219232,31
+long,long,222010,222014,31
+long,long,234197,234201,31
+long,long,235043,235047,31
+long,long,241857,241861,31
+long,long,245824,245828,31
+long,long,258597,258601,31
+long,long,261155,261159,31
+long,long,261161,261165,31
+long,long,267299,267303,31
+long,long,268512,268516,31
+long,long,270442,270446,31
+long,long,274534,274538,31
+long,long,293236,293240,31
+long,long,294134,294138,31
+long,long,305750,305754,31
+long,long,331352,331356,31
+long,long,333275,333279,31
+long,Long,335968,335972,31
+long,long,337480,337484,31
+long,long,345151,345155,31
+long,long,353332,353336,31
+long,long,366572,366576,31
+long,long,370208,370212,31
+long,long,387341,387345,31
+long,long,392846,392850,31
+long,long,411609,411613,31
+long,long,412515,412519,31
+long,long,419784,419788,31
+long,long,432167,432171,31
+long,long,442867,442871,31
+long,long,457019,457023,31
+long,long,457317,457321,31
+long,long,457727,457731,31
+long,long,458722,458726,31
+long,long,459671,459675,31
+long,long,462964,462968,31
+long,long,464895,464899,31
+long,long,464909,464913,31
+long,long,465100,465104,31
+long,long,465132,465136,31
+long,long,473747,473751,31
+long,long,474538,474542,31
+long,long,480250,480254,31
+long,long,483582,483586,31
+long,long,489247,489251,31
+long,long,489832,489836,31
+long,long,489877,489881,31
+long,long,502443,502447,31
+long,long,502852,502856,31
+long,long,533180,533184,31
+long,long,540101,540105,31
+long,long,548075,548079,31
+long,long,573884,573888,31
+long,long,586886,586890,31
+long,long,590986,590990,31
+long,long,596100,596104,31
+long,long,597405,597409,31
+long,long,621999,622003,31
+long,long,642959,642963,31
+long,long,653781,653785,31
+long,long,659113,659117,31
+long,long,664006,664010,31
+long,long,666214,666218,31
+long,long,675077,675081,31
+long,long,677242,677246,31
+long,long,679167,679171,31
+long,long,679481,679485,31
+long,long,688395,688399,31
+hill,Hill,101010,101014,29
+hill,hill,428063,428067,29
+hill,hill,428757,428761,29
+hill,Hill,530988,530992,29
+hill,Hill,540377,540381,29
+hill,Hill,542218,542222,29
+hill,Hill,542232,542236,29
+sir,Sir,38650,38653,45
+sir,Sir,39024,39027,45
+sir,sir,39146,39149,45
+sir,Sir,40168,40171,45
+sir,Sir,66324,66327,45
+sir,SIR,102933,102936,45
+sir,sir,105156,105159,45
+sir,sir,106361,106364,45
+sir,sir,108039,108042,45
+sir,sir,108229,108232,45
+sir,sir,111575,111578,45
+sir,sir,111737,111740,45
+sir,Sir,159170,159173,45
+sir,Sir,159617,159620,45
+sir,Sir,187168,187171,45
+sir,Sir,187872,187875,45
+sir,Sir,191061,191064,45
+sir,Sir,193926,193929,45
+sir,Sir,195524,195527,45
+sir,sir,218370,218373,45
+sir,sir,218473,218476,45
+sir,sir,218944,218947,45
+sir,Sir,242081,242084,45
+sir,Sir,432624,432627,45
+sir,Sir,432855,432858,45
+sir,Sir,433752,433755,45
+sir,SIR,522731,522734,45
+sir,Sir,522997,523000,45
+sir,Sir,524688,524691,45
+sir,Sir,524892,524895,45
+sir,Sir,536040,536043,45
+sir,SIR,680646,680649,45
+pen,pen,76168,76171,50
+pen,Pen,389624,389627,50
+pen,pen,483701,483704,50

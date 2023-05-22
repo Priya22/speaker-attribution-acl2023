@@ -1,0 +1,653 @@
+exp_name,text,start_byte,end_byte,pdncID
+weary-looking police-sergeant,weary-looking police-sergeant,95469,95498,32
+"a stoutish, red-faced woman","a stoutish, red-faced woman",113973,114000,18
+"a bluff, genial inspector","a bluff, genial inspector",173233,173258,0
+that inspector in the cab,that inspector in the cab,178595,178620,0
+"a small, dark, brisk man","a small, dark, brisk man",32980,33004,28
+inspector in uniform,inspector in uniform,80932,80952,29
+mrs. cecil forrester,Mrs. Cecil Forrester,17688,17708,16
+mrs. cecil forrester,Mrs. Cecil Forrester,17807,17827,16
+mrs. cecil forrester,Mrs. Cecil Forrester,21008,21028,16
+mrs. cecil forrester,Mrs. Cecil Forrester,86716,86736,16
+mrs. cecil forrester,Mrs. Cecil Forrester,89989,90009,16
+mrs. cecil forrester,Mrs. Cecil Forrester,130950,130970,16
+mrs. cecil forrester,Mrs. Cecil Forrester,131006,131026,16
+mrs. cecil forrester,Mrs. Cecil Forrester,173319,173339,16
+mrs. cecil forrester,Mrs. Cecil Forrester,173394,173414,16
+mr. sherlock holmes,Mr. Sherlock Holmes,38702,38721,14
+mr. sherlock holmes,Mr. Sherlock Holmes,59565,59584,14
+mr. sherlock holmes,Mr. Sherlock Holmes,81283,81302,14
+mr. sherlock holmes,Mr. Sherlock Holmes,92774,92793,14
+mr. sherlock holmes,Mr. Sherlock Holmes,93620,93639,14
+mr. sherlock holmes,Mr. Sherlock Holmes,121797,121816,14
+mr. sherlock holmes,Mr. Sherlock Holmes,133284,133303,14
+mr. sherlock holmes,Mr. Sherlock Holmes,141048,141067,14
+mr. sherlock holmes,Mr. Sherlock Holmes,142068,142087,14
+mr. sherlock holmes,Mr. Sherlock Holmes,144281,144300,14
+a high piping voice,a high piping voice,36484,36503,19
+brother bartholomew,Brother Bartholomew,39891,39910,4
+brother bartholomew,Brother Bartholomew,40087,40106,4
+brother bartholomew,Brother Bartholomew,40265,40284,4
+brother bartholomew,Brother Bartholomew,42520,42539,4
+brother bartholomew,Brother Bartholomew,42593,42612,4
+brother bartholomew,brother Bartholomew,43710,43729,4
+brother bartholomew,brother Bartholomew,52148,52167,4
+brother bartholomew,Brother Bartholomew,52884,52903,4
+brother bartholomew,Brother Bartholomew,53632,53651,4
+mr. thaddeus sholto,Mr. Thaddeus Sholto,38549,38568,19
+mr. thaddeus sholto,Mr. Thaddeus Sholto,51530,51549,19
+mr. thaddeus sholto,Mr. Thaddeus Sholto,53706,53725,19
+mr. thaddeus sholto,Mr. Thaddeus Sholto,57287,57306,19
+mr. thaddeus sholto,Mr. Thaddeus Sholto,121866,121885,19
+mr. thaddeus sholto,Mr. Thaddeus Sholto,132820,132839,19
+mr. thaddeus sholto,Mr. Thaddeus Sholto,137956,137975,19
+mr. thaddeus sholto,Mr. Thaddeus Sholto,178920,178939,19
+bartholomew sholto,Bartholomew Sholto,65134,65152,4
+bartholomew sholto,Bartholomew Sholto,67854,67872,4
+bartholomew sholto,Bartholomew Sholto,98361,98379,4
+bartholomew sholto,Bartholomew Sholto,105843,105861,4
+bartholomew sholto,Bartholomew Sholto,106291,106309,4
+bartholomew sholto,Bartholomew Sholto,120277,120295,4
+bartholomew sholto,Bartholomew Sholto,121423,121441,4
+bartholomew sholto,Bartholomew Sholto,226298,226316,4
+bartholomew sholto,Bartholomew Sholto,226786,226804,4
+mr. athelney jones,Mr. Athelney Jones,81198,81216,3
+mr. athelney jones,Mr. Athelney Jones,121949,121967,3
+mr. athelney jones,Mr. Athelney Jones,138219,138237,3
+mr. athelney jones,Mr. Athelney Jones,140750,140768,3
+mr. athelney jones,Mr. Athelney Jones,169533,169551,3
+mr. athelney jones,Mr. Athelney Jones,179109,179127,3
+wooden-legged man,wooden-legged man,44677,44694,23
+wooden-legged man,wooden-legged man,72992,73009,23
+wooden-legged man,wooden-legged man,101876,101893,23
+wooden-legged man,wooden-legged man,103444,103461,23
+wooden-legged man,wooden-legged man,103727,103744,23
+wooden-legged man,wooden-legged man,115630,115647,23
+wooden-legged man,wooden-legged man,115742,115759,23
+wooden-legged man,wooden-legged man,116221,116238,23
+wooden-legged man,wooden-legged man,116651,116668,23
+wooden-legged man,wooden-legged man,155142,155159,23
+wooden-legged man,wooden-legged man,164850,164867,23
+major john sholto,Major John Sholto,43334,43351,33
+miss mary morstan,Miss Mary Morstan,16387,16404,12
+miss mary morstan,Miss Mary Morstan,20842,20859,12
+a hindoo servant,a Hindoo servant,36187,36203,8
+sherlock holmes,Sherlock Holmes,36,51,14
+sherlock holmes,Sherlock Holmes,6530,6545,14
+sherlock holmes,Sherlock Holmes,17480,17495,14
+sherlock holmes,Sherlock Holmes,21733,21748,14
+sherlock holmes,Sherlock Holmes,28791,28806,14
+sherlock holmes,Sherlock Holmes,29532,29547,14
+sherlock holmes,Sherlock Holmes,34733,34748,14
+sherlock holmes,Sherlock Holmes,51216,51231,14
+sherlock holmes,Sherlock Holmes,59361,59376,14
+sherlock holmes,Sherlock Holmes,65249,65264,14
+sherlock holmes,Sherlock Holmes,66512,66527,14
+sherlock holmes,Sherlock Holmes,71462,71477,14
+sherlock holmes,Sherlock Holmes,76212,76227,14
+sherlock holmes,Sherlock Holmes,86253,86268,14
+sherlock holmes,Sherlock Holmes,97007,97022,14
+sherlock holmes,Sherlock Holmes,111358,111373,14
+sherlock holmes,Sherlock Holmes,113598,113613,14
+sherlock holmes,Sherlock Holmes,130023,130038,14
+sherlock holmes,Sherlock Holmes,172219,172234,14
+sherlock holmes,Sherlock Holmes,175293,175308,14
+sherlock holmes,Sherlock Holmes,205014,205029,14
+sherlock holmes,Sherlock Holmes,228125,228140,14
+sherlock holmes,Sherlock Holmes,231409,231424,14
+thaddeus sholto,Thaddeus Sholto,54891,54906,19
+thaddeus sholto,Thaddeus Sholto,57740,57755,19
+thaddeus sholto,Thaddeus Sholto,58875,58890,19
+thaddeus sholto,Thaddeus Sholto,60585,60600,19
+thaddeus sholto,Thaddeus Sholto,63720,63735,19
+thaddeus sholto,Thaddeus Sholto,64168,64183,19
+thaddeus sholto,Thaddeus Sholto,65300,65315,19
+thaddeus sholto,Thaddeus Sholto,80983,80998,19
+thaddeus sholto,Thaddeus Sholto,82822,82837,19
+thaddeus sholto,Thaddeus Sholto,107010,107025,19
+thaddeus sholto,Thaddeus Sholto,122275,122290,19
+thaddeus sholto,Thaddeus Sholto,135932,135947,19
+thaddeus sholto,Thaddeus Sholto,174815,174830,19
+captain morstan,Captain Morstan,19398,19413,5
+captain morstan,Captain Morstan,27739,27754,5
+captain morstan,Captain Morstan,27952,27967,5
+captain morstan,Captain Morstan,43838,43853,5
+captain morstan,Captain Morstan,48856,48871,5
+captain morstan,Captain Morstan,91336,91351,5
+captain morstan,Captain Morstan,91862,91877,5
+captain morstan,Captain Morstan,102224,102239,5
+captain morstan,Captain Morstan,212863,212878,5
+captain morstan,Captain Morstan,214092,214107,5
+captain morstan,Captain Morstan,216194,216209,5
+captain morstan,Captain Morstan,216292,216307,5
+captain morstan,Captain Morstan,216468,216483,5
+captain morstan,Captain Morstan,219598,219613,5
+captain morstan,Captain Morstan,220276,220291,5
+mrs. bernstone,Mrs. Bernstone,61373,61387,15
+mrs. bernstone,Mrs. Bernstone,61960,61974,15
+mrs. bernstone,Mrs. Bernstone,88125,88139,15
+mrs. bernstone,Mrs. Bernstone,104288,104302,15
+mrs. bernstone,Mrs. Bernstone,122350,122364,15
+mrs. bernstone,Mrs. Bernstone,138052,138066,15
+mordecai smith,Mordecai Smith,113339,113353,13
+mordecai smith,Mordecai Smith,124878,124892,13
+mordecai smith,Mordecai Smith,125011,125025,13
+mordecai smith,Mordecai Smith,125849,125863,13
+mordecai smith,Mordecai Smith,138709,138723,13
+mordecai smith,Mordecai Smith,139074,139088,13
+mordecai smith,Mordecai Smith,144503,144517,13
+mordecai smith,Mordecai Smith,155350,155364,13
+mordecai smith,Mordecai Smith,156555,156569,13
+arthur morstan,Arthur Morstan,44193,44207,5
+mrs. forrester,Mrs. Forrester,90053,90067,24
+mrs. forrester,Mrs. Forrester,90473,90487,24
+mrs. forrester,Mrs. Forrester,131787,131801,24
+mrs. forrester,Mrs. Forrester,132128,132142,24
+mrs. forrester,Mrs. Forrester,174272,174286,24
+mrs. forrester,Mrs. Forrester,176954,176968,24
+jonathan small,Jonathan Small,30654,30668,23
+jonathan small,Jonathan Small,85600,85614,23
+jonathan small,Jonathan Small,102156,102170,23
+jonathan small,Jonathan Small,102570,102584,23
+jonathan small,Jonathan Small,102726,102740,23
+jonathan small,Jonathan Small,103763,103777,23
+jonathan small,Jonathan Small,103909,103923,23
+jonathan small,Jonathan Small,105455,105469,23
+jonathan small,Jonathan Small,106554,106568,23
+jonathan small,Jonathan Small,126725,126739,23
+jonathan small,Jonathan Small,129012,129026,23
+jonathan small,Jonathan Small,148421,148435,23
+jonathan small,Jonathan Small,148733,148747,23
+jonathan small,Jonathan Small,152937,152951,23
+jonathan small,Jonathan Small,168154,168168,23
+jonathan small,Jonathan Small,178556,178570,23
+jonathan small,Jonathan Small,229229,229243,23
+athelney jones,Athelney Jones,3482,3496,3
+athelney jones,Athelney Jones,84366,84380,3
+athelney jones,Athelney Jones,86088,86102,3
+athelney jones,Athelney Jones,118318,118332,3
+athelney jones,Athelney Jones,145076,145090,3
+athelney jones,Athelney Jones,145335,145349,3
+athelney jones,Athelney Jones,149686,149700,3
+athelney jones,Athelney Jones,170909,170923,3
+athelney jones,Athelney Jones,175689,175703,3
+athelney jones,Athelney Jones,179694,179708,3
+athelney jones,Athelney Jones,180657,180671,3
+athelney jones,Athelney Jones,228742,228756,3
+abdullah khan,Abdullah Khan,30685,30698,1
+abdullah khan,Abdullah Khan,191922,191935,1
+abdullah khan,Abdullah Khan,194342,194355,1
+abdullah khan,Abdullah Khan,199085,199098,1
+abdullah khan,Abdullah Khan,219080,219093,1
+mahomet singh,Mahomet Singh,30670,30683,10
+mahomet singh,Mahomet Singh,191904,191917,10
+mahomet singh,Mahomet Singh,196159,196172,10
+mahomet singh,Mahomet Singh,198298,198311,10
+mahomet singh,Mahomet Singh,200158,200171,10
+mahomet singh,Mahomet Singh,205867,205880,10
+mahomet singh,Mahomet Singh,207650,207663,10
+mahomet singh,Mahomet Singh,219065,219078,10
+an inspector,an inspector,172615,172627,29
+major sholto,Major Sholto,20381,20393,11
+major sholto,Major Sholto,27513,27525,11
+major sholto,Major Sholto,27823,27835,11
+major sholto,Major Sholto,27837,27849,11
+major sholto,Major Sholto,29562,29574,11
+major sholto,Major Sholto,91613,91625,11
+major sholto,Major Sholto,103004,103016,11
+major sholto,Major Sholto,170815,170827,11
+major sholto,Major Sholto,182631,182643,11
+major sholto,Major Sholto,212849,212861,11
+major sholto,Major Sholto,213643,213655,11
+major sholto,Major Sholto,214575,214587,11
+major sholto,Major Sholto,219337,219349,11
+major sholto,Major Sholto,228028,228040,11
+mary morstan,Mary Morstan,129880,129892,12
+miss morstan,Miss Morstan,16595,16607,12
+miss morstan,Miss Morstan,22509,22521,12
+miss morstan,Miss Morstan,23745,23757,12
+miss morstan,Miss Morstan,28904,28916,12
+miss morstan,Miss Morstan,29222,29234,12
+miss morstan,Miss Morstan,30990,31002,12
+miss morstan,Miss Morstan,31290,31302,12
+miss morstan,Miss Morstan,32415,32427,12
+miss morstan,Miss Morstan,33081,33093,12
+miss morstan,Miss Morstan,33113,33125,12
+miss morstan,Miss Morstan,34031,34043,12
+miss morstan,Miss Morstan,37542,37554,12
+miss morstan,Miss Morstan,38645,38657,12
+miss morstan,Miss Morstan,39275,39287,12
+miss morstan,Miss Morstan,39451,39463,12
+miss morstan,Miss Morstan,39668,39680,12
+miss morstan,Miss Morstan,40595,40607,12
+miss morstan,Miss Morstan,42241,42253,12
+miss morstan,Miss Morstan,50994,51006,12
+miss morstan,Miss Morstan,52544,52556,12
+miss morstan,Miss Morstan,53510,53522,12
+miss morstan,Miss Morstan,54121,54133,12
+miss morstan,Miss Morstan,56125,56137,12
+miss morstan,Miss Morstan,57245,57257,12
+miss morstan,Miss Morstan,61704,61716,12
+miss morstan,Miss Morstan,62584,62596,12
+miss morstan,Miss Morstan,64441,64453,12
+miss morstan,Miss Morstan,65785,65797,12
+miss morstan,Miss Morstan,86617,86629,12
+miss morstan,Miss Morstan,87424,87436,12
+miss morstan,Miss Morstan,88517,88529,12
+miss morstan,Miss Morstan,90120,90132,12
+miss morstan,Miss Morstan,120479,120491,12
+miss morstan,Miss Morstan,131102,131114,12
+miss morstan,Miss Morstan,131696,131708,12
+miss morstan,Miss Morstan,132348,132360,12
+miss morstan,Miss Morstan,173483,173495,12
+miss morstan,Miss Morstan,177599,177611,12
+miss morstan,Miss Morstan,229667,229679,12
+mr. thaddeus,Mr. Thaddeus,58466,58478,19
+mr. thaddeus,Mr. Thaddeus,58685,58697,19
+mr. thaddeus,Mr. Thaddeus,59128,59140,19
+mr. thaddeus,Mr. Thaddeus,60183,60195,19
+mr. thaddeus,Mr. Thaddeus,62222,62234,19
+mr. thaddeus,Mr. Thaddeus,62297,62309,19
+mr. thaddeus,Mr. Thaddeus,65066,65078,19
+mr. thaddeus,Mr. Thaddeus,88175,88187,19
+an aged man,an aged man,143628,143639,14
+bartholomew,Bartholomew,54988,54999,4
+bartholomew,Bartholomew,60754,60765,4
+bartholomew,Bartholomew,61099,61110,4
+bartholomew,Bartholomew,63840,63851,4
+mrs. hudson,Mrs. Hudson,16489,16500,17
+mrs. hudson,Mrs. Hudson,123728,123739,17
+mrs. hudson,Mrs. Hudson,133329,133340,17
+mrs. hudson,Mrs. Hudson,133523,133534,17
+mrs. hudson,Mrs. Hudson,133821,133832,17
+mrs. hudson,Mrs. Hudson,134170,134181,17
+mr. sherman,Mr. Sherman,92695,92706,31
+mr. sherman,Mr. Sherman,92937,92948,31
+mrs. smith,Mrs. Smith,114541,114551,18
+mrs. smith,Mrs. Smith,116081,116091,18
+mrs. smith,Mrs. Smith,116751,116761,18
+mrs. smith,Mrs. Smith,117384,117394,18
+mrs. smith,Mrs. Smith,135130,135140,18
+mrs. smith,Mrs. Smith,135279,135289,18
+mrs. smith,Mrs. Smith,138983,138993,18
+mrs. smith,Mrs. Smith,153344,153354,18
+dost akbar,Dost Akbar,30700,30710,6
+dost akbar,Dost Akbar,196052,196062,6
+dost akbar,Dost Akbar,198094,198104,6
+dost akbar,Dost Akbar,198128,198138,6
+dost akbar,Dost Akbar,219099,219109,6
+dr. watson,Dr. Watson,22626,22636,21
+dr. watson,Dr. Watson,38735,38745,21
+dr. watson,Dr. Watson,121821,121831,21
+dr. watson,Dr. Watson,172376,172386,21
+dr. watson,Dr. Watson,175521,175531,21
+mr. sholto,Mr. Sholto,42223,42233,19
+mr. sholto,Mr. Sholto,71112,71122,19
+mr. sholto,Mr. Sholto,82440,82450,19
+mr. sholto,Mr. Sholto,84802,84812,19
+mr. sholto,Mr. Sholto,84831,84841,19
+mr. sholto,Mr. Sholto,85173,85183,19
+mr. sholto,Mr. Sholto,94727,94737,19
+mr. sholto,Mr. Sholto,121622,121632,19
+mr. sholto,Mr. Sholto,131953,131963,19
+mr. sholto,Mr. Sholto,141615,141625,19
+mr. sholto,Mr. Sholto,168396,168406,19
+mr. sholto,Mr. Sholto,168859,168869,19
+mr. sholto,Mr. Sholto,169100,169110,19
+mr. sholto,Mr. Sholto,226524,226534,19
+khitmutgar,khitmutgar,36547,36557,8
+khitmutgar,khitmutgar,53335,53345,8
+khitmutgar,khitmutgar,224810,224820,8
+the porter,the porter,59148,59158,30
+mr. smith,Mr. Smith,114793,114802,13
+mr. smith,Mr. Smith,117130,117139,13
+mr. jones,Mr. Jones,85422,85431,3
+mr. jones,Mr. Jones,122529,122538,3
+mr. jones,Mr. Jones,220118,220127,3
+williams,Williams,41414,41422,28
+williams,Williams,44415,44423,28
+williams,Williams,53350,53358,28
+coachman,coachman,33023,33031,28
+coachman,coachman,57198,57206,28
+sherlock,Sherlock,93060,93068,14
+thaddeus,Thaddeus,67017,67025,19
+thaddeus,Thaddeus,83006,83014,19
+thaddeus,Thaddeus,83056,83064,19
+thaddeus,Thaddeus,83192,83200,19
+thaddeus,Thaddeus,83697,83705,19
+thaddeus,Thaddeus,83757,83765,19
+thaddeus,Thaddeus,95149,95157,19
+mcmurdo,McMurdo,58158,58165,30
+mcmurdo,McMurdo,58555,58562,30
+mcmurdo,McMurdo,58969,58976,30
+mcmurdo,McMurdo,59345,59352,30
+mcmurdo,McMurdo,94658,94665,30
+mcmurdo,McMurdo,122433,122440,30
+lal rao,Lal Rao,104256,104263,9
+lal rao,Lal Rao,122389,122396,9
+lal rao,Lal Rao,231113,231120,9
+morstan,Morstan,45901,45908,5
+morstan,Morstan,46620,46627,5
+morstan,Morstan,46917,46924,5
+morstan,Morstan,47081,47088,5
+morstan,Morstan,47188,47195,5
+morstan,Morstan,49056,49063,5
+morstan,Morstan,91573,91580,5
+morstan,Morstan,102668,102675,5
+morstan,Morstan,180365,180372,5
+morstan,Morstan,214271,214278,5
+morstan,Morstan,218200,218207,5
+morstan,Morstan,220516,220523,5
+wiggins,Wiggins,119821,119828,22
+wiggins,Wiggins,124662,124669,22
+wiggins,Wiggins,125242,125249,22
+wiggins,Wiggins,130483,130490,22
+wiggins,Wiggins,135770,135777,22
+wiggins,Wiggins,137167,137174,22
+sherman,Sherman,87580,87587,31
+sherman,Sherman,87671,87678,31
+holmes,Holmes,5496,5502,14
+holmes,Holmes,12808,12814,14
+holmes,Holmes,17630,17636,14
+holmes,Holmes,18156,18162,14
+holmes,Holmes,19971,19977,14
+holmes,Holmes,20650,20656,14
+holmes,Holmes,21951,21957,14
+holmes,Holmes,23086,23092,14
+holmes,Holmes,25472,25478,14
+holmes,Holmes,26948,26954,14
+holmes,Holmes,27639,27645,14
+holmes,Holmes,29073,29079,14
+holmes,Holmes,30004,30010,14
+holmes,Holmes,32483,32489,14
+holmes,Holmes,40425,40431,14
+holmes,Holmes,53885,53891,14
+holmes,Holmes,56929,56935,14
+holmes,Holmes,60024,60030,14
+holmes,Holmes,60922,60928,14
+holmes,Holmes,61237,61243,14
+holmes,Holmes,62463,62469,14
+holmes,Holmes,63500,63506,14
+holmes,Holmes,64116,64122,14
+holmes,Holmes,65498,65504,14
+holmes,Holmes,66015,66021,14
+holmes,Holmes,66225,66231,14
+holmes,Holmes,67553,67559,14
+holmes,Holmes,69202,69208,14
+holmes,Holmes,71130,71136,14
+holmes,Holmes,71521,71527,14
+holmes,Holmes,74404,74410,14
+holmes,Holmes,76886,76892,14
+holmes,Holmes,79168,79174,14
+holmes,Holmes,81224,81230,14
+holmes,Holmes,81944,81950,14
+holmes,Holmes,82503,82509,14
+holmes,Holmes,83295,83301,14
+holmes,Holmes,84205,84211,14
+holmes,Holmes,85191,85197,14
+holmes,Holmes,88084,88090,14
+holmes,Holmes,89557,89563,14
+holmes,Holmes,94896,94902,14
+holmes,Holmes,95931,95937,14
+holmes,Holmes,99047,99053,14
+holmes,Holmes,100257,100263,14
+holmes,Holmes,101018,101024,14
+holmes,Holmes,101623,101629,14
+holmes,Holmes,109968,109974,14
+holmes,Holmes,110513,110519,14
+holmes,Holmes,111635,111641,14
+holmes,Holmes,113001,113007,14
+holmes,Holmes,114219,114225,14
+holmes,Holmes,114713,114719,14
+holmes,Holmes,115767,115773,14
+holmes,Holmes,116099,116105,14
+holmes,Holmes,117531,117537,14
+holmes,Holmes,119387,119393,14
+holmes,Holmes,120752,120758,14
+holmes,Holmes,123398,123404,14
+holmes,Holmes,123825,123831,14
+holmes,Holmes,124596,124602,14
+holmes,Holmes,125545,125551,14
+holmes,Holmes,125931,125937,14
+holmes,Holmes,131035,131041,14
+holmes,Holmes,131202,131208,14
+holmes,Holmes,136178,136184,14
+holmes,Holmes,139134,139140,14
+holmes,Holmes,139499,139505,14
+holmes,Holmes,140510,140516,14
+holmes,Holmes,144900,144906,14
+holmes,Holmes,144928,144934,14
+holmes,Holmes,145914,145920,14
+holmes,Holmes,146046,146052,14
+holmes,Holmes,146107,146113,14
+holmes,Holmes,149200,149206,14
+holmes,Holmes,149920,149926,14
+holmes,Holmes,150043,150049,14
+holmes,Holmes,150515,150521,14
+holmes,Holmes,150735,150741,14
+holmes,Holmes,151072,151078,14
+holmes,Holmes,157202,157208,14
+holmes,Holmes,157760,157766,14
+holmes,Holmes,158433,158439,14
+holmes,Holmes,158944,158950,14
+holmes,Holmes,159513,159519,14
+holmes,Holmes,160438,160444,14
+holmes,Holmes,163558,163564,14
+holmes,Holmes,164095,164101,14
+holmes,Holmes,166660,166666,14
+holmes,Holmes,166929,166935,14
+holmes,Holmes,168176,168182,14
+holmes,Holmes,168703,168709,14
+holmes,Holmes,171068,171074,14
+holmes,Holmes,171195,171201,14
+holmes,Holmes,171326,171332,14
+holmes,Holmes,175609,175615,14
+holmes,Holmes,179300,179306,14
+holmes,Holmes,182764,182770,14
+holmes,Holmes,204665,204671,14
+holmes,Holmes,205742,205748,14
+holmes,Holmes,228542,228548,14
+holmes,Holmes,228728,228734,14
+sholto,Sholto,27910,27916,19
+sholto,Sholto,28234,28240,19
+sholto,Sholto,28268,28274,19
+sholto,Sholto,61982,61988,19
+sholto,Sholto,82511,82517,19
+sholto,Sholto,82611,82617,19
+sholto,Sholto,104140,104146,19
+sholto,Sholto,138412,138418,19
+sholto,Sholto,142598,142604,19
+sholto,Sholto,142851,142857,19
+sholto,Sholto,169457,169463,19
+sholto,Sholto,180352,180358,19
+sholto,Sholto,220220,220226,19
+sholto,Sholto,220961,220967,19
+sholto,Sholto,221112,221118,19
+sholto,Sholto,224236,224242,19
+sholto,Sholto,224422,224428,19
+achmet,Achmet,170669,170675,2
+achmet,Achmet,180419,180425,2
+achmet,Achmet,197957,197963,2
+achmet,Achmet,198430,198436,2
+achmet,Achmet,198740,198746,2
+achmet,Achmet,202240,202246,2
+achmet,Achmet,206181,206187,2
+achmet,Achmet,209178,209184,2
+achmet,Achmet,209263,209269,2
+achmet,Achmet,209524,209530,2
+achmet,Achmet,209784,209790,2
+watson,Watson,1895,1901,21
+watson,Watson,59930,59936,21
+watson,Watson,66646,66652,21
+watson,Watson,71507,71513,21
+watson,Watson,72630,72636,21
+watson,Watson,77334,77340,21
+watson,Watson,86384,86390,21
+watson,Watson,95744,95750,21
+watson,Watson,97344,97350,21
+watson,Watson,98688,98694,21
+watson,Watson,117435,117441,21
+watson,Watson,128310,128316,21
+watson,Watson,128863,128869,21
+watson,Watson,129369,129375,21
+watson,Watson,136812,136818,21
+watson,Watson,148000,148006,21
+watson,Watson,149069,149075,21
+watson,Watson,150232,150238,21
+watson,Watson,151405,151411,21
+tonga,Tonga,168438,168443,20
+tonga,Tonga,170058,170063,20
+tonga,Tonga,180487,180492,20
+tonga,Tonga,182163,182168,20
+tonga,Tonga,221829,221834,20
+tonga,Tonga,222311,222316,20
+tonga,Tonga,223373,223378,20
+tonga,Tonga,223774,223779,20
+tonga,Tonga,225863,225868,20
+tonga,Tonga,226611,226616,20
+tonga,Tonga,226841,226846,20
+tonga,Tonga,227306,227311,20
+tonga,Tonga,228356,228361,20
+jones,Jones,87332,87337,3
+jones,Jones,88253,88258,3
+jones,Jones,95044,95049,3
+jones,Jones,118841,118846,3
+jones,Jones,121110,121115,3
+jones,Jones,143052,143057,3
+jones,Jones,145850,145855,3
+jones,Jones,146398,146403,3
+jones,Jones,148088,148093,3
+jones,Jones,150728,150733,3
+jones,Jones,150885,150890,3
+jones,Jones,156218,156223,3
+jones,Jones,157577,157582,3
+jones,Jones,159372,159377,3
+jones,Jones,160620,160625,3
+jones,Jones,161490,161495,3
+jones,Jones,162748,162753,3
+jones,Jones,172098,172103,3
+jones,Jones,172348,172353,3
+jones,Jones,205034,205039,3
+jones,Jones,229284,229289,3
+jones,Jones,231137,231142,3
+jones,Jones,231342,231347,3
+smith,Smith,138757,138762,18
+smith,Smith,138998,139003,18
+smith,Smith,153507,153512,18
+smith,Smith,156707,156712,18
+smith,Smith,161823,161828,18
+smith,Smith,171405,171410,18
+smith,Smith,227495,227500,18
+smith,Smith,227599,227604,18
+small,small,2086,2091,25
+small,small,4024,4029,25
+small,small,5165,5170,25
+small,small,6811,6816,25
+small,small,13914,13919,25
+small,small,16707,16712,25
+small,small,16967,16972,25
+small,small,21171,21176,25
+small,small,30380,30385,25
+small,small,36887,36892,25
+small,small,37661,37666,25
+small,small,54039,54044,25
+small,small,74848,74853,25
+small,small,78509,78514,25
+small,small,80817,80822,25
+small,small,85645,85650,25
+small,small,96150,96155,25
+small,small,98094,98099,25
+small,Small,104340,104345,25
+small,Small,104488,104493,25
+small,small,107499,107504,25
+small,small,112850,112855,25
+small,small,113051,113056,25
+small,small,113260,113265,25
+small,small,126589,126594,25
+small,small,126970,126975,25
+small,small,128405,128410,25
+small,small,128495,128500,25
+small,Small,129212,129217,25
+small,small,132792,132797,25
+small,small,134243,134248,25
+small,small,136464,136469,25
+small,small,150655,150660,25
+small,small,151467,151472,25
+small,Small,152101,152106,25
+small,Small,154118,154123,25
+small,Small,156396,156401,25
+small,small,159214,159219,25
+small,small,163897,163902,25
+small,small,168804,168809,25
+small,Small,172889,172894,25
+small,Small,176894,176899,25
+small,Small,179501,179506,25
+small,Small,179681,179686,25
+small,Small,180644,180649,25
+small,Small,181339,181344,25
+small,Small,182309,182314,25
+small,small,183639,183644,25
+small,small,186510,186515,25
+small,small,191209,191214,25
+small,small,191732,191737,25
+small,small,192672,192677,25
+small,small,196699,196704,25
+small,small,207059,207064,25
+small,small,211585,211590,25
+small,small,212573,212578,25
+small,Small,214713,214718,25
+small,Small,215143,215148,25
+small,Small,215432,215437,25
+small,Small,215752,215757,25
+small,small,215814,215819,25
+small,Small,216052,216057,25
+small,Small,216344,216349,25
+small,Small,216506,216511,25
+small,Small,218220,218225,25
+small,Small,218445,218450,25
+small,small,219448,219453,25
+small,Small,229258,229263,25
+sahib,Sahib,36424,36429,34
+sahib,Sahib,48223,48228,34
+sahib,Sahib,48415,48420,34
+sahib,Sahib,194268,194273,34
+sahib,Sahib,196230,196235,34
+sahib,Sahib,197820,197825,34
+sahib,Sahib,198529,198534,34
+sahib,Sahib,199182,199187,34
+sahib,Sahib,199699,199704,34
+sahib,Sahib,200832,200837,34
+sahib,Sahib,202179,202184,34
+sahib,Sahib,202752,202757,34
+sahib,Sahib,208781,208786,34
+toby,Toby,87730,87734,27
+toby,Toby,87759,87763,27
+toby,Toby,87892,87896,27
+toby,Toby,93703,93707,27
+toby,Toby,93717,93721,27
+toby,Toby,93739,93743,27
+toby,Toby,94182,94186,27
+toby,Toby,95324,95328,27
+toby,Toby,96870,96874,27
+toby,Toby,98794,98798,27
+toby,Toby,98810,98814,27
+toby,Toby,99957,99961,27
+toby,Toby,100825,100829,27
+toby,Toby,106002,106006,27
+toby,Toby,108452,108456,27
+toby,Toby,108974,108978,27
+toby,Toby,109649,109653,27
+toby,Toby,111120,111124,27
+toby,Toby,111545,111549,27
+toby,Toby,111913,111917,27
+toby,Toby,112284,112288,27
+toby,Toby,112870,112874,27
+toby,Toby,113142,113146,27
+toby,Toby,119291,119295,27
+toby,Toby,125868,125872,27
+toby,Toby,131469,131473,27
+jack,Jack,114065,114069,7
+jack,Jack,114282,114286,7
+jack,jack,211027,211031,7
+mary,Mary,132397,132401,12
+mary,Mary,178191,178195,12

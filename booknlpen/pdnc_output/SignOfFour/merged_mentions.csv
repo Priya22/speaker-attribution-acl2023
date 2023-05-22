@@ -1,0 +1,2743 @@
+source,idColName,iden,text,startByte,endByte,pdncID
+exp,exp_name,sherlock holmes,Sherlock Holmes,36,51,14
+booknlp,COREF,105,his,57,60,14
+booknlp,COREF,105,his,108,111,14
+booknlp,COREF,105,his,164,167,14
+booknlp,COREF,105,he,197,199,14
+booknlp,COREF,105,his,246,249,14
+booknlp,COREF,105,his,288,291,14
+booknlp,COREF,105,he,415,417,14
+booknlp,COREF,105,him,1008,1011,14
+booknlp,COREF,105,His,1093,1096,14
+booknlp,COREF,105,his,1111,1114,14
+booknlp,COREF,105,his,1170,1173,14
+booknlp,COREF,105,him,1251,1254,14
+booknlp,COREF,105,his,1412,1415,14
+booknlp,COREF,105,He,1529,1531,14
+booknlp,COREF,105,his,1539,1542,14
+booknlp,COREF,105,he,1597,1599,14
+booknlp,COREF,105,he,1629,1631,14
+pdnc,qID,Q1-1,you,1673,1676,21
+booknlp,COREF,105,He,1844,1846,14
+pdnc,qID,Q3-0,you,1880,1883,21
+pdnc,qID,Q3-0,Watson,1895,1901,21
+booknlp,COREF,105,he,1904,1906,14
+booknlp,COREF,105,I,1914,1915,14
+booknlp,COREF,105,I,1968,1969,14
+exp,exp_name,small,small,2086,2091,25
+pdnc,qID,Q4-1,Your,2154,2158,14
+pdnc,qID,Q4-1,you,2173,2176,14
+pdnc,qID,Q4-1,You,2333,2336,14
+pdnc,qID,Q4-1,you,2381,2384,14
+pdnc,qID,Q4-1,you,2441,2444,14
+pdnc,qID,Q4-1,you,2522,2525,14
+booknlp,COREF,105,he,2654,2656,14
+booknlp,COREF,105,He,2689,2691,14
+booknlp,COREF,105,he,2732,2734,14
+booknlp,COREF,105,his,2739,2742,14
+booknlp,COREF,105,his,2775,2778,14
+booknlp,COREF,105,his,2801,2804,14
+booknlp,COREF,105,My,2858,2860,14
+booknlp,COREF,105,he,2868,2870,14
+booknlp,COREF,105,me,2905,2907,14
+booknlp,COREF,105,me,2923,2925,14
+booknlp,COREF,105,me,2937,2939,14
+booknlp,COREF,105,I,3005,3006,14
+booknlp,COREF,105,my,3013,3015,14
+booknlp,COREF,105,I,3039,3040,14
+booknlp,COREF,105,I,3091,3092,14
+booknlp,COREF,105,I,3130,3131,14
+booknlp,COREF,105,I,3173,3174,14
+booknlp,COREF,105,my,3187,3189,14
+booknlp,COREF,105,I,3243,3244,14
+booknlp,COREF,105,he,3384,3386,14
+booknlp,COREF,105,I,3398,3399,14
+pdnc,qID,Q7-1,Athelney Jones,3482,3496,3
+booknlp,COREF,105,me,3588,3590,14
+booknlp,COREF,105,I,3592,3593,14
+booknlp,COREF,105,I,3664,3665,14
+booknlp,COREF,105,My,3697,3699,14
+booknlp,COREF,105,my,3783,3785,14
+booknlp,COREF,105,my,3806,3808,14
+pdnc,qID,Q7-1,you,3829,3832,21
+booknlp,COREF,105,my,3870,3872,14
+exp,exp_name,small,small,4024,4029,25
+pdnc,qID,Q9-1,you,4188,4191,21
+pdnc,qID,Q9-1,You,4312,4315,21
+pdnc,qID,Q9-1,you,4403,4406,21
+exp,exp_name,small,small,5165,5170,25
+booknlp,COREF,105,My,5438,5440,14
+exp,exp_name,holmes,Holmes,5496,5502,14
+booknlp,COREF,105,his,5530,5533,14
+booknlp,COREF,105,I,5556,5557,14
+pdnc,qID,Q12-1,you,5614,5617,21
+booknlp,COREF,105,I,5942,5943,14
+booknlp,COREF,105,him,5962,5965,14
+booknlp,COREF,105,him,6074,6077,14
+booknlp,COREF,105,I,6122,6123,14
+booknlp,COREF,105,my,6155,6157,14
+booknlp,COREF,105,He,6171,6173,14
+booknlp,COREF,105,he,6190,6192,14
+booknlp,COREF,105,He,6438,6440,14
+booknlp,COREF,105,his,6462,6465,14
+booknlp,COREF,105,he,6489,6491,14
+booknlp,COREF,105,my,6498,6500,14
+exp,exp_name,sherlock holmes,Sherlock Holmes,6530,6545,14
+booknlp,COREF,105,He,6557,6559,14
+booknlp,COREF,105,himself,6583,6590,14
+booknlp,COREF,105,He,6592,6594,14
+booknlp,COREF,105,He,6671,6673,14
+booknlp,COREF,105,He,6726,6728,14
+booknlp,COREF,105,He,6786,6788,14
+booknlp,COREF,105,my,6808,6810,14
+exp,exp_name,small,small,6811,6816,25
+pdnc,qID,Q15-0,Your,6839,6843,14
+pdnc,qID,Q16-0,you,6865,6868,21
+booknlp,COREF,105,he,6876,6878,14
+booknlp,COREF,105,I,6902,6903,14
+booknlp,COREF,105,I,7081,7082,14
+pdnc,qID,Q17-0,You,7668,7671,14
+booknlp,COREF,105,I,7729,7730,14
+booknlp,COREF,105,my,7768,7770,14
+booknlp,COREF,105,I,8261,8262,14
+pdnc,qID,Q18-0,you,8269,8272,21
+booknlp,COREF,105,my,8278,8280,14
+pdnc,qID,Q19-1,your,8423,8427,14
+pdnc,qID,Q19-1,you,8461,8464,14
+pdnc,qID,Q20-1,you,8721,8724,21
+booknlp,COREF,105,you,8826,8829,14
+pdnc,qID,Q21-1,you,8930,8933,14
+pdnc,qID,Q22-1,you,9247,9250,21
+booknlp,COREF,105,your,9291,9295,14
+pdnc,qID,Q23-0,you,9661,9664,14
+pdnc,qID,Q24-0,you,9716,9719,21
+pdnc,qID,Q24-0,you,9770,9773,21
+booknlp,COREF,105,your,9801,9805,14
+pdnc,qID,Q24-0,you,9827,9830,21
+pdnc,qID,Q24-0,you,9899,9902,21
+pdnc,qID,Q25-1,you,10132,10135,14
+pdnc,qID,Q25-1,you,10164,10167,14
+booknlp,COREF,105,your,10206,10210,14
+pdnc,qID,Q26-1,you,10389,10392,21
+pdnc,qID,Q27-0,you,10429,10432,14
+pdnc,qID,Q27-0,you,10685,10688,14
+pdnc,qID,Q29-0,You,11413,11416,14
+pdnc,qID,Q30-1,your,11792,11796,21
+pdnc,qID,Q30-1,your,11851,11855,21
+pdnc,qID,Q30-1,your,11893,11897,21
+pdnc,qID,Q31-0,you,11914,11917,14
+pdnc,qID,Q32-0,your,11995,11999,21
+pdnc,qID,Q32-0,Your,12245,12249,21
+pdnc,qID,Q32-0,your,12345,12349,21
+pdnc,qID,Q35-0,you,12803,12806,14
+pdnc,qID,Q35-0,Holmes,12808,12814,14
+pdnc,qID,Q35-1,you,12857,12860,14
+pdnc,qID,Q35-1,You,12891,12894,14
+pdnc,qID,Q35-1,you,12958,12961,14
+pdnc,qID,Q35-1,You,13021,13024,14
+pdnc,qID,Q35-1,you,13058,13061,14
+pdnc,qID,Q36-0,My dear doctor,13176,13190,21
+pdnc,qID,Q36-1,you,13344,13347,21
+pdnc,qID,Q36-1,you,13358,13361,21
+pdnc,qID,Q36-1,you,13400,13403,21
+pdnc,qID,Q36-1,you,13424,13427,21
+pdnc,qID,Q37-0,you,13502,13505,14
+pdnc,qID,Q40-0,you,13838,13841,21
+pdnc,qID,Q40-0,you,13861,13864,21
+exp,exp_name,small,small,13914,13919,25
+pdnc,qID,Q40-0,your,14003,14007,21
+pdnc,qID,Q40-0,you,14035,14038,21
+pdnc,qID,Q40-0,you,14081,14084,21
+pdnc,qID,Q41-0,you,15078,15081,21
+pdnc,qID,Q41-0,you,15285,15288,21
+pdnc,qID,Q42-1,you,15522,15525,14
+pdnc,qID,Q42-1,your,15559,15563,14
+pdnc,qID,Q42-1,you,15602,15605,14
+pdnc,qID,Q44-0,A young lady,16322,16334,12
+pdnc,qID,Q44-0,you,16339,16342,14
+pdnc,qID,Q44-0,sir,16344,16347,14
+pdnc,qID,Q45-0,Miss Mary Morstan,16387,16404,12
+pdnc,qID,Q45-1,the young lady,16462,16476,12
+pdnc,qID,Q45-1,Mrs. Hudson,16489,16500,17
+pdnc,qID,Q45-1,doctor,16512,16518,21
+pdnc,qID,Q45-1,you,16541,16544,21
+exp,exp_name,miss morstan,Miss Morstan,16595,16607,12
+exp,exp_name,small,small,16707,16712,25
+exp,exp_name,small,small,16967,16972,25
+exp,exp_name,sherlock holmes,Sherlock Holmes,17480,17495,14
+pdnc,qID,Q46-0,you,17621,17624,14
+pdnc,qID,Q46-0,Mr. Holmes,17626,17636,14
+pdnc,qID,Q46-1,you,17658,17661,14
+pdnc,qID,Q46-1,my employer,17675,17686,16
+pdnc,qID,Q46-1,Mrs. Cecil Forrester,17688,17708,16
+pdnc,qID,Q46-1,She,17753,17756,16
+pdnc,qID,Q46-1,your,17779,17783,14
+pdnc,qID,Q47-0,Mrs. Cecil Forrester,17807,17827,16
+booknlp,COREF,105,he,17830,17832,14
+booknlp,COREF,105,I,17857,17858,14
+booknlp,COREF,105,I,17872,17873,14
+pdnc,qID,Q47-1,her,17904,17907,16
+booknlp,COREF,105,I,17931,17932,14
+pdnc,qID,Q48-0,She,17972,17975,16
+pdnc,qID,Q48-0,you,18007,18010,14
+booknlp,COREF,105,mine,18034,18038,14
+booknlp,COREF,105,I,18040,18041,14
+booknlp,COREF,105,I,18139,18140,14
+booknlp,COREF,105,myself,18146,18152,14
+exp,exp_name,holmes,Holmes,18156,18162,14
+booknlp,COREF,105,his,18170,18173,14
+booknlp,COREF,105,his,18185,18188,14
+booknlp,COREF,105,He,18205,18207,14
+booknlp,COREF,105,his,18226,18229,14
+booknlp,COREF,105,his,18291,18294,14
+pdnc,qID,Q49-0,your,18332,18336,12
+booknlp,COREF,105,he,18349,18351,14
+pdnc,qID,Q51-0,your friend,18567,18578,21
+pdnc,qID,Q51-1,he,18622,18624,21
+pdnc,qID,Q52-1,My father,18741,18750,5
+pdnc,qID,Q52-1,my father,19036,19045,5
+pdnc,qID,Q52-1,his,19073,19076,5
+pdnc,qID,Q52-1,He,19132,19134,5
+pdnc,qID,Q52-1,he,19170,19172,5
+pdnc,qID,Q52-1,his,19261,19264,5
+pdnc,qID,Q52-1,His,19274,19277,5
+pdnc,qID,Q52-1,Captain Morstan,19398,19413,5
+pdnc,qID,Q52-1,he,19442,19444,5
+pdnc,qID,Q52-1,him,19534,19537,5
+pdnc,qID,Q52-1,my unfortunate father,19765,19786,5
+pdnc,qID,Q52-1,He,19788,19790,5
+pdnc,qID,Q52-1,his,19806,19809,5
+exp,exp_name,holmes,Holmes,19971,19977,14
+booknlp,COREF,105,his,19987,19990,14
+pdnc,qID,Q54-0,He,20004,20006,5
+pdnc,qID,Q55-0,His,20076,20079,5
+pdnc,qID,Q56-0,He,20251,20253,5
+pdnc,qID,Q57-0,he,20328,20330,5
+pdnc,qID,Q58-0,Major Sholto,20381,20393,11
+pdnc,qID,Q58-0,his,20398,20401,5
+pdnc,qID,Q58-0,him,20538,20541,11
+pdnc,qID,Q58-0,he,20558,20560,11
+pdnc,qID,Q58-0,his,20584,20587,11
+exp,exp_name,holmes,Holmes,20650,20656,14
+pdnc,qID,Q60-0,Miss Mary Morstan,20842,20859,12
+pdnc,qID,Q60-0,her,20892,20895,12
+pdnc,qID,Q60-0,Mrs. Cecil Forrester,21008,21028,16
+pdnc,qID,Q60-0,her,21062,21065,16
+exp,exp_name,small,small,21171,21176,25
+pdnc,qID,Q61-0,Your,21691,21695,12
+exp,exp_name,sherlock holmes,Sherlock Holmes,21733,21748,14
+pdnc,qID,Q61-1,you,21781,21784,12
+pdnc,qID,Q62-0,you,21847,21850,14
+pdnc,qID,Q62-0,you,21895,21898,14
+pdnc,qID,Q63-0,you,21940,21943,12
+exp,exp_name,holmes,Holmes,21951,21957,14
+pdnc,qID,Q63-2,you,22491,22494,12
+pdnc,qID,Q63-2,Miss Morstan,22509,22521,12
+pdnc,qID,Q64-0,you,22561,22564,14
+pdnc,qID,Q65-0,You,22602,22605,12
+booknlp,COREF,105,I,22610,22611,14
+pdnc,qID,Q65-0,Dr. Watson,22626,22636,21
+pdnc,qID,Q65-0,Your,22654,22658,12
+pdnc,qID,Q65-0,He,22691,22693,21
+booknlp,COREF,105,I,22698,22699,14
+pdnc,qID,Q66-0,he,22742,22744,21
+pdnc,qID,Q69-0,You,23057,23060,12
+exp,exp_name,holmes,Holmes,23086,23092,14
+pdnc,qID,Q71-0,You,23275,23278,12
+pdnc,qID,Q71-0,You,23309,23312,12
+booknlp,COREF,105,He,23359,23361,14
+booknlp,COREF,105,he,23502,23504,14
+booknlp,COREF,105,I,23703,23704,14
+pdnc,qID,Q71-2,Miss Morstan,23745,23757,12
+pdnc,qID,Q71-2,your father,23818,23829,5
+booknlp,COREF,105,I,23867,23868,14
+pdnc,qID,Q73-0,you,23886,23889,12
+pdnc,qID,Q73-0,you,23920,23923,12
+booknlp,COREF,105,me,23950,23952,14
+booknlp,COREF,105,I,23973,23974,14
+pdnc,qID,Q75-0,woman,24390,24395,12
+pdnc,qID,Q76-0,she,24512,24515,12
+pdnc,qID,Q77-0,You,24561,24564,14
+pdnc,qID,Q77-1,you,24665,24668,14
+pdnc,qID,Q78-1,your,24755,24759,21
+pdnc,qID,Q78-1,you,24929,24932,21
+pdnc,qID,Q80-0,you,25271,25274,21
+pdnc,qID,Q80-0,you,25336,25339,21
+exp,exp_name,holmes,Holmes,25472,25478,14
+booknlp,COREF,105,his,25485,25488,14
+booknlp,COREF,105,he,25523,25525,14
+booknlp,COREF,105,I,25779,25780,14
+booknlp,COREF,105,I,25799,25800,14
+booknlp,COREF,105,me,25839,25841,14
+booknlp,COREF,105,I,25945,25946,14
+exp,exp_name,holmes,Holmes,26948,26954,14
+booknlp,COREF,105,He,26965,26967,14
+booknlp,COREF,105,his,27029,27032,14
+booknlp,COREF,105,he,27132,27134,14
+booknlp,COREF,105,him,27190,27193,14
+pdnc,qID,Q83-0,you,27256,27259,14
+booknlp,COREF,105,I,27324,27325,14
+booknlp,COREF,105,I,27444,27445,14
+pdnc,qID,Q84-0,Major Sholto,27513,27525,11
+booknlp,COREF,105,I,27617,27618,14
+pdnc,qID,Q85-0,Holmes,27639,27645,14
+booknlp,COREF,105,I,27651,27652,14
+pdnc,qID,Q86-0,You,27692,27695,21
+booknlp,COREF,105,me,27705,27707,14
+pdnc,qID,Q86-0,Captain Morstan,27739,27754,5
+pdnc,qID,Q86-0,he,27798,27800,5
+pdnc,qID,Q86-0,Major Sholto,27823,27835,11
+pdnc,qID,Q86-0,Major Sholto,27837,27849,11
+pdnc,qID,Q86-0,he,27875,27877,5
+pdnc,qID,Q86-0,Sholto,27910,27916,11
+pdnc,qID,Q86-0,Captain Morstan s daughter,27952,27978,12
+pdnc,qID,Q86-0,her,28092,28095,12
+pdnc,qID,Q86-0,her father,28170,28180,5
+pdnc,qID,Q86-0,Sholto,28234,28240,11
+pdnc,qID,Q86-0,Sholto,28268,28274,11
+pdnc,qID,Q86-0,you,28352,28355,21
+pdnc,qID,Q87-0,he,28483,28485,5
+pdnc,qID,Q87-0,her,28568,28571,12
+pdnc,qID,Q87-0,she,28598,28601,12
+pdnc,qID,Q87-0,her father,28639,28649,5
+pdnc,qID,Q87-0,her,28697,28700,12
+pdnc,qID,Q87-0,you,28711,28714,14
+exp,exp_name,sherlock holmes,Sherlock Holmes,28791,28806,14
+pdnc,qID,Q88-1,Miss Morstan,28904,28916,12
+pdnc,qID,Q88-1,you,28932,28935,21
+exp,exp_name,holmes,Holmes,29073,29079,14
+booknlp,COREF,105,his,29085,29088,14
+booknlp,COREF,105,his,29103,29106,14
+booknlp,COREF,105,his,29134,29137,14
+booknlp,COREF,105,he,29164,29166,14
+exp,exp_name,miss morstan,Miss Morstan,29222,29234,12
+exp,exp_name,sherlock holmes,Sherlock Holmes,29532,29547,14
+pdnc,qID,Q89-0,Major Sholto,29562,29574,11
+pdnc,qID,Q89-0,papa,29607,29611,5
+pdnc,qID,Q89-1,He,29676,29678,11
+pdnc,qID,Q89-1,papa,29683,29687,5
+pdnc,qID,Q89-1,papa,29826,29830,5
+pdnc,qID,Q89-1,you,29939,29942,14
+exp,exp_name,holmes,Holmes,30004,30010,14
+booknlp,COREF,105,his,30065,30068,14
+booknlp,COREF,105,He,30075,30077,14
+booknlp,COREF,105,his,30127,30130,14
+booknlp,COREF,105,he,30189,30191,14
+exp,exp_name,small,small,30380,30385,25
+exp,exp_name,jonathan small,Jonathan Small,30654,30668,23
+exp,exp_name,mahomet singh,Mahomet Singh,30670,30683,10
+exp,exp_name,abdullah khan,Abdullah Khan,30685,30698,1
+exp,exp_name,dost akbar,Dost Akbar,30700,30710,6
+booknlp,COREF,105,I,30717,30718,14
+booknlp,COREF,105,I,30732,30733,14
+pdnc,qID,Q91-0,his,30924,30927,5
+pdnc,qID,Q92-0,Miss Morstan,30990,31002,12
+booknlp,COREF,105,I,31041,31042,14
+booknlp,COREF,105,I,31129,31130,14
+booknlp,COREF,105,I,31150,31151,14
+booknlp,COREF,105,my,31168,31170,14
+booknlp,COREF,105,He,31179,31181,14
+booknlp,COREF,105,his,31225,31228,14
+booknlp,COREF,105,his,31244,31247,14
+booknlp,COREF,105,he,31264,31266,14
+exp,exp_name,miss morstan,Miss Morstan,31290,31302,12
+booknlp,COREF,105,his,31417,31420,14
+exp,exp_name,miss morstan,Miss Morstan,32415,32427,12
+exp,exp_name,holmes,Holmes,32483,32489,14
+exp,exp_name,"a small, dark, brisk man","a small, dark, brisk man",32980,33004,28
+exp,exp_name,coachman,coachman,33023,33031,28
+pdnc,qID,Q93-0,Miss Morstan,33081,33093,12
+pdnc,qID,Q94-0,Miss Morstan,33113,33125,12
+pdnc,qID,Q95-0,You,33252,33255,12
+pdnc,qID,Q95-0,miss,33272,33276,12
+pdnc,qID,Q95-1,you,33335,33338,12
+pdnc,qID,Q95-1,your,33350,33354,12
+pdnc,qID,Q96-0,you,33423,33426,28
+exp,exp_name,miss morstan,Miss Morstan,34031,34043,12
+exp,exp_name,sherlock holmes,Sherlock Holmes,34733,34748,14
+booknlp,COREF,105,he,34782,34784,14
+booknlp,COREF,105,he,34901,34903,14
+booknlp,COREF,105,I,35023,35024,14
+pdnc,qID,Q97-1,You,35063,35066,21
+exp,exp_name,a hindoo servant,a Hindoo servant,36187,36203,8
+pdnc,qID,Q99-0,Sahib,36424,36429,19
+exp,exp_name,a high piping voice,a high piping voice,36484,36503,19
+pdnc,qID,Q100-0,khitmutgar,36547,36557,8
+exp,exp_name,small,small,36887,36892,25
+pdnc,qID,Q101-0,Miss Morstan,37542,37554,12
+exp,exp_name,small,small,37661,37666,25
+pdnc,qID,Q101-1,miss,37674,37678,12
+pdnc,qID,Q102-0,Mr. Thaddeus Sholto,38549,38568,19
+pdnc,qID,Q102-1,You,38637,38640,12
+pdnc,qID,Q102-1,Miss Morstan,38645,38657,12
+pdnc,qID,Q103-0,Mr. Sherlock Holmes,38702,38721,14
+pdnc,qID,Q103-0,Dr. Watson,38735,38745,21
+pdnc,qID,Q104-1,you,38795,38798,21
+pdnc,qID,Q104-1,your,38799,38803,21
+pdnc,qID,Q104-1,you,38829,38832,21
+pdnc,qID,Q104-1,you,38839,38842,21
+pdnc,qID,Q104-1,you,38908,38911,21
+pdnc,qID,Q104-1,your,38982,38986,21
+pdnc,qID,Q105-1,You,39210,39213,19
+pdnc,qID,Q106-0,You,39247,39250,12
+pdnc,qID,Q106-0,Miss Morstan,39275,39287,12
+pdnc,qID,Q106-1,your father,39438,39449,5
+pdnc,qID,Q106-1,Miss Morstan,39451,39463,12
+pdnc,qID,Q106-1,his,39503,39506,5
+pdnc,qID,Q106-1,he,39514,39516,5
+exp,exp_name,miss morstan,Miss Morstan,39668,39680,12
+pdnc,qID,Q107-0,he,39753,39755,5
+pdnc,qID,Q108-0,you,39790,39793,12
+pdnc,qID,Q108-1,you,39852,39855,12
+pdnc,qID,Q108-1,Brother Bartholomew,39891,39910,4
+pdnc,qID,Q108-1,you,39985,39988,12
+pdnc,qID,Q108-1,Brother Bartholomew,40087,40106,4
+pdnc,qID,Q108-1,Brother Bartholomew,40265,40284,4
+booknlp,COREF,105,my,40410,40412,14
+exp,exp_name,holmes,Holmes,40425,40431,14
+pdnc,qID,Q109-1,you,40443,40446,19
+pdnc,qID,Q110-1,you,40571,40574,12
+pdnc,qID,Q110-1,Miss Morstan,40595,40607,12
+pdnc,qID,Q110-1,you,40696,40699,12
+pdnc,qID,Q110-2,you,41194,41197,12
+pdnc,qID,Q110-3,you,41229,41232,12
+pdnc,qID,Q110-3,you,41263,41266,12
+pdnc,qID,Q110-3,you,41327,41330,12
+pdnc,qID,Q110-3,my man Williams,41407,41422,28
+pdnc,qID,Q110-3,you,41444,41447,12
+pdnc,qID,Q110-3,his,41485,41488,28
+pdnc,qID,Q110-3,he,41505,41507,28
+pdnc,qID,Q110-3,he,41523,41525,28
+pdnc,qID,Q110-3,You,41582,41585,12
+pdnc,qID,Q110-3,you,41869,41872,12
+pdnc,qID,Q111-0,You,42203,42206,19
+pdnc,qID,Q111-0,Mr. Sholto,42223,42233,19
+exp,exp_name,miss morstan,Miss Morstan,42241,42253,12
+pdnc,qID,Q111-1,your,42273,42277,19
+pdnc,qID,Q111-1,you,42311,42314,19
+pdnc,qID,Q112-1,Brother Bartholomew,42520,42539,4
+pdnc,qID,Q112-1,Brother Bartholomew,42593,42612,4
+pdnc,qID,Q112-1,He,42614,42616,4
+pdnc,qID,Q112-1,him,42719,42722,4
+pdnc,qID,Q112-1,You,42735,42738,12
+pdnc,qID,Q112-1,he,42777,42779,4
+pdnc,qID,Q112-1,he,42788,42790,4
+pdnc,qID,Q114-1,he,42996,42998,4
+exp,exp_name,major john sholto,Major John Sholto,43334,43351,33
+pdnc,qID,Q114-2,him,43517,43520,11
+pdnc,qID,Q114-2,he,43648,43650,11
+pdnc,qID,Q114-2,My twin-brother Bartholomew,43702,43729,4
+pdnc,qID,Q114-3,Captain Morstan,43838,43853,5
+pdnc,qID,Q114-3,he,43908,43910,5
+pdnc,qID,Q114-3,our father,43932,43942,11
+pdnc,qID,Q114-3,he,44101,44103,11
+pdnc,qID,Q114-3,Arthur Morstan,44193,44207,5
+pdnc,qID,Q114-4,our father,44281,44291,11
+pdnc,qID,Q114-4,He,44293,44295,11
+pdnc,qID,Q114-4,Williams,44415,44423,28
+booknlp,COREF,128,He,44466,44468,28
+pdnc,qID,Q114-4,Our father,44512,44522,11
+pdnc,qID,Q114-4,he,44555,44557,11
+pdnc,qID,Q114-4,he,44570,44572,11
+pdnc,qID,Q114-4,he,44641,44643,11
+pdnc,qID,Q114-4,his,44659,44662,11
+exp,exp_name,wooden-legged man,wooden-legged man,44677,44694,23
+pdnc,qID,Q114-4,My brother,44806,44816,4
+pdnc,qID,Q114-4,my father,44857,44866,11
+pdnc,qID,Q114-5,he,45410,45412,11
+pdnc,qID,Q114-6,he,45483,45485,11
+pdnc,qID,Q114-6,He,45537,45539,11
+pdnc,qID,Q114-6,he,45636,45638,11
+pdnc,qID,Q114-6,his,45767,45770,11
+pdnc,qID,Q114-7,he,45814,45816,11
+exp,exp_name,morstan,Morstan,45901,45908,5
+exp,exp_name,morstan,Morstan,46620,46627,5
+pdnc,qID,Q114-8,he,46635,46637,11
+booknlp,COREF,131,He,46650,46652,5
+booknlp,COREF,131,he,46699,46701,5
+booknlp,COREF,131,he,46763,46765,5
+exp,exp_name,morstan,Morstan,46917,46924,5
+booknlp,COREF,131,he,46935,46937,5
+booknlp,COREF,131,his,46971,46974,5
+booknlp,COREF,131,He,46982,46984,5
+exp,exp_name,morstan,Morstan,47081,47088,5
+exp,exp_name,morstan,Morstan,47188,47195,5
+booknlp,COREF,131,his,47214,47217,5
+booknlp,COREF,131,he,47253,47255,5
+booknlp,COREF,131,his,47273,47276,5
+booknlp,COREF,131,his,47285,47288,5
+booknlp,COREF,131,his,47295,47298,5
+booknlp,COREF,131,he,47328,47330,5
+booknlp,COREF,131,his,47355,47358,5
+booknlp,COREF,131,him,47426,47429,5
+booknlp,COREF,131,he,47458,47460,5
+booknlp,COREF,131,his,47683,47686,5
+booknlp,COREF,131,His,47695,47698,5
+booknlp,COREF,131,his,47749,47752,5
+booknlp,COREF,131,He,47932,47934,5
+booknlp,COREF,131,he,47982,47984,5
+exp,exp_name,sahib,Sahib,48223,48228,34
+booknlp,COREF,122,you,48263,48266,34
+exp,exp_name,sahib,Sahib,48415,48420,34
+booknlp,COREF,122,you,48441,48444,34
+exp,exp_name,captain morstan,Captain Morstan,48856,48871,5
+booknlp,COREF,122,You,48873,48876,34
+exp,exp_name,morstan,Morstan,49056,49063,5
+booknlp,COREF,122,you,49101,49104,34
+booknlp,COREF,122,your,49142,49146,34
+pdnc,qID,Q114-10,My brother,49703,49713,4
+pdnc,qID,Q114-11,his,50338,50341,11
+pdnc,qID,Q114-12,my father,50550,50559,11
+pdnc,qID,Q114-12,My brother,50636,50646,4
+exp,exp_name,miss morstan,Miss Morstan,50994,51006,12
+exp,exp_name,sherlock holmes,Sherlock Holmes,51216,51231,14
+booknlp,COREF,105,his,51247,51250,14
+booknlp,COREF,105,his,51315,51318,14
+booknlp,COREF,105,him,51352,51355,14
+booknlp,COREF,105,he,51399,51401,14
+booknlp,COREF,105,his,51502,51505,14
+exp,exp_name,mr. thaddeus sholto,Mr. Thaddeus Sholto,51530,51549,19
+booknlp,COREF,105,his,51627,51630,14
+booknlp,COREF,105,his,51691,51694,14
+pdnc,qID,Q115-0,My brother,51713,51723,4
+booknlp,COREF,105,I,51728,51729,14
+booknlp,COREF,105,he,51737,51739,14
+pdnc,qID,Q115-1,my father,51806,51815,11
+booknlp,COREF,105,his,51995,51998,14
+booknlp,COREF,105,he,52028,52030,14
+booknlp,COREF,105,he,52109,52111,14
+pdnc,qID,Q115-1,my brother Bartholomew,52145,52167,4
+booknlp,COREF,105,I,52172,52173,14
+pdnc,qID,Q115-1,he,52248,52250,4
+pdnc,qID,Q115-1,my brother,52303,52313,4
+booknlp,COREF,105,himself,52318,52325,14
+pdnc,qID,Q115-1,my father,52347,52356,11
+pdnc,qID,Q115-1,He,52366,52368,4
+booknlp,COREF,105,I,52498,52499,14
+pdnc,qID,Q115-1,him,52521,52524,4
+booknlp,COREF,105,me,52532,52534,14
+pdnc,qID,Q115-1,Miss Morstan,52544,52556,12
+pdnc,qID,Q115-1,her,52576,52579,12
+pdnc,qID,Q115-1,she,52634,52637,12
+pdnc,qID,Q116-1,you,52752,52755,19
+pdnc,qID,Q117-0,your,52813,52817,12
+pdnc,qID,Q117-1,Brother Bartholomew,52884,52903,4
+pdnc,qID,Q117-2,the old khitmutgar,53327,53345,8
+pdnc,qID,Q117-2,Williams,53350,53358,28
+pdnc,qID,Q117-2,Miss Morstan,53510,53522,12
+pdnc,qID,Q117-2,Brother Bartholomew,53632,53651,4
+exp,exp_name,mr. thaddeus sholto,Mr. Thaddeus Sholto,53706,53725,19
+booknlp,COREF,124,his,53755,53758,19
+exp,exp_name,holmes,Holmes,53885,53891,14
+booknlp,COREF,105,his,53919,53922,14
+pdnc,qID,Q118-0,You,53931,53934,19
+pdnc,qID,Q118-0,sir,53951,53954,19
+booknlp,COREF,105,he,53982,53984,14
+pdnc,qID,Q118-1,you,54030,54033,19
+exp,exp_name,small,small,54039,54044,25
+pdnc,qID,Q118-1,you,54108,54111,19
+pdnc,qID,Q118-1,Miss Morstan,54121,54133,12
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,54891,54906,19
+pdnc,qID,Q120-0,Bartholomew,54988,54999,4
+booknlp,COREF,124,he,55026,55028,19
+pdnc,qID,Q120-1,he,55048,55050,4
+pdnc,qID,Q120-1,He,55085,55087,4
+pdnc,qID,Q120-1,he,55149,55151,4
+pdnc,qID,Q120-1,he,55299,55301,4
+pdnc,qID,Q120-1,he,55481,55483,4
+pdnc,qID,Q120-1,he,55508,55510,4
+pdnc,qID,Q120-1,He,55650,55652,4
+pdnc,qID,Q120-1,he,55757,55759,4
+pdnc,qID,Q120-1,He,55918,55920,4
+pdnc,qID,Q120-1,He,55969,55971,4
+exp,exp_name,miss morstan,Miss Morstan,56125,56137,12
+exp,exp_name,holmes,Holmes,56929,56935,14
+exp,exp_name,coachman,coachman,57198,57206,28
+pdnc,qID,Q121-0,Miss Morstan,57245,57257,12
+exp,exp_name,mr. thaddeus sholto,Mr. Thaddeus Sholto,57287,57306,19
+booknlp,COREF,124,he,57311,57313,19
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,57740,57755,19
+pdnc,qID,Q123-0,McMurdo,58158,58165,30
+pdnc,qID,Q123-0,You,58167,58170,30
+pdnc,qID,Q124-0,you,58461,58464,19
+pdnc,qID,Q124-0,Mr. Thaddeus,58466,58478,19
+pdnc,qID,Q124-0,the master,58536,58546,4
+pdnc,qID,Q125-0,McMurdo,58555,58562,30
+pdnc,qID,Q125-0,You,58564,58567,30
+pdnc,qID,Q125-0,my brother,58588,58598,4
+pdnc,qID,Q126-0,He,58647,58649,4
+pdnc,qID,Q126-0,his,58668,58671,4
+pdnc,qID,Q126-0,Mr. Thaddeus,58685,58697,19
+pdnc,qID,Q126-0,You,58721,58724,19
+pdnc,qID,Q126-0,you,58784,58787,19
+booknlp,COREF,124,your,58796,58800,19
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,58875,58890,19
+booknlp,COREF,124,him,58904,58907,19
+pdnc,qID,Q127-0,you,58964,58967,30
+pdnc,qID,Q127-0,McMurdo,58969,58976,30
+booknlp,COREF,124,he,58979,58981,19
+booknlp,COREF,124,I,58992,58993,19
+pdnc,qID,Q127-1,you,59029,59032,30
+pdnc,qID,Q127-1,the young lady,59043,59057,12
+pdnc,qID,Q127-1,She,59064,59067,12
+pdnc,qID,Q128-0,Mr. Thaddeus,59128,59140,19
+exp,exp_name,the porter,the porter,59148,59158,30
+pdnc,qID,Q128-1,yours,59196,59201,19
+pdnc,qID,Q128-1,the master,59225,59235,4
+pdnc,qID,Q128-1,He,59239,59241,4
+booknlp,COREF,325,me,59247,59249,30
+booknlp,COREF,325,my,59261,59263,30
+booknlp,COREF,325,my,59274,59276,30
+booknlp,COREF,325,I,59282,59283,30
+booknlp,COREF,325,I,59291,59292,30
+booknlp,COREF,124,your,59312,59316,19
+pdnc,qID,Q129-0,you,59337,59340,30
+pdnc,qID,Q129-0,McMurdo,59345,59352,30
+exp,exp_name,sherlock holmes,Sherlock Holmes,59361,59376,14
+booknlp,COREF,105,I,59389,59390,14
+pdnc,qID,Q129-1,you,59403,59406,30
+booknlp,COREF,105,me,59426,59428,14
+pdnc,qID,Q129-1,you,59436,59439,30
+pdnc,qID,Q129-1,the amateur,59449,59460,14
+pdnc,qID,Q129-1,you,59490,59493,30
+pdnc,qID,Q129-1,your,59528,59532,30
+pdnc,qID,Q130-0,Mr. Sherlock Holmes,59565,59584,14
+pdnc,qID,Q130-1,you,59652,59655,14
+pdnc,qID,Q130-1,you,59695,59698,14
+booknlp,COREF,124,yours,59750,59755,19
+pdnc,qID,Q130-1,you,59785,59788,14
+pdnc,qID,Q130-1,you,59813,59816,14
+pdnc,qID,Q130-1,your,59840,59844,14
+pdnc,qID,Q130-1,you,59852,59855,14
+pdnc,qID,Q130-1,You,59862,59865,14
+pdnc,qID,Q130-1,you,59892,59895,14
+pdnc,qID,Q131-0,You,59921,59924,21
+pdnc,qID,Q131-0,Watson,59930,59936,21
+booknlp,COREF,105,me,59956,59958,14
+booknlp,COREF,105,I,59959,59960,14
+booknlp,COREF,105,me,60014,60016,14
+exp,exp_name,holmes,Holmes,60024,60030,14
+pdnc,qID,Q131-1,Our friend,60043,60053,30
+booknlp,COREF,105,I,60089,60090,14
+booknlp,COREF,124,you,60106,60109,19
+booknlp,COREF,124,you,60124,60127,19
+booknlp,COREF,124,you,60134,60137,19
+booknlp,COREF,124,your,60142,60146,19
+booknlp,COREF,105,he,60157,60159,14
+pdnc,qID,Q132-1,Mr. Thaddeus,60183,60195,19
+booknlp,COREF,124,your,60246,60250,19
+booknlp,COREF,105,I,60266,60267,14
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,60585,60600,19
+booknlp,COREF,124,his,60661,60664,19
+booknlp,COREF,124,I,60673,60674,19
+booknlp,COREF,124,he,60698,60700,19
+booknlp,COREF,124,I,60736,60737,19
+pdnc,qID,Q133-1,Bartholomew,60754,60765,4
+pdnc,qID,Q133-1,his,60819,60822,4
+booknlp,COREF,124,I,60831,60832,19
+pdnc,qID,Q134-0,he,60873,60875,4
+exp,exp_name,holmes,Holmes,60922,60928,14
+pdnc,qID,Q135-0,he,60937,60939,4
+booknlp,COREF,124,my,60953,60955,19
+pdnc,qID,Q135-0,He,60973,60975,4
+booknlp,COREF,105,you,60999,61002,14
+booknlp,COREF,124,I,61013,61014,19
+booknlp,COREF,124,my,61036,61038,19
+pdnc,qID,Q135-0,him,61060,61063,4
+booknlp,COREF,124,me,61087,61089,19
+pdnc,qID,Q135-0,Bartholomew,61099,61110,4
+booknlp,COREF,124,I,61213,61214,19
+exp,exp_name,holmes,Holmes,61237,61243,14
+booknlp,COREF,105,I,61250,61251,14
+pdnc,qID,Q137-0,the housekeeper,61331,61346,15
+pdnc,qID,Q137-0,Mrs. Bernstone,61373,61387,15
+pdnc,qID,Q137-0,She,61394,61397,15
+pdnc,qID,Q137-0,she,61522,61525,15
+pdnc,qID,Q137-0,she,61552,61555,15
+booknlp,COREF,105,He,61598,61600,14
+booknlp,COREF,105,his,61626,61629,14
+exp,exp_name,miss morstan,Miss Morstan,61704,61716,12
+pdnc,qID,Q138-0,Mrs. Bernstone,61960,61974,15
+exp,exp_name,sholto,Sholto,61982,61988,19
+pdnc,qID,Q138-1,She,61991,61994,15
+booknlp,COREF,124,I,62038,62039,19
+booknlp,COREF,105,He,62068,62070,14
+booknlp,COREF,105,his,62108,62111,14
+booknlp,COREF,105,him,62162,62165,14
+booknlp,COREF,105,him,62211,62214,14
+pdnc,qID,Q139-0,Mr. Thaddeus,62222,62234,19
+pdnc,qID,Q139-0,sir,62236,62239,19
+pdnc,qID,Q139-0,you,62254,62257,19
+pdnc,qID,Q139-0,you,62282,62285,19
+pdnc,qID,Q139-0,Mr. Thaddeus,62297,62309,19
+pdnc,qID,Q139-0,sir,62311,62314,19
+exp,exp_name,holmes,Holmes,62463,62469,14
+exp,exp_name,miss morstan,Miss Morstan,62584,62596,12
+exp,exp_name,holmes,Holmes,63500,63506,14
+pdnc,qID,Q142-1,You,63555,63558,21
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,63720,63735,19
+booknlp,COREF,124,his,63759,63762,19
+booknlp,COREF,124,his,63798,63801,19
+pdnc,qID,Q143-0,Bartholomew,63840,63851,4
+booknlp,COREF,124,he,63854,63856,19
+booknlp,COREF,124,I,63865,63866,19
+booknlp,COREF,124,My,63882,63884,19
+booknlp,COREF,124,He,63910,63912,19
+booknlp,COREF,124,his,63957,63960,19
+exp,exp_name,holmes,Holmes,64116,64122,14
+booknlp,COREF,105,his,64127,64130,14
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,64168,64183,19
+booknlp,COREF,124,I,64186,64187,19
+booknlp,COREF,124,him,64253,64256,19
+exp,exp_name,miss morstan,Miss Morstan,64441,64453,12
+pdnc,qID,Q146-0,your,64511,64515,12
+pdnc,qID,Q146-1,you,64593,64596,12
+pdnc,qID,Q147-0,Master,64811,64817,4
+pdnc,qID,Q147-1,him,64916,64919,4
+pdnc,qID,Q147-1,he,64925,64927,4
+pdnc,qID,Q147-1,You,65050,65053,19
+pdnc,qID,Q147-1,Mr. Thaddeus,65066,65078,19
+pdnc,qID,Q147-1,you,65080,65083,19
+booknlp,COREF,124,yourself,65108,65116,19
+pdnc,qID,Q147-1,Mr. Bartholomew Sholto,65130,65152,4
+pdnc,qID,Q147-1,him,65210,65213,4
+pdnc,qID,Q147-1,him,65234,65237,4
+exp,exp_name,sherlock holmes,Sherlock Holmes,65249,65264,14
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,65300,65315,19
+booknlp,COREF,124,his,65343,65346,19
+booknlp,COREF,124,he,65367,65369,19
+booknlp,COREF,124,his,65403,65406,19
+booknlp,COREF,124,his,65441,65444,19
+booknlp,COREF,124,him,65472,65475,19
+exp,exp_name,holmes,Holmes,65498,65504,14
+booknlp,COREF,105,his,65513,65516,14
+booknlp,COREF,105,his,65529,65532,14
+booknlp,COREF,105,He,65686,65688,14
+exp,exp_name,miss morstan,Miss Morstan,65785,65797,12
+exp,exp_name,holmes,Holmes,66015,66021,14
+booknlp,COREF,105,his,66100,66103,14
+exp,exp_name,holmes,Holmes,66225,66231,14
+exp,exp_name,sherlock holmes,Sherlock Holmes,66512,66527,14
+pdnc,qID,Q148-0,Watson,66646,66652,21
+booknlp,COREF,105,he,66660,66662,14
+booknlp,COREF,105,him,66703,66706,14
+pdnc,qID,Q148-1,you,66717,66720,21
+exp,exp_name,thaddeus,Thaddeus,67017,67025,19
+booknlp,COREF,105,him,67389,67392,14
+booknlp,COREF,105,he,67411,67413,14
+booknlp,COREF,105,he,67463,67465,14
+booknlp,COREF,105,his,67491,67494,14
+booknlp,COREF,105,he,67507,67509,14
+exp,exp_name,holmes,Holmes,67553,67559,14
+booknlp,COREF,105,he,67611,67613,14
+booknlp,COREF,105,he,67651,67653,14
+booknlp,COREF,105,his,67662,67665,14
+exp,exp_name,bartholomew sholto,Bartholomew Sholto,67854,67872,4
+exp,exp_name,holmes,Holmes,69202,69208,14
+pdnc,qID,Q151-0,You,69252,69255,21
+booknlp,COREF,105,he,69262,69264,14
+booknlp,COREF,105,he,69476,69478,14
+booknlp,COREF,105,I,69513,69514,14
+booknlp,COREF,105,He,69540,69542,14
+pdnc,qID,Q155-0,You,69679,69682,21
+booknlp,COREF,105,he,70025,70027,14
+booknlp,COREF,105,I,70064,70065,14
+booknlp,COREF,105,He,70216,70218,14
+booknlp,COREF,105,his,70291,70294,14
+booknlp,COREF,105,himself,70316,70323,14
+booknlp,COREF,105,he,70344,70346,14
+booknlp,COREF,105,he,70411,70413,14
+pdnc,qID,Q158-1,him,70438,70441,4
+booknlp,COREF,105,I,70506,70507,14
+pdnc,qID,Q158-1,him,70515,70518,4
+booknlp,COREF,105,I,70529,70530,14
+pdnc,qID,Q158-1,him,70559,70562,4
+booknlp,COREF,105,I,70564,70565,14
+pdnc,qID,Q158-1,him,70571,70574,4
+booknlp,COREF,105,I,70596,70597,14
+pdnc,qID,Q158-1,him,70604,70607,4
+booknlp,COREF,105,I,70625,70626,14
+pdnc,qID,Q160-0,he,70698,70700,4
+booknlp,COREF,105,I,70748,70749,14
+booknlp,COREF,105,I,70806,70807,14
+booknlp,COREF,105,I,70816,70817,14
+booknlp,COREF,105,I,70895,70896,14
+booknlp,COREF,105,I,70916,70917,14
+booknlp,COREF,105,I,70957,70958,14
+booknlp,COREF,105,I,70980,70981,14
+booknlp,COREF,105,I,70992,70993,14
+pdnc,qID,Q161-0,You,71083,71086,19
+pdnc,qID,Q161-0,Mr. Sholto,71112,71122,19
+exp,exp_name,holmes,Holmes,71130,71136,14
+booknlp,COREF,105,his,71154,71157,14
+booknlp,COREF,105,my,71188,71190,14
+pdnc,qID,Q161-1,your,71326,71330,19
+exp,exp_name,sherlock holmes,Sherlock Holmes,71462,71477,14
+pdnc,qID,Q162-0,Watson,71507,71513,21
+exp,exp_name,holmes,Holmes,71521,71527,14
+booknlp,COREF,105,his,71537,71540,14
+booknlp,COREF,105,My,71612,71614,14
+booknlp,COREF,105,I,71627,71628,14
+pdnc,qID,Q162-1,you,71639,71642,21
+booknlp,COREF,105,he,71830,71832,14
+booknlp,COREF,105,his,71898,71901,14
+booknlp,COREF,106,your,71945,71949,21
+booknlp,COREF,105,He,72135,72137,14
+booknlp,COREF,105,his,72179,72182,14
+booknlp,COREF,105,himself,72236,72243,14
+pdnc,qID,Q164-2,Watson,72630,72636,21
+pdnc,qID,Q166-0,You,72851,72854,21
+exp,exp_name,wooden-legged man,wooden-legged man,72992,73009,23
+pdnc,qID,Q168-0,you,73096,73099,21
+pdnc,qID,Q168-0,doctor,73117,73123,21
+pdnc,qID,Q170-0,you,73435,73438,21
+booknlp,COREF,106,you,73472,73475,21
+pdnc,qID,Q170-0,you,73597,73600,21
+pdnc,qID,Q170-0,You,73621,73624,21
+pdnc,qID,Q170-0,You,73661,73664,21
+booknlp,COREF,106,your,73715,73719,21
+exp,exp_name,holmes,Holmes,74404,74410,14
+booknlp,COREF,105,I,74527,74528,14
+booknlp,COREF,105,my,74671,74673,14
+booknlp,COREF,105,me,74688,74690,14
+exp,exp_name,small,small,74848,74853,25
+booknlp,COREF,105,he,74856,74858,14
+booknlp,COREF,105,I,74870,74871,14
+pdnc,qID,Q176-0,You,74942,74945,21
+booknlp,COREF,105,my,74961,74963,14
+booknlp,COREF,105,he,74974,74976,14
+booknlp,COREF,105,his,74991,74994,14
+booknlp,COREF,105,I,75017,75018,14
+pdnc,qID,Q176-1,you,75027,75030,21
+pdnc,qID,Q176-1,you,75041,75044,21
+pdnc,qID,Q178-0,you,75434,75437,21
+booknlp,COREF,105,me,75482,75484,14
+booknlp,COREF,105,He,75591,75593,14
+booknlp,COREF,105,he,75653,75655,14
+booknlp,COREF,105,himself,75662,75669,14
+booknlp,COREF,105,his,75705,75708,14
+booknlp,COREF,105,he,75715,75717,14
+booknlp,COREF,105,him,75773,75776,14
+pdnc,qID,Q179-0,you,76188,76191,21
+pdnc,qID,Q179-0,you,76197,76200,21
+exp,exp_name,sherlock holmes,Sherlock Holmes,76212,76227,14
+booknlp,COREF,105,his,76237,76240,14
+booknlp,COREF,105,I,76325,76326,14
+booknlp,COREF,105,He,76521,76523,14
+booknlp,COREF,105,he,76564,76566,14
+booknlp,COREF,105,his,76648,76651,14
+booknlp,COREF,105,his,76684,76687,14
+pdnc,qID,Q180-0,Holmes,76886,76892,14
+booknlp,COREF,105,He,76955,76957,14
+booknlp,COREF,105,his,76972,76975,14
+booknlp,COREF,105,I,77008,77009,14
+booknlp,COREF,105,he,77041,77043,14
+booknlp,COREF,105,My,77083,77085,14
+booknlp,COREF,105,me,77100,77102,14
+booknlp,COREF,105,I,77107,77108,14
+booknlp,COREF,105,your,77216,77220,14
+pdnc,qID,Q183-0,My dear Watson,77326,77340,21
+booknlp,COREF,106,yourself,77364,77372,21
+booknlp,COREF,105,he,77380,77382,14
+pdnc,qID,Q183-1,You,77413,77416,21
+booknlp,COREF,105,my,77422,77424,14
+pdnc,qID,Q185-0,you,77593,77596,21
+booknlp,COREF,105,he,77604,77606,14
+booknlp,COREF,105,I,77634,77635,14
+booknlp,COREF,105,I,77693,77694,14
+booknlp,COREF,105,He,77707,77709,14
+booknlp,COREF,105,his,77722,77725,14
+booknlp,COREF,105,his,77781,77784,14
+booknlp,COREF,105,his,77830,77833,14
+booknlp,COREF,105,his,77888,77891,14
+booknlp,COREF,105,his,77982,77985,14
+booknlp,COREF,105,he,78106,78108,14
+booknlp,COREF,105,he,78129,78131,14
+booknlp,COREF,105,his,78139,78142,14
+booknlp,COREF,105,he,78224,78226,14
+booknlp,COREF,105,he,78241,78243,14
+booknlp,COREF,105,himself,78262,78269,14
+booknlp,COREF,105,he,78283,78285,14
+booknlp,COREF,105,he,78359,78361,14
+pdnc,qID,Q186-1,You,78466,78469,21
+exp,exp_name,small,small,78509,78514,25
+pdnc,qID,Q186-1,You,78594,78597,21
+booknlp,COREF,105,he,78699,78701,14
+booknlp,COREF,105,I,78704,78705,14
+exp,exp_name,holmes,Holmes,79168,79174,14
+pdnc,qID,Q189-1,your,79186,79190,21
+pdnc,qID,Q189-1,this poor fellow,79204,79220,4
+pdnc,qID,Q189-1,his,79240,79243,4
+pdnc,qID,Q189-1,you,79257,79260,21
+pdnc,qID,Q191-0,your,79572,79576,21
+booknlp,COREF,105,me,79744,79746,14
+booknlp,COREF,105,I,79759,79760,14
+booknlp,COREF,105,I,79821,79822,14
+pdnc,qID,Q193-0,you,79899,79902,21
+booknlp,COREF,105,I,79908,79909,14
+pdnc,qID,Q193-0,You,79995,79998,21
+booknlp,COREF,105,he,80420,80422,14
+pdnc,qID,Q196-0,you,80480,80483,21
+booknlp,COREF,105,he,80604,80606,14
+exp,exp_name,small,small,80817,80822,25
+exp,exp_name,inspector in uniform,inspector in uniform,80932,80952,29
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,80983,80998,19
+booknlp,COREF,105,I,81167,81168,14
+pdnc,qID,Q198-0,you,81175,81178,3
+booknlp,COREF,105,me,81194,81196,14
+pdnc,qID,Q198-0,Mr. Athelney Jones,81198,81216,3
+exp,exp_name,holmes,Holmes,81224,81230,14
+pdnc,qID,Q199-1,Mr. Sherlock Holmes,81283,81302,14
+pdnc,qID,Q199-1,you,81327,81330,14
+pdnc,qID,Q199-1,you,81354,81357,14
+pdnc,qID,Q199-1,you,81451,81454,14
+pdnc,qID,Q199-1,you,81486,81489,14
+pdnc,qID,Q201-0,you,81857,81860,14
+booknlp,COREF,105,me,81917,81919,14
+exp,exp_name,holmes,Holmes,81944,81950,14
+pdnc,qID,Q203-0,you,81995,81998,14
+pdnc,qID,Q205-0,Man,82281,82284,4
+pdnc,qID,Q205-0,you,82435,82438,19
+pdnc,qID,Q205-0,Mr. Sholto,82440,82450,19
+pdnc,qID,Q205-0,Your friend,82452,82463,21
+pdnc,qID,Q205-0,you,82484,82487,14
+pdnc,qID,Q205-0,Holmes,82503,82509,14
+pdnc,qID,Q205-0,Sholto,82511,82517,19
+pdnc,qID,Q205-0,his,82526,82529,19
+pdnc,qID,Q205-0,his brother,82551,82562,4
+pdnc,qID,Q205-0,The brother,82575,82586,4
+pdnc,qID,Q205-0,Sholto,82611,82617,19
+pdnc,qID,Q206-0,the dead man,82672,82684,4
+pdnc,qID,Q207-0,Thaddeus Sholto,82822,82837,19
+pdnc,qID,Q207-0,his brother,82849,82860,4
+pdnc,qID,Q207-0,The brother,82902,82913,4
+pdnc,qID,Q207-0,the brother,82980,82991,4
+pdnc,qID,Q207-0,Thaddeus,83006,83014,19
+pdnc,qID,Q207-0,him,83020,83023,4
+pdnc,qID,Q207-0,His,83025,83028,4
+pdnc,qID,Q207-0,Thaddeus,83056,83064,19
+pdnc,qID,Q207-0,His,83113,83116,19
+pdnc,qID,Q207-0,You,83153,83156,14
+pdnc,qID,Q207-0,Thaddeus,83192,83200,19
+pdnc,qID,Q207-0,him,83231,83234,19
+pdnc,qID,Q208-0,You,83239,83242,3
+exp,exp_name,holmes,Holmes,83295,83301,14
+booknlp,COREF,105,I,83333,83334,14
+pdnc,qID,Q208-1,man,83391,83394,4
+pdnc,qID,Q208-1,you,83409,83412,3
+pdnc,qID,Q208-1,you,83457,83460,3
+pdnc,qID,Q208-1,your,83577,83581,3
+pdnc,qID,Q209-1,Thaddeus,83697,83705,19
+pdnc,qID,Q209-1,Thaddeus,83757,83765,19
+pdnc,qID,Q209-1,he,83911,83913,19
+pdnc,qID,Q210-0,He,84172,84174,3
+exp,exp_name,holmes,Holmes,84205,84211,14
+booknlp,COREF,105,his,84223,84226,14
+pdnc,qID,Q210-1,He,84239,84241,3
+pdnc,qID,Q211-0,You,84351,84354,14
+exp,exp_name,athelney jones,Athelney Jones,84366,84380,3
+booknlp,COREF,109,My,84465,84467,3
+booknlp,COREF,105,I,84582,84583,14
+pdnc,qID,Q213-0,You,84614,84617,14
+pdnc,qID,Q214-0,our gentleman,84729,84742,19
+pdnc,qID,Q214-0,Inspector,84753,84762,29
+pdnc,qID,Q215-0,sir,84772,84775,3
+pdnc,qID,Q216-0,Mr. Sholto,84802,84812,19
+pdnc,qID,Q216-0,Mr. Sholto,84831,84841,19
+pdnc,qID,Q216-0,you,84867,84870,19
+pdnc,qID,Q216-0,you,84891,84894,19
+pdnc,qID,Q216-0,you,84924,84927,19
+pdnc,qID,Q216-0,you,84938,84941,19
+pdnc,qID,Q216-0,your brother,84997,85009,4
+booknlp,COREF,105,you,85040,85043,14
+booknlp,COREF,124,yourself,85154,85162,19
+pdnc,qID,Q218-0,Mr. Sholto,85173,85183,19
+exp,exp_name,holmes,Holmes,85191,85197,14
+booknlp,COREF,105,I,85200,85201,14
+booknlp,COREF,105,I,85213,85214,14
+pdnc,qID,Q218-1,you,85235,85238,19
+pdnc,qID,Q219-0,Mr. Theorist,85281,85293,14
+pdnc,qID,Q219-1,You,85344,85347,14
+pdnc,qID,Q219-1,you,85381,85384,14
+booknlp,COREF,105,I,85409,85410,14
+pdnc,qID,Q220-0,him,85417,85420,19
+pdnc,qID,Q220-0,Mr. Jones,85422,85431,3
+booknlp,COREF,105,I,85437,85438,14
+pdnc,qID,Q220-0,you,85449,85452,3
+pdnc,qID,Q220-0,His,85555,85558,23
+booknlp,COREF,105,I,85565,85566,14
+pdnc,qID,Q220-0,Jonathan Small,85600,85614,23
+pdnc,qID,Q220-0,He,85616,85618,23
+exp,exp_name,small,small,85645,85650,25
+pdnc,qID,Q220-0,his,85665,85668,23
+pdnc,qID,Q220-0,His,85751,85754,23
+pdnc,qID,Q220-0,He,85831,85833,23
+pdnc,qID,Q220-0,you,85947,85950,3
+pdnc,qID,Q220-0,his,86033,86036,23
+exp,exp_name,athelney jones,Athelney Jones,86088,86102,3
+exp,exp_name,sherlock holmes,Sherlock Holmes,86253,86268,14
+booknlp,COREF,105,his,86283,86286,14
+booknlp,COREF,105,I,86294,86295,14
+pdnc,qID,Q222-1,you,86342,86345,3
+pdnc,qID,Q222-1,you,86379,86382,21
+pdnc,qID,Q222-1,Watson,86384,86390,21
+booknlp,COREF,105,He,86394,86396,14
+booknlp,COREF,105,he,86464,86466,14
+pdnc,qID,Q224-1,Miss Morstan,86617,86629,12
+pdnc,qID,Q225-0,You,86675,86678,21
+pdnc,qID,Q225-0,her,86691,86694,12
+pdnc,qID,Q225-0,She,86701,86704,12
+pdnc,qID,Q225-0,Mrs. Cecil Forrester,86716,86736,16
+booknlp,COREF,105,I,86782,86783,14
+pdnc,qID,Q225-0,you,86798,86801,21
+pdnc,qID,Q225-0,you,86810,86813,21
+pdnc,qID,Q225-0,you,86847,86850,21
+pdnc,qID,Q226-0,you,87015,87018,14
+pdnc,qID,Q226-0,you,87171,87174,14
+pdnc,qID,Q227-0,Your,87207,87211,21
+pdnc,qID,Q227-1,Jones,87332,87337,3
+pdnc,qID,Q227-1,he,87374,87376,3
+pdnc,qID,Q227-1,you,87407,87410,21
+pdnc,qID,Q227-1,Miss Morstan,87424,87436,12
+pdnc,qID,Q227-1,you,87444,87447,21
+pdnc,qID,Q227-1,Sherman,87580,87587,31
+pdnc,qID,Q227-1,You,87601,87604,21
+pdnc,qID,Q227-1,old Sherman,87667,87678,31
+booknlp,COREF,142,him,87692,87695,31
+exp,exp_name,toby,Toby,87730,87734,27
+pdnc,qID,Q227-1,You,87744,87747,21
+exp,exp_name,toby,Toby,87759,87763,27
+pdnc,qID,Q227-1,you,87785,87788,21
+exp,exp_name,toby,Toby,87892,87896,27
+booknlp,COREF,143,him,87971,87974,27
+booknlp,COREF,105,I,88075,88076,14
+exp,exp_name,holmes,Holmes,88084,88090,14
+booknlp,COREF,105,I,88108,88109,14
+pdnc,qID,Q231-1,Mrs. Bernstone,88125,88139,15
+pdnc,qID,Q231-1,Mr. Thaddeus,88175,88187,19
+booknlp,COREF,105,me,88193,88195,14
+booknlp,COREF,105,I,88229,88230,14
+pdnc,qID,Q231-1,Jones,88253,88258,3
+booknlp,COREF,109,his,88283,88286,3
+exp,exp_name,miss morstan,Miss Morstan,88517,88529,12
+exp,exp_name,holmes,Holmes,89557,89563,14
+exp,exp_name,mrs. cecil forrester,Mrs. Cecil Forrester,89989,90009,16
+exp,exp_name,mrs. forrester,Mrs. Forrester,90053,90067,24
+exp,exp_name,miss morstan,Miss Morstan,90120,90132,12
+exp,exp_name,mrs. forrester,Mrs. Forrester,90473,90487,24
+exp,exp_name,captain morstan,Captain Morstan,91336,91351,5
+exp,exp_name,morstan,Morstan,91573,91580,5
+exp,exp_name,major sholto,Major Sholto,91613,91625,11
+exp,exp_name,captain morstan,Captain Morstan,91862,91877,5
+pdnc,qID,Q232-0,you,92306,92309,21
+pdnc,qID,Q232-1,you,92348,92351,21
+booknlp,COREF,142,I,92373,92374,31
+pdnc,qID,Q232-1,you,92429,92432,21
+pdnc,qID,Q233-0,you,92440,92443,31
+booknlp,COREF,142,me,92537,92539,31
+booknlp,COREF,142,I,92550,92551,31
+booknlp,COREF,142,I,92581,92582,31
+pdnc,qID,Q234-1,your,92597,92601,21
+pdnc,qID,Q234-1,you,92610,92613,21
+booknlp,COREF,142,I,92662,92663,31
+exp,exp_name,mr. sherman,Mr. Sherman,92695,92706,31
+booknlp,COREF,142,I,92735,92736,31
+pdnc,qID,Q237-0,Mr. Sherlock Holmes,92774,92793,14
+exp,exp_name,mr. sherman,Mr. Sherman,92937,92948,31
+exp,exp_name,sherlock,Sherlock,93060,93068,14
+booknlp,COREF,142,he,93094,93096,31
+pdnc,qID,Q238-1,sir,93108,93111,21
+booknlp,COREF,105,he,93143,93145,14
+pdnc,qID,Q238-2,sir,93321,93324,21
+booknlp,COREF,142,I,93376,93377,31
+pdnc,qID,Q238-2,You,93439,93442,21
+booknlp,COREF,142,my,93457,93459,31
+pdnc,qID,Q238-2,you,93490,93493,21
+booknlp,COREF,142,I,93508,93509,31
+booknlp,COREF,142,me,93596,93598,31
+exp,exp_name,mr. sherlock holmes,Mr. Sherlock Holmes,93620,93639,14
+pdnc,qID,Q238-2,sir,93648,93651,21
+pdnc,qID,Q239-0,He,93656,93658,14
+pdnc,qID,Q239-0,yours,93675,93680,31
+exp,exp_name,toby,Toby,93703,93707,27
+exp,exp_name,toby,Toby,93717,93721,27
+exp,exp_name,toby,Toby,93739,93743,27
+exp,exp_name,toby,Toby,94182,94186,27
+exp,exp_name,mcmurdo,McMurdo,94658,94665,30
+exp,exp_name,mr. sholto,Mr. Sholto,94727,94737,19
+exp,exp_name,holmes,Holmes,94896,94902,14
+booknlp,COREF,105,his,94939,94942,14
+booknlp,COREF,105,his,94952,94955,14
+booknlp,COREF,105,his,94973,94976,14
+pdnc,qID,Q243-0,you,94989,94992,21
+booknlp,COREF,105,he,95015,95017,14
+pdnc,qID,Q243-1,Atheney Jones,95036,95049,3
+pdnc,qID,Q243-1,you,95107,95110,21
+pdnc,qID,Q243-1,He,95117,95119,3
+pdnc,qID,Q243-1,friend Thaddeus,95142,95157,19
+pdnc,qID,Q243-1,the housekeeper,95179,95194,15
+exp,exp_name,toby,Toby,95324,95328,27
+booknlp,COREF,143,he,95392,95394,27
+exp,exp_name,weary-looking police-sergeant,weary-looking police-sergeant,95469,95498,32
+pdnc,qID,Q244-0,sergeant,95550,95558,32
+pdnc,qID,Q244-1,you,95660,95663,21
+pdnc,qID,Q244-1,you,95714,95717,21
+pdnc,qID,Q244-1,you,95739,95742,21
+pdnc,qID,Q244-1,Watson,95744,95750,21
+exp,exp_name,holmes,Holmes,95931,95937,14
+booknlp,COREF,105,his,95945,95948,14
+booknlp,COREF,105,I,95999,96000,14
+pdnc,qID,Q245-0,you,96006,96009,21
+booknlp,COREF,105,he,96051,96053,14
+pdnc,qID,Q245-1,you,96064,96067,21
+exp,exp_name,small,small,96150,96155,25
+booknlp,COREF,105,I,96343,96344,14
+booknlp,COREF,105,my,96359,96361,14
+pdnc,qID,Q251-0,you,96564,96567,21
+booknlp,COREF,105,I,96642,96643,14
+booknlp,COREF,105,I,96664,96665,14
+booknlp,COREF,105,my,96692,96694,14
+booknlp,COREF,105,he,96712,96714,14
+booknlp,COREF,105,he,96794,96796,14
+booknlp,COREF,105,his,96801,96804,14
+pdnc,qID,Q252-0,you,96830,96833,21
+booknlp,COREF,105,him,96845,96848,14
+booknlp,COREF,105,I,96850,96851,14
+exp,exp_name,toby,Toby,96870,96874,27
+exp,exp_name,sherlock holmes,Sherlock Holmes,97007,97022,14
+booknlp,COREF,105,him,97056,97059,14
+booknlp,COREF,105,him,97141,97144,14
+booknlp,COREF,105,he,97177,97179,14
+booknlp,COREF,105,him,97293,97296,14
+pdnc,qID,Q253-0,you,97339,97342,21
+pdnc,qID,Q253-0,Watson,97344,97350,21
+booknlp,COREF,105,he,97353,97355,14
+booknlp,COREF,105,I,97555,97556,14
+booknlp,COREF,105,he,97593,97595,14
+booknlp,COREF,105,he,97789,97791,14
+booknlp,COREF,105,him,97868,97871,14
+booknlp,COREF,105,he,97874,97876,14
+booknlp,COREF,105,his,97894,97897,14
+booknlp,COREF,105,his,97968,97971,14
+booknlp,COREF,105,he,97978,97980,14
+booknlp,COREF,105,my,98011,98013,14
+booknlp,COREF,105,he,98071,98073,14
+exp,exp_name,small,small,98094,98099,25
+exp,exp_name,bartholomew sholto,Bartholomew Sholto,98361,98379,4
+booknlp,COREF,105,he,98414,98416,14
+pdnc,qID,Q263-1,you,98433,98436,21
+booknlp,COREF,105,I,98459,98460,14
+booknlp,COREF,105,he,98525,98527,14
+pdnc,qID,Q263-1,you,98559,98562,21
+booknlp,COREF,105,me,98566,98568,14
+booknlp,COREF,105,I,98606,98607,14
+booknlp,COREF,105,myself,98644,98650,14
+pdnc,qID,Q263-1,you,98656,98659,21
+pdnc,qID,Q263-1,Watson,98688,98694,21
+pdnc,qID,Q265-0,Your,98725,98729,21
+booknlp,COREF,106,you,98769,98772,21
+exp,exp_name,toby,Toby,98794,98798,27
+exp,exp_name,toby,Toby,98810,98814,27
+booknlp,COREF,105,He,98827,98829,14
+exp,exp_name,holmes,Holmes,99047,99053,14
+booknlp,COREF,105,him,99152,99155,14
+booknlp,COREF,105,his,99272,99275,14
+booknlp,COREF,105,his,99300,99303,14
+booknlp,COREF,105,his,99374,99377,14
+exp,exp_name,toby,Toby,99957,99961,27
+exp,exp_name,holmes,Holmes,100257,100263,14
+booknlp,COREF,105,he,100307,100309,14
+booknlp,COREF,105,he,100390,100392,14
+booknlp,COREF,105,him,100426,100429,14
+exp,exp_name,toby,Toby,100825,100829,27
+booknlp,COREF,143,his,100876,100879,27
+exp,exp_name,holmes,Holmes,101018,101024,14
+booknlp,COREF,105,I,101032,101033,14
+booknlp,COREF,105,my,101045,101047,14
+booknlp,COREF,105,I,101151,101152,14
+booknlp,COREF,105,me,101191,101193,14
+booknlp,COREF,105,I,101309,101310,14
+booknlp,COREF,105,I,101333,101334,14
+booknlp,COREF,105,I,101609,101610,14
+pdnc,qID,Q270-1,you,101618,101621,14
+pdnc,qID,Q270-1,Holmes,101623,101629,14
+booknlp,COREF,105,I,101636,101637,14
+pdnc,qID,Q270-1,you,101667,101670,14
+pdnc,qID,Q270-1,your,101678,101682,14
+booknlp,COREF,105,I,101720,101721,14
+booknlp,COREF,105,me,101775,101777,14
+pdnc,qID,Q270-1,you,101838,101841,14
+exp,exp_name,wooden-legged man,wooden-legged man,101876,101893,23
+pdnc,qID,Q271-0,my dear boy,101905,101916,21
+pdnc,qID,Q271-0,Jonathan Small,102156,102170,23
+pdnc,qID,Q271-0,You,102172,102175,21
+pdnc,qID,Q271-0,Captain Morstan,102224,102239,5
+pdnc,qID,Q271-0,He,102254,102256,23
+pdnc,qID,Q271-0,he,102337,102339,23
+pdnc,qID,Q271-0,Jonathan Small,102570,102584,23
+exp,exp_name,morstan,Morstan,102668,102675,5
+pdnc,qID,Q271-0,Jonathan Small,102726,102740,23
+pdnc,qID,Q271-0,he,102774,102776,23
+exp,exp_name,major sholto,Major Sholto,103004,103016,11
+pdnc,qID,Q273-0,he,103096,103098,33
+exp,exp_name,wooden-legged man,wooden-legged man,103444,103461,23
+pdnc,qID,Q275-0,you,103481,103484,21
+exp,exp_name,wooden-legged man,wooden-legged man,103727,103744,23
+pdnc,qID,Q275-0,Jonathan Small,103763,103777,23
+pdnc,qID,Q275-0,you,103805,103808,21
+pdnc,qID,Q277-0,Jonathan Small,103909,103923,23
+pdnc,qID,Q277-0,his,103948,103951,23
+pdnc,qID,Q277-0,He,103967,103969,23
+pdnc,qID,Q277-0,he,104026,104028,23
+pdnc,qID,Q277-0,his,104050,104053,23
+pdnc,qID,Q277-0,his,104075,104078,23
+pdnc,qID,Q277-0,him,104116,104119,23
+pdnc,qID,Q277-0,He,104121,104123,23
+exp,exp_name,sholto,Sholto,104140,104146,19
+pdnc,qID,Q277-0,he,104172,104174,23
+pdnc,qID,Q277-0,this butler,104243,104254,9
+pdnc,qID,Q277-0,Lal Rao,104256,104263,9
+pdnc,qID,Q277-0,Mrs. Bernstone,104288,104302,15
+pdnc,qID,Q277-0,him,104309,104312,9
+pdnc,qID,Q277-0,Small,104340,104345,23
+pdnc,qID,Q277-0,the major,104430,104439,11
+pdnc,qID,Q277-0,Small,104488,104493,23
+pdnc,qID,Q277-0,the major,104506,104515,11
+pdnc,qID,Q277-0,he,104595,104597,23
+pdnc,qID,Q277-0,his,104637,104640,23
+pdnc,qID,Q277-0,the dying man,104648,104661,11
+pdnc,qID,Q277-0,the dead man,104772,104784,11
+pdnc,qID,Q277-0,he,104786,104788,23
+pdnc,qID,Q277-0,his,104946,104949,23
+pdnc,qID,Q277-0,He,104996,104998,23
+pdnc,qID,Q277-0,he,105044,105046,23
+pdnc,qID,Q277-0,he,105062,105064,23
+pdnc,qID,Q277-0,you,105398,105401,21
+pdnc,qID,Q279-0,Jonathan Small,105455,105469,23
+pdnc,qID,Q279-0,He,105474,105476,23
+pdnc,qID,Q279-0,he,105573,105575,23
+pdnc,qID,Q279-0,he,105669,105671,23
+pdnc,qID,Q279-0,Jonathan,105767,105775,23
+pdnc,qID,Q279-0,his,105782,105785,23
+pdnc,qID,Q279-0,Bartholomew Sholto,105843,105861,4
+pdnc,qID,Q279-0,He,105863,105865,23
+pdnc,qID,Q279-0,him,105877,105880,23
+exp,exp_name,toby,Toby,106002,106006,27
+pdnc,qID,Q280-0,Jonathan,106119,106127,23
+pdnc,qID,Q281-0,Jonathan,106181,106189,23
+pdnc,qID,Q281-0,he,106221,106223,23
+pdnc,qID,Q281-0,he,106243,106245,23
+pdnc,qID,Q281-0,He,106265,106267,23
+pdnc,qID,Q281-0,Bartholomew Sholto,106291,106309,4
+pdnc,qID,Q281-0,He,106383,106385,23
+pdnc,qID,Q281-0,Jonathan Small,106554,106568,23
+pdnc,qID,Q281-0,his,106574,106577,23
+pdnc,qID,Q281-0,his,106727,106730,23
+pdnc,qID,Q281-0,he,106751,106753,23
+pdnc,qID,Q281-0,his,106811,106814,23
+pdnc,qID,Q281-0,His,106853,106856,23
+pdnc,qID,Q281-0,his,106905,106908,23
+pdnc,qID,Q281-0,he,106934,106936,23
+pdnc,qID,Q281-0,His,106950,106953,23
+pdnc,qID,Q281-0,Thaddeus Sholto,107010,107025,19
+booknlp,COREF,124,he,107031,107033,19
+pdnc,qID,Q281-0,him,107038,107041,23
+pdnc,qID,Q283-0,you,107169,107172,21
+pdnc,qID,Q283-0,you,107484,107487,21
+exp,exp_name,small,small,107499,107504,25
+pdnc,qID,Q283-0,you,107613,107616,21
+pdnc,qID,Q285-0,you,107902,107905,21
+pdnc,qID,Q285-0,You,108036,108039,21
+pdnc,qID,Q285-0,you,108064,108067,21
+pdnc,qID,Q287-0,Jonathan,108176,108184,23
+pdnc,qID,Q287-0,you,108202,108205,21
+pdnc,qID,Q287-0,him,108250,108253,23
+exp,exp_name,toby,Toby,108452,108456,27
+exp,exp_name,toby,Toby,108974,108978,27
+booknlp,COREF,143,his,109049,109052,27
+exp,exp_name,toby,Toby,109649,109653,27
+booknlp,COREF,143,he,109801,109803,27
+booknlp,COREF,143,his,109895,109898,27
+exp,exp_name,holmes,Holmes,109968,109974,14
+booknlp,COREF,143,He,110113,110115,27
+booknlp,COREF,143,He,110171,110173,27
+booknlp,COREF,143,he,110221,110223,27
+booknlp,COREF,143,his,110241,110244,27
+booknlp,COREF,143,he,110308,110310,27
+booknlp,COREF,143,he,110384,110386,27
+booknlp,COREF,143,his,110407,110410,27
+booknlp,COREF,143,his,110445,110448,27
+exp,exp_name,holmes,Holmes,110513,110519,14
+booknlp,COREF,105,he,110532,110534,14
+exp,exp_name,toby,Toby,111120,111124,27
+exp,exp_name,sherlock holmes,Sherlock Holmes,111358,111373,14
+exp,exp_name,toby,Toby,111545,111549,27
+booknlp,COREF,143,his,111559,111562,27
+booknlp,COREF,143,He,111595,111597,27
+booknlp,COREF,143,his,111617,111620,27
+exp,exp_name,holmes,Holmes,111635,111641,14
+booknlp,COREF,143,him,111651,111654,27
+booknlp,COREF,143,him,111688,111691,27
+pdnc,qID,Q292-1,you,111720,111723,21
+pdnc,qID,Q292-1,our,111813,111816,14
+exp,exp_name,toby,Toby,111913,111917,27
+booknlp,COREF,143,I,111975,111976,27
+exp,exp_name,toby,Toby,112284,112288,27
+booknlp,COREF,143,he,112308,112310,27
+booknlp,COREF,143,his,112325,112328,27
+booknlp,COREF,143,he,112336,112338,27
+booknlp,COREF,143,he,112437,112439,27
+booknlp,COREF,143,I,112527,112528,27
+pdnc,qID,Q296-0,you,112554,112557,21
+booknlp,COREF,143,he,112570,112572,27
+exp,exp_name,small,small,112850,112855,25
+exp,exp_name,toby,Toby,112870,112874,27
+exp,exp_name,holmes,Holmes,113001,113007,14
+exp,exp_name,small,small,113051,113056,25
+exp,exp_name,toby,Toby,113142,113146,27
+booknlp,COREF,143,he,113182,113184,27
+booknlp,COREF,143,he,113204,113206,27
+exp,exp_name,small,small,113260,113265,25
+exp,exp_name,mordecai smith,Mordecai Smith,113339,113353,13
+exp,exp_name,sherlock holmes,Sherlock Holmes,113598,113613,14
+booknlp,COREF,105,his,113639,113642,14
+booknlp,COREF,105,he,113703,113705,14
+booknlp,COREF,105,I,113739,113740,14
+booknlp,COREF,105,I,113802,113803,14
+booknlp,COREF,105,He,113847,113849,14
+exp,exp_name,"a stoutish, red-faced woman","a stoutish, red-faced woman",113973,114000,18
+pdnc,qID,Q299-0,You,114036,114039,7
+pdnc,qID,Q299-0,Jack,114065,114069,7
+pdnc,qID,Q299-1,you,114097,114100,7
+pdnc,qID,Q299-1,your father,114119,114130,13
+pdnc,qID,Q299-1,you,114152,114155,7
+pdnc,qID,Q299-1,he,114167,114169,13
+pdnc,qID,Q300-0,Dear little chap,114195,114211,7
+exp,exp_name,holmes,Holmes,114219,114225,14
+pdnc,qID,Q300-1,young rascal,114263,114275,7
+pdnc,qID,Q300-1,Jack,114282,114286,7
+pdnc,qID,Q300-1,you,114306,114309,7
+pdnc,qID,Q302-0,you,114399,114402,7
+pdnc,qID,Q304-0,you,114505,114508,7
+pdnc,qID,Q304-0,A fine child,114527,114539,7
+pdnc,qID,Q304-0,Mrs. Smith,114541,114551,18
+pdnc,qID,Q305-0,you,114567,114570,14
+pdnc,qID,Q305-0,he,114577,114579,7
+pdnc,qID,Q305-0,He,114602,114604,7
+booknlp,COREF,105,me,114630,114632,14
+booknlp,COREF,105,my,114660,114662,14
+pdnc,qID,Q306-0,he,114703,114705,13
+exp,exp_name,holmes,Holmes,114713,114719,14
+booknlp,COREF,105,I,114747,114748,14
+booknlp,COREF,105,I,114772,114773,14
+pdnc,qID,Q306-1,Mr. Smith,114793,114802,13
+pdnc,qID,Q307-0,He,114807,114809,13
+pdnc,qID,Q307-0,sir,114847,114850,14
+booknlp,COREF,105,I,114872,114873,14
+pdnc,qID,Q307-0,him,114912,114915,13
+pdnc,qID,Q307-0,sir,114945,114948,14
+booknlp,COREF,105,I,114956,114957,14
+booknlp,COREF,105,I,114982,114983,14
+pdnc,qID,Q308-0,his,114999,115002,13
+pdnc,qID,Q309-0,you,115031,115034,14
+pdnc,qID,Q309-0,sir,115036,115039,14
+pdnc,qID,Q309-0,he,115072,115074,13
+booknlp,COREF,105,me,115105,115107,14
+booknlp,COREF,105,I,115113,115114,14
+pdnc,qID,Q309-0,he,115201,115203,13
+booknlp,COREF,105,I,115229,115230,14
+pdnc,qID,Q309-0,him,115286,115289,13
+pdnc,qID,Q309-0,he,115350,115352,13
+pdnc,qID,Q310-0,He,115426,115428,13
+pdnc,qID,Q311-0,He,115482,115484,13
+pdnc,qID,Q311-0,sir,115492,115495,14
+pdnc,qID,Q311-0,his,115512,115515,13
+booknlp,COREF,105,I,115533,115534,14
+pdnc,qID,Q311-0,him,115544,115547,13
+booknlp,COREF,105,I,115612,115613,14
+pdnc,qID,Q311-0,that wooden-legged man,115625,115647,23
+pdnc,qID,Q311-0,his,115653,115656,23
+pdnc,qID,Q311-0,he,115697,115699,23
+pdnc,qID,Q312-0,wooden-legged man,115742,115759,23
+exp,exp_name,holmes,Holmes,115767,115773,14
+pdnc,qID,Q313-0,sir,115803,115806,14
+pdnc,qID,Q313-0,chap,115830,115834,23
+pdnc,qID,Q313-0,my old man,115865,115875,13
+pdnc,qID,Q313-0,him,115884,115887,23
+pdnc,qID,Q313-0,him,115900,115903,23
+pdnc,qID,Q313-0,my man,115938,115944,13
+pdnc,qID,Q313-0,he,115950,115952,23
+pdnc,qID,Q313-0,he,115969,115971,23
+booknlp,COREF,105,I,116000,116001,14
+pdnc,qID,Q313-0,you,116007,116010,14
+pdnc,qID,Q313-0,sir,116021,116024,14
+booknlp,COREF,105,I,116026,116027,14
+booknlp,COREF,105,my,116047,116049,14
+pdnc,qID,Q314-0,my dear Mrs. Smith,116073,116091,18
+exp,exp_name,holmes,Holmes,116099,116105,14
+booknlp,COREF,105,his,116117,116120,14
+pdnc,qID,Q314-1,You,116133,116136,18
+booknlp,COREF,157,yourself,116153,116161,18
+pdnc,qID,Q314-1,you,116187,116190,18
+pdnc,qID,Q314-1,the wooden-legged man,116217,116238,23
+booknlp,COREF,105,I,116262,116263,14
+pdnc,qID,Q314-1,you,116291,116294,18
+pdnc,qID,Q315-0,His,116314,116317,23
+pdnc,qID,Q315-0,sir,116325,116328,14
+booknlp,COREF,105,I,116330,116331,14
+pdnc,qID,Q315-0,his,116337,116340,23
+pdnc,qID,Q315-0,He,116382,116384,23
+pdnc,qID,Q316-0,he,116458,116460,23
+pdnc,qID,Q317-0,My old man,116488,116498,13
+booknlp,COREF,105,my,116519,116521,14
+booknlp,COREF,105,me,116579,116581,14
+booknlp,COREF,105,I,116583,116584,14
+pdnc,qID,Q318-0,wooden-legged man,116651,116668,23
+booknlp,COREF,105,I,116693,116694,14
+pdnc,qID,Q319-0,sir,116704,116707,14
+booknlp,COREF,105,I,116709,116710,14
+booknlp,COREF,105,I,116739,116740,14
+pdnc,qID,Q320-0,Mrs. Smith,116751,116761,18
+booknlp,COREF,105,I,116767,116768,14
+booknlp,COREF,105,I,116796,116797,14
+booknlp,COREF,105,me,116833,116835,14
+booknlp,COREF,105,I,117094,117095,14
+pdnc,qID,Q324-0,you,117106,117109,18
+pdnc,qID,Q324-0,Mr. Smith,117130,117139,13
+booknlp,COREF,105,I,117141,117142,14
+booknlp,COREF,105,I,117175,117176,14
+booknlp,COREF,105,I,117213,117214,14
+pdnc,qID,Q324-0,him,117225,117228,13
+pdnc,qID,Q324-0,you,117239,117242,18
+pdnc,qID,Q324-0,you,117271,117274,18
+pdnc,qID,Q325-0,sir,117287,117290,14
+pdnc,qID,Q326-0,Mrs. Smith,117384,117394,18
+pdnc,qID,Q326-0,Watson,117435,117441,21
+exp,exp_name,holmes,Holmes,117531,117537,14
+pdnc,qID,Q329-0,you,117878,117881,21
+pdnc,qID,Q331-0,My dear fellow,117974,117988,21
+pdnc,qID,Q331-0,you,118199,118202,21
+pdnc,qID,Q331-0,you,118237,118240,21
+booknlp,COREF,105,I,118296,118297,14
+pdnc,qID,Q333-0,Athelney Jones,118318,118332,3
+pdnc,qID,Q333-0,He,118356,118358,3
+booknlp,COREF,105,I,118384,118385,14
+pdnc,qID,Q333-0,him,118436,118439,3
+booknlp,COREF,105,I,118460,118461,14
+booknlp,COREF,105,myself,118494,118500,14
+pdnc,qID,Q335-0,Jones,118841,118846,3
+pdnc,qID,Q335-0,his,118888,118891,3
+exp,exp_name,toby,Toby,119291,119295,27
+booknlp,COREF,143,he,119301,119303,27
+exp,exp_name,holmes,Holmes,119387,119393,14
+booknlp,COREF,105,his,119405,119408,14
+pdnc,qID,Q338-0,you,119424,119427,21
+booknlp,COREF,105,he,119447,119449,14
+booknlp,COREF,105,I,119486,119487,14
+booknlp,COREF,105,I,119496,119497,14
+pdnc,qID,Q340-0,You,119513,119516,21
+booknlp,COREF,105,I,119587,119588,14
+booknlp,COREF,105,I,119724,119725,14
+booknlp,COREF,105,I,119752,119753,14
+booknlp,COREF,105,my,119793,119795,14
+pdnc,qID,Q342-0,Wiggins,119821,119828,22
+booknlp,COREF,105,I,119834,119835,14
+pdnc,qID,Q342-0,he,119848,119850,22
+pdnc,qID,Q342-0,his,119855,119858,22
+exp,exp_name,bartholomew sholto,Bartholomew Sholto,120277,120295,4
+exp,exp_name,miss morstan,Miss Morstan,120479,120491,12
+exp,exp_name,holmes,Holmes,120752,120758,14
+pdnc,qID,Q343-1,Jones,121110,121115,3
+pdnc,qID,Q343-1,you,121179,121182,21
+pdnc,qID,Q343-1,your,121224,121228,21
+exp,exp_name,bartholomew sholto,Bartholomew Sholto,121423,121441,4
+exp,exp_name,mr. sholto,Mr. Sholto,121622,121632,19
+exp,exp_name,mr. sherlock holmes,Mr. Sherlock Holmes,121797,121816,14
+exp,exp_name,dr. watson,Dr. Watson,121821,121831,21
+exp,exp_name,mr. thaddeus sholto,Mr. Thaddeus Sholto,121866,121885,19
+exp,exp_name,mr. athelney jones,Mr. Athelney Jones,121949,121967,3
+booknlp,COREF,109,His,122130,122133,3
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,122275,122290,19
+exp,exp_name,mrs. bernstone,Mrs. Bernstone,122350,122364,15
+exp,exp_name,lal rao,Lal Rao,122389,122396,9
+exp,exp_name,mcmurdo,McMurdo,122433,122440,30
+exp,exp_name,mr. jones,Mr. Jones,122529,122538,3
+booknlp,COREF,109,his,122576,122579,3
+booknlp,COREF,109,him,122622,122625,3
+exp,exp_name,holmes,Holmes,123398,123404,14
+booknlp,COREF,105,his,123420,123423,14
+pdnc,qID,Q344-1,you,123445,123448,21
+booknlp,COREF,113,I,123465,123466,17
+booknlp,COREF,105,I,123559,123560,14
+pdnc,qID,Q346-0,he,123600,123602,3
+pdnc,qID,Q346-0,his,123636,123639,3
+exp,exp_name,mrs. hudson,Mrs. Hudson,123728,123739,17
+booknlp,COREF,113,her,123763,123766,17
+pdnc,qID,Q347-0,Holmes,123825,123831,14
+pdnc,qID,Q349-0,your,124481,124485,14
+pdnc,qID,Q349-0,sir,124495,124498,14
+pdnc,qID,Q350-0,you,124581,124584,22
+exp,exp_name,holmes,Holmes,124596,124602,14
+pdnc,qID,Q350-1,you,124657,124660,22
+pdnc,qID,Q350-1,Wiggins,124662,124669,22
+pdnc,qID,Q350-1,you,124675,124678,22
+booknlp,COREF,105,me,124682,124684,14
+booknlp,COREF,105,I,124686,124687,14
+pdnc,qID,Q350-1,you,124764,124767,22
+booknlp,COREF,105,I,124802,124803,14
+pdnc,qID,Q350-1,Mordecai Smith,124878,124892,13
+booknlp,COREF,105,I,124987,124988,14
+pdnc,qID,Q350-1,Mordecai Smith,125011,125025,13
+pdnc,qID,Q350-1,You,125091,125094,22
+booknlp,COREF,105,me,125166,125168,14
+pdnc,qID,Q350-1,you,125185,125188,22
+pdnc,qID,Q351-0,guv nor,125227,125234,14
+exp,exp_name,wiggins,Wiggins,125242,125249,22
+pdnc,qID,Q352-0,you,125352,125355,22
+booknlp,COREF,159,He,125361,125363,22
+exp,exp_name,holmes,Holmes,125545,125551,14
+booknlp,COREF,105,he,125556,125558,14
+booknlp,COREF,105,his,125587,125590,14
+booknlp,COREF,105,I,125658,125659,14
+pdnc,qID,Q353-1,Mr. Mordecai Smith,125845,125863,13
+exp,exp_name,toby,Toby,125868,125872,27
+pdnc,qID,Q354-0,you,125913,125916,14
+pdnc,qID,Q354-0,Holmes,125931,125937,14
+booknlp,COREF,105,I,125946,125947,14
+booknlp,COREF,105,I,125962,125963,14
+booknlp,COREF,105,I,125993,125994,14
+booknlp,COREF,105,me,126058,126060,14
+booknlp,COREF,105,I,126073,126074,14
+pdnc,qID,Q355-0,my fair client,126140,126154,12
+pdnc,qID,Q355-0,the other man,126271,126284,20
+booknlp,COREF,105,I,126291,126292,14
+pdnc,qID,Q356-0,other man,126337,126346,20
+booknlp,COREF,105,I,126357,126358,14
+pdnc,qID,Q357-0,him,126393,126396,20
+pdnc,qID,Q357-0,you,126401,126404,21
+pdnc,qID,Q357-0,you,126418,126421,21
+pdnc,qID,Q357-0,your,126439,126443,21
+exp,exp_name,small,small,126589,126594,25
+pdnc,qID,Q357-0,you,126619,126622,21
+pdnc,qID,Q358-1,Jonathan Small,126725,126739,23
+exp,exp_name,small,small,126970,126975,25
+pdnc,qID,Q363-0,Watson,128310,128316,21
+exp,exp_name,small,small,128405,128410,25
+exp,exp_name,small,small,128495,128500,25
+pdnc,qID,Q364-0,Watson,128863,128869,21
+pdnc,qID,Q364-0,this fellow,128874,128885,20
+pdnc,qID,Q364-0,his,128903,128906,20
+pdnc,qID,Q364-0,Jonathan Small,129012,129026,23
+pdnc,qID,Q365-0,he,129092,129094,23
+pdnc,qID,Q365-0,a companion,129115,129126,20
+pdnc,qID,Q366-0,Small,129212,129217,23
+pdnc,qID,Q366-0,this islander,129279,129292,20
+pdnc,qID,Q366-0,him,129308,129311,23
+pdnc,qID,Q366-0,Watson,129369,129375,21
+pdnc,qID,Q366-0,you,129377,129380,21
+pdnc,qID,Q366-0,you,129451,129454,21
+exp,exp_name,mary morstan,Mary Morstan,129880,129892,12
+exp,exp_name,sherlock holmes,Sherlock Holmes,130023,130038,14
+booknlp,COREF,105,him,130071,130074,14
+booknlp,COREF,105,he,130086,130088,14
+booknlp,COREF,105,his,130104,130107,14
+booknlp,COREF,105,He,130139,130141,14
+booknlp,COREF,105,his,130196,130199,14
+pdnc,qID,Q367-0,You,130230,130233,21
+booknlp,COREF,105,he,130255,130257,14
+booknlp,COREF,105,I,130265,130266,14
+pdnc,qID,Q367-1,you,130299,130302,21
+pdnc,qID,Q368-1,you,130343,130346,14
+booknlp,COREF,105,I,130391,130392,14
+booknlp,COREF,105,I,130406,130407,14
+booknlp,COREF,105,I,130439,130440,14
+pdnc,qID,Q369-0,Wiggins,130483,130490,22
+pdnc,qID,Q369-0,He,130519,130521,22
+pdnc,qID,Q371-0,You,130843,130846,21
+pdnc,qID,Q371-0,you,130859,130862,21
+booknlp,COREF,105,I,130873,130874,14
+pdnc,qID,Q372-0,Mrs. Cecil Forrester,130950,130970,16
+pdnc,qID,Q372-0,She,130972,130975,16
+pdnc,qID,Q373-0,Mrs. Cecil Forrester,131006,131026,16
+exp,exp_name,holmes,Holmes,131035,131041,14
+booknlp,COREF,105,his,131074,131077,14
+pdnc,qID,Q374-0,Miss Morstan,131102,131114,12
+booknlp,COREF,105,I,131164,131165,14
+exp,exp_name,holmes,Holmes,131202,131208,14
+pdnc,qID,Q377-0,you,131419,131422,21
+pdnc,qID,Q377-0,you,131446,131449,21
+exp,exp_name,toby,Toby,131469,131473,27
+exp,exp_name,miss morstan,Miss Morstan,131696,131708,12
+exp,exp_name,mrs. forrester,Mrs. Forrester,131787,131801,24
+exp,exp_name,mr. sholto,Mr. Sholto,131953,131963,19
+exp,exp_name,mrs. forrester,Mrs. Forrester,132128,132142,24
+pdnc,qID,Q378-1,An injured lady,132145,132160,12
+pdnc,qID,Q378-1,a wooden-legged ruffian,132212,132235,23
+exp,exp_name,miss morstan,Miss Morstan,132348,132360,12
+pdnc,qID,Q380-0,Mary,132397,132401,12
+pdnc,qID,Q380-0,your,132403,132407,12
+pdnc,qID,Q380-0,you,132474,132477,12
+pdnc,qID,Q380-0,your,132574,132578,12
+exp,exp_name,small,small,132792,132797,25
+pdnc,qID,Q381-0,Mr. Thaddeus Sholto,132820,132839,19
+pdnc,qID,Q381-1,he,132924,132926,19
+pdnc,qID,Q381-1,him,133002,133005,19
+pdnc,qID,Q382-0,Mr. Sherlock Holmes,133284,133303,14
+exp,exp_name,mrs. hudson,Mrs. Hudson,133329,133340,17
+booknlp,COREF,113,she,133344,133347,17
+pdnc,qID,Q383-0,sir,133383,133386,21
+pdnc,qID,Q383-0,He,133388,133390,14
+pdnc,qID,Q383-0,his,133403,133406,14
+pdnc,qID,Q383-0,sir,133413,133416,21
+pdnc,qID,Q383-0,you,133421,133424,21
+pdnc,qID,Q383-0,sir,133431,133434,21
+booknlp,COREF,113,her,133445,133448,17
+booknlp,COREF,113,I,133484,133485,17
+pdnc,qID,Q384-0,his,133500,133503,14
+pdnc,qID,Q385-0,Mrs. Hudson,133523,133534,17
+pdnc,qID,Q386-0,he,133545,133547,14
+pdnc,qID,Q386-0,sir,133564,133567,21
+pdnc,qID,Q386-0,you,133575,133578,21
+pdnc,qID,Q386-0,he,133588,133590,14
+pdnc,qID,Q386-0,he,133602,133604,14
+booknlp,COREF,113,I,133649,133650,17
+pdnc,qID,Q386-0,his,133677,133680,14
+booknlp,COREF,113,I,133696,133697,17
+pdnc,qID,Q386-0,him,133704,133707,14
+pdnc,qID,Q386-0,he,133775,133777,14
+exp,exp_name,mrs. hudson,Mrs. Hudson,133821,133832,17
+pdnc,qID,Q387-0,he,133843,133845,14
+pdnc,qID,Q387-0,his,133865,133868,14
+booknlp,COREF,113,I,133879,133880,17
+pdnc,qID,Q387-0,him,133890,133893,14
+booknlp,COREF,113,I,133925,133926,17
+pdnc,qID,Q387-0,he,133932,133934,14
+pdnc,qID,Q387-0,sir,133958,133961,21
+booknlp,COREF,113,I,133963,133964,17
+pdnc,qID,Q387-0,him,133994,133997,14
+pdnc,qID,Q387-0,he,134026,134028,14
+booknlp,COREF,113,me,134039,134041,17
+pdnc,qID,Q387-0,sir,134043,134046,21
+booknlp,COREF,113,I,134070,134071,17
+booknlp,COREF,113,I,134092,134093,17
+pdnc,qID,Q388-0,you,134137,134140,17
+pdnc,qID,Q388-0,Mrs. Hudson,134170,134181,17
+booknlp,COREF,113,I,134197,134198,17
+pdnc,qID,Q388-1,him,134209,134212,14
+pdnc,qID,Q388-1,He,134231,134233,14
+exp,exp_name,small,small,134243,134248,25
+pdnc,qID,Q388-1,his,134261,134264,14
+pdnc,qID,Q388-1,him,134282,134285,14
+pdnc,qID,Q389-0,You,134651,134654,14
+pdnc,qID,Q389-0,old man,134681,134688,14
+pdnc,qID,Q389-1,you,134712,134715,14
+pdnc,qID,Q390-1,Mrs. Smith,135130,135140,18
+booknlp,COREF,157,her,135150,135153,18
+pdnc,qID,Q391-0,Mrs. Smith,135279,135289,18
+exp,exp_name,wiggins,Wiggins,135770,135777,22
+exp,exp_name,thaddeus sholto,Thaddeus Sholto,135932,135947,19
+exp,exp_name,holmes,Holmes,136178,136184,14
+booknlp,COREF,105,He,136215,136217,14
+booknlp,COREF,105,himself,136265,136272,14
+exp,exp_name,small,small,136464,136469,25
+booknlp,COREF,105,his,136520,136523,14
+booknlp,COREF,105,he,136554,136556,14
+booknlp,COREF,105,his,136578,136581,14
+booknlp,COREF,105,him,136671,136674,14
+booknlp,COREF,105,his,136775,136778,14
+booknlp,COREF,105,I,136787,136788,14
+pdnc,qID,Q395-0,Watson,136812,136818,21
+booknlp,COREF,105,he,136826,136828,14
+booknlp,COREF,105,I,136831,136832,14
+booknlp,COREF,105,my,136862,136864,14
+booknlp,COREF,105,I,136875,136876,14
+pdnc,qID,Q396-0,you,136970,136973,14
+pdnc,qID,Q397-0,you,136996,136999,21
+pdnc,qID,Q397-0,you,137027,137030,21
+booknlp,COREF,105,my,137051,137053,14
+booknlp,COREF,105,I,137070,137071,14
+pdnc,qID,Q397-0,Wiggins,137167,137174,22
+booknlp,COREF,105,I,137211,137212,14
+pdnc,qID,Q397-0,you,137218,137221,21
+pdnc,qID,Q397-0,your,137269,137273,21
+booknlp,COREF,105,I,137316,137317,14
+pdnc,qID,Q397-0,you,137328,137331,21
+booknlp,COREF,105,I,137355,137356,14
+booknlp,COREF,105,you,137372,137375,14
+booknlp,COREF,105,me,137404,137406,14
+booknlp,COREF,105,I,137412,137413,14
+booknlp,COREF,105,I,137440,137441,14
+booknlp,COREF,105,myself,137451,137457,14
+booknlp,COREF,105,I,137462,137463,14
+booknlp,COREF,105,I,137485,137486,14
+booknlp,COREF,105,I,137517,137518,14
+booknlp,COREF,105,I,137564,137565,14
+exp,exp_name,mr. thaddeus sholto,Mr. Thaddeus Sholto,137956,137975,19
+booknlp,COREF,124,He,138028,138030,19
+exp,exp_name,mrs. bernstone,Mrs. Bernstone,138052,138066,15
+exp,exp_name,mr. athelney jones,Mr. Athelney Jones,138219,138237,3
+booknlp,COREF,109,his,138266,138269,3
+pdnc,qID,Q400-1,Friend Sholto,138405,138418,19
+exp,exp_name,mordecai smith,Mordecai Smith,138709,138723,13
+booknlp,COREF,124,his,138738,138741,19
+exp,exp_name,smith,Smith,138757,138762,18
+exp,exp_name,mrs. smith,Mrs. Smith,138983,138993,18
+exp,exp_name,smith,Smith,138998,139003,18
+exp,exp_name,mordecai smith,Mordecai Smith,139074,139088,13
+exp,exp_name,holmes,Holmes,139134,139140,14
+exp,exp_name,holmes,Holmes,139499,139505,14
+booknlp,COREF,105,his,139532,139535,14
+booknlp,COREF,105,he,139770,139772,14
+booknlp,COREF,105,his,139842,139845,14
+booknlp,COREF,105,him,139944,139947,14
+booknlp,COREF,105,He,140020,140022,14
+booknlp,COREF,105,his,140096,140099,14
+booknlp,COREF,105,his,140107,140110,14
+booknlp,COREF,105,his,140212,140215,14
+booknlp,COREF,105,his,140310,140313,14
+exp,exp_name,holmes,Holmes,140510,140516,14
+exp,exp_name,mr. athelney jones,Mr. Athelney Jones,140750,140768,3
+booknlp,COREF,105,he,140808,140810,14
+booknlp,COREF,105,His,140939,140942,14
+booknlp,COREF,105,his,140972,140975,14
+pdnc,qID,Q401-0,sir,141022,141025,21
+booknlp,COREF,105,he,141043,141045,14
+pdnc,qID,Q401-1,Mr. Sherlock Holmes,141048,141067,14
+booknlp,COREF,105,I,141076,141077,14
+pdnc,qID,Q402-0,he,141124,141126,14
+pdnc,qID,Q402-0,you,141153,141156,3
+pdnc,qID,Q403-0,you,141231,141234,21
+booknlp,COREF,105,I,141236,141237,14
+booknlp,COREF,105,I,141252,141253,14
+booknlp,COREF,105,he,141264,141266,14
+booknlp,COREF,105,his,141276,141279,14
+pdnc,qID,Q405-0,You,141453,141456,21
+pdnc,qID,Q406-0,you,141516,141519,3
+pdnc,qID,Q407-0,Mr. Sholto,141615,141625,19
+pdnc,qID,Q407-0,sir,141627,141630,21
+pdnc,qID,Q407-0,he,141641,141643,19
+pdnc,qID,Q407-0,He,141685,141687,19
+pdnc,qID,Q407-0,he,141761,141763,19
+pdnc,qID,Q407-0,his brother,141769,141780,4
+pdnc,qID,Q407-0,he,141788,141790,19
+pdnc,qID,Q407-0,he,141855,141857,19
+pdnc,qID,Q409-0,Your,142056,142060,21
+pdnc,qID,Q409-0,Mr. Sherlock Holmes,142068,142087,14
+pdnc,qID,Q409-0,sir,142108,142111,21
+pdnc,qID,Q409-1,He,142159,142161,14
+pdnc,qID,Q409-1,that young man,142206,142220,14
+pdnc,qID,Q409-1,he,142282,142284,14
+pdnc,qID,Q409-1,He,142315,142317,14
+pdnc,qID,Q409-1,his,142334,142337,14
+pdnc,qID,Q409-1,he,142425,142427,14
+pdnc,qID,Q409-1,him,142524,142527,14
+pdnc,qID,Q409-1,he,142569,142571,14
+pdnc,qID,Q409-1,Sholto,142598,142604,19
+exp,exp_name,sholto,Sholto,142851,142857,19
+pdnc,qID,Q410-0,He,142951,142953,14
+pdnc,qID,Q411-0,he,143015,143017,14
+exp,exp_name,jones,Jones,143052,143057,3
+booknlp,COREF,109,my,143189,143191,3
+pdnc,qID,Q411-1,he,143301,143303,14
+exp,exp_name,an aged man,an aged man,143628,143639,14
+pdnc,qID,Q413-0,Mr. Sherlock Holmes,144281,144300,14
+pdnc,qID,Q414-0,him,144343,144346,14
+pdnc,qID,Q414-0,You,144348,144351,14
+pdnc,qID,Q414-0,you,144376,144379,14
+pdnc,qID,Q414-0,him,144389,144392,14
+pdnc,qID,Q415-0,him,144407,144410,14
+booknlp,COREF,105,himself,144411,144418,14
+pdnc,qID,Q416-0,you,144460,144463,14
+pdnc,qID,Q416-0,him,144485,144488,14
+pdnc,qID,Q416-0,Mordecai Smith,144503,144517,13
+pdnc,qID,Q417-0,he,144586,144588,14
+pdnc,qID,Q418-0,him,144693,144696,14
+pdnc,qID,Q419-0,him,144716,144719,14
+pdnc,qID,Q420-0,him,144825,144828,14
+pdnc,qID,Q421-0,Mr. Holmes,144896,144906,14
+pdnc,qID,Q421-0,Mr. Holmes,144924,144934,14
+booknlp,COREF,105,himself,144960,144967,14
+exp,exp_name,athelney jones,Athelney Jones,145076,145090,3
+pdnc,qID,Q422-0,my friend,145126,145135,14
+booknlp,COREF,109,he,145143,145145,3
+pdnc,qID,Q422-1,you,145221,145224,14
+pdnc,qID,Q422-1,you,145234,145237,14
+pdnc,qID,Q422-1,our friend,145257,145267,14
+exp,exp_name,athelney jones,Athelney Jones,145335,145349,3
+booknlp,COREF,109,his,145354,145357,3
+booknlp,COREF,109,he,145384,145386,3
+booknlp,COREF,109,he,145463,145465,3
+booknlp,COREF,109,his,145482,145485,3
+booknlp,COREF,109,I,145494,145495,3
+booknlp,COREF,109,I,145543,145544,3
+booknlp,COREF,109,my,145558,145560,3
+booknlp,COREF,109,me,145573,145575,3
+booknlp,COREF,109,me,145586,145588,3
+pdnc,qID,Q424-1,your,145687,145691,14
+exp,exp_name,jones,Jones,145850,145855,3
+exp,exp_name,holmes,Holmes,145914,145920,14
+booknlp,COREF,105,I,145949,145950,14
+booknlp,COREF,105,me,145978,145980,14
+booknlp,COREF,105,he,145995,145997,14
+exp,exp_name,holmes,Holmes,146046,146052,14
+pdnc,qID,Q426-0,Holmes,146107,146113,14
+pdnc,qID,Q426-1,You,146130,146133,14
+pdnc,qID,Q426-1,the old man,146153,146164,14
+pdnc,qID,Q427-0,the old man,146177,146188,14
+booknlp,COREF,105,he,146196,146198,14
+pdnc,qID,Q427-1,he,146240,146242,14
+booknlp,COREF,105,I,146281,146282,14
+booknlp,COREF,105,my,146291,146293,14
+booknlp,COREF,105,I,146324,146325,14
+pdnc,qID,Q428-0,You,146380,146383,14
+exp,exp_name,jones,Jones,146398,146403,3
+pdnc,qID,Q428-1,You,146424,146427,14
+pdnc,qID,Q428-1,You,146470,146473,14
+pdnc,qID,Q428-1,yours,146529,146534,14
+booknlp,COREF,109,I,146564,146565,3
+booknlp,COREF,109,I,146574,146575,3
+pdnc,qID,Q428-1,your,146594,146598,14
+pdnc,qID,Q428-1,You,146612,146615,14
+pdnc,qID,Q428-1,You,146651,146654,14
+booknlp,COREF,105,I,146663,146664,14
+booknlp,COREF,105,he,146713,146715,14
+booknlp,COREF,105,his,146726,146729,14
+booknlp,COREF,105,You,146738,146741,14
+booknlp,COREF,105,me,146797,146799,14
+booknlp,COREF,105,my,146861,146863,14
+booknlp,COREF,105,I,146874,146875,14
+pdnc,qID,Q429-1,You,146942,146945,3
+booknlp,COREF,105,my,146950,146952,14
+booknlp,COREF,105,me,146989,146991,14
+pdnc,qID,Q431-0,your,147009,147013,3
+booknlp,COREF,105,I,147061,147062,14
+booknlp,COREF,105,my,147090,147092,14
+pdnc,qID,Q433-0,you,147181,147184,3
+booknlp,COREF,105,you,147222,147225,14
+booknlp,COREF,105,yourself,147235,147243,14
+booknlp,COREF,105,my,147250,147252,14
+pdnc,qID,Q433-0,You,147261,147264,3
+pdnc,qID,Q433-0,you,147309,147312,3
+booknlp,COREF,105,I,147339,147340,14
+pdnc,qID,Q434-0,you,147384,147387,14
+booknlp,COREF,105,me,147398,147400,14
+booknlp,COREF,105,I,147447,147448,14
+booknlp,COREF,105,I,147608,147609,14
+booknlp,COREF,105,I,147671,147672,14
+booknlp,COREF,105,I,147830,147831,14
+pdnc,qID,Q439-0,my friend,147869,147878,21
+pdnc,qID,Q439-0,the young lady,147909,147923,12
+pdnc,qID,Q439-0,her,147967,147970,12
+pdnc,qID,Q439-0,Watson,148000,148006,21
+booknlp,COREF,105,me,148043,148045,14
+exp,exp_name,jones,Jones,148088,148093,3
+booknlp,COREF,109,his,148103,148106,3
+booknlp,COREF,109,I,148157,148158,3
+booknlp,COREF,105,I,148345,148346,14
+pdnc,qID,Q442-0,Jonathan Small,148421,148435,23
+pdnc,qID,Q442-0,You,148445,148448,3
+booknlp,COREF,105,I,148454,148455,14
+booknlp,COREF,105,my,148483,148485,14
+booknlp,COREF,105,my,148522,148524,14
+pdnc,qID,Q442-0,him,148561,148564,23
+booknlp,COREF,105,my,148581,148583,14
+pdnc,qID,Q442-0,he,148615,148617,23
+pdnc,qID,Q443-0,you,148651,148654,14
+booknlp,COREF,109,I,148684,148685,3
+pdnc,qID,Q443-0,Jonathan Small,148733,148747,23
+pdnc,qID,Q443-0,you,148761,148764,14
+pdnc,qID,Q443-0,him,148775,148778,23
+booknlp,COREF,109,I,148779,148780,3
+booknlp,COREF,109,I,148795,148796,3
+pdnc,qID,Q443-0,you,148808,148811,14
+pdnc,qID,Q443-0,him,148830,148833,23
+booknlp,COREF,105,I,148915,148916,14
+pdnc,qID,Q446-0,your,148929,148933,3
+booknlp,COREF,105,I,148984,148985,14
+pdnc,qID,Q446-0,Watson,149069,149075,21
+pdnc,qID,Q446-0,you,149077,149080,21
+booknlp,COREF,105,my,149107,149109,14
+exp,exp_name,holmes,Holmes,149200,149206,14
+booknlp,COREF,105,he,149240,149242,14
+booknlp,COREF,105,he,149265,149267,14
+booknlp,COREF,105,He,149280,149282,14
+booknlp,COREF,105,him,149351,149354,14
+booknlp,COREF,105,He,149369,149371,14
+booknlp,COREF,105,he,149564,149566,14
+booknlp,COREF,105,His,149599,149602,14
+booknlp,COREF,105,his,149642,149645,14
+exp,exp_name,athelney jones,Athelney Jones,149686,149700,3
+booknlp,COREF,109,his,149733,149736,3
+booknlp,COREF,109,his,149768,149771,3
+exp,exp_name,holmes,Holmes,149920,149926,14
+exp,exp_name,holmes,Holmes,150043,150049,14
+booknlp,COREF,105,his,150061,150064,14
+booknlp,COREF,105,he,150130,150132,14
+pdnc,qID,Q447-1,you,150218,150221,21
+pdnc,qID,Q447-1,Watson,150232,150238,21
+booknlp,COREF,105,I,150243,150244,14
+booknlp,COREF,105,my,150250,150252,14
+booknlp,COREF,105,my,150277,150279,14
+pdnc,qID,Q449-0,You,150289,150292,21
+booknlp,COREF,105,I,150344,150345,14
+booknlp,COREF,105,I,150379,150380,14
+exp,exp_name,holmes,Holmes,150515,150521,14
+exp,exp_name,small,small,150655,150660,25
+exp,exp_name,jones,Jones,150728,150733,3
+exp,exp_name,holmes,Holmes,150735,150741,14
+exp,exp_name,jones,Jones,150885,150890,3
+exp,exp_name,holmes,Holmes,151072,151078,14
+booknlp,COREF,105,he,151216,151218,14
+pdnc,qID,Q457-0,you,151382,151385,21
+pdnc,qID,Q457-0,Watson,151405,151411,21
+pdnc,qID,Q457-0,You,151413,151416,21
+exp,exp_name,small,small,151467,151472,25
+pdnc,qID,Q459-0,Small,152101,152106,23
+pdnc,qID,Q459-0,him,152164,152167,23
+pdnc,qID,Q459-0,he,152298,152300,23
+pdnc,qID,Q459-0,he,152364,152366,23
+pdnc,qID,Q459-0,he,152419,152421,23
+pdnc,qID,Q459-0,his,152530,152533,23
+pdnc,qID,Q460-1,he,152667,152669,23
+pdnc,qID,Q460-1,his,152683,152686,23
+pdnc,qID,Q460-1,he,152707,152709,23
+pdnc,qID,Q460-1,his,152723,152726,23
+pdnc,qID,Q461-0,his,152778,152781,23
+pdnc,qID,Q461-0,him,152834,152837,23
+pdnc,qID,Q461-0,he,152858,152860,23
+pdnc,qID,Q461-0,Jonathan Small,152937,152951,23
+pdnc,qID,Q461-0,he,153027,153029,23
+pdnc,qID,Q461-0,him,153050,153053,20
+pdnc,qID,Q461-0,He,153136,153138,23
+pdnc,qID,Q461-0,he,153246,153248,23
+pdnc,qID,Q461-0,Mrs. Smith,153344,153354,18
+pdnc,qID,Q461-0,Smith,153507,153512,13
+pdnc,qID,Q461-0,his,153526,153529,13
+pdnc,qID,Q461-0,his,153547,153550,13
+pdnc,qID,Q463-0,Small,154118,154123,23
+pdnc,qID,Q463-0,his,154154,154157,23
+pdnc,qID,Q463-0,He,154174,154176,23
+pdnc,qID,Q463-0,his,154314,154317,23
+pdnc,qID,Q463-0,he,154342,154344,23
+pdnc,qID,Q463-0,his,154450,154453,23
+pdnc,qID,Q465-0,a wooden-legged man,155140,155159,23
+pdnc,qID,Q467-0,Mordecai Smith,155350,155364,13
+pdnc,qID,Q467-0,He,155385,155387,13
+pdnc,qID,Q467-0,him,155457,155460,13
+pdnc,qID,Q467-0,he,155466,155468,13
+pdnc,qID,Q467-0,his,155482,155485,13
+pdnc,qID,Q467-0,his,155507,155510,13
+pdnc,qID,Q468-0,he,155564,155566,13
+pdnc,qID,Q469-0,him,155673,155676,13
+pdnc,qID,Q469-0,he,155687,155689,13
+pdnc,qID,Q469-0,him,155763,155766,13
+pdnc,qID,Q469-0,he,155786,155788,13
+pdnc,qID,Q470-0,You,156136,156139,14
+exp,exp_name,jones,Jones,156218,156223,3
+booknlp,COREF,109,my,156252,156254,3
+booknlp,COREF,109,I,156261,156262,3
+pdnc,qID,Q471-0,Small,156396,156401,23
+pdnc,qID,Q471-0,He,156429,156431,23
+pdnc,qID,Q471-0,him,156482,156485,23
+pdnc,qID,Q472-0,you,156531,156534,14
+pdnc,qID,Q472-0,Mordecai Smith,156555,156569,13
+pdnc,qID,Q473-0,Smith,156707,156712,13
+pdnc,qID,Q473-0,he,156749,156751,13
+pdnc,qID,Q473-0,he,156788,156790,13
+pdnc,qID,Q473-0,him,156816,156819,13
+exp,exp_name,holmes,Holmes,157202,157208,14
+booknlp,COREF,105,He,157346,157348,14
+booknlp,COREF,105,his,157383,157386,14
+booknlp,COREF,105,I,157429,157430,14
+booknlp,COREF,105,my,157435,157437,14
+booknlp,COREF,105,he,157459,157461,14
+exp,exp_name,jones,Jones,157577,157582,3
+exp,exp_name,holmes,Holmes,157760,157766,14
+booknlp,COREF,105,I,158135,158136,14
+exp,exp_name,holmes,Holmes,158433,158439,14
+booknlp,COREF,105,I,158778,158779,14
+pdnc,qID,Q481-0,your,158859,158863,14
+exp,exp_name,holmes,Holmes,158944,158950,14
+booknlp,COREF,105,I,159064,159065,14
+booknlp,COREF,105,myself,159086,159092,14
+exp,exp_name,small,small,159214,159219,25
+exp,exp_name,jones,Jones,159372,159377,3
+booknlp,COREF,109,his,159410,159413,3
+booknlp,COREF,109,he,159441,159443,3
+booknlp,COREF,109,I,159451,159452,3
+exp,exp_name,holmes,Holmes,159513,159519,14
+booknlp,COREF,105,his,159529,159532,14
+exp,exp_name,holmes,Holmes,160438,160444,14
+booknlp,COREF,105,his,160524,160527,14
+booknlp,COREF,109,I,160588,160589,3
+exp,exp_name,jones,Jones,160620,160625,3
+booknlp,COREF,109,his,160632,160635,3
+exp,exp_name,jones,Jones,161490,161495,3
+exp,exp_name,smith,Smith,161823,161828,18
+exp,exp_name,jones,Jones,162748,162753,3
+exp,exp_name,holmes,Holmes,163558,163564,14
+booknlp,COREF,105,his,163583,163586,14
+exp,exp_name,small,small,163897,163902,25
+pdnc,qID,Q487-0,he,164069,164071,20
+pdnc,qID,Q487-0,his,164079,164082,20
+exp,exp_name,holmes,Holmes,164095,164101,14
+exp,exp_name,wooden-legged man,wooden-legged man,164850,164867,23
+exp,exp_name,holmes,Holmes,166660,166666,14
+exp,exp_name,holmes,Holmes,166929,166935,14
+booknlp,COREF,105,his,166962,166965,14
+booknlp,COREF,105,his,166979,166982,14
+pdnc,qID,Q488-0,Jonathan Small,168154,168168,23
+exp,exp_name,holmes,Holmes,168176,168182,14
+booknlp,COREF,105,I,168203,168204,14
+booknlp,COREF,105,I,168253,168254,14
+pdnc,qID,Q489-0,sir,168256,168259,14
+booknlp,COREF,105,he,168262,168264,14
+booknlp,COREF,105,I,168285,168286,14
+booknlp,COREF,105,I,168306,168307,14
+booknlp,COREF,105,I,168332,168333,14
+pdnc,qID,Q489-1,you,168339,168342,14
+booknlp,COREF,105,my,168343,168345,14
+booknlp,COREF,105,I,168368,168369,14
+pdnc,qID,Q489-1,Mr. Sholto,168396,168406,4
+pdnc,qID,Q489-1,Tonga,168438,168443,20
+pdnc,qID,Q489-1,his,168460,168463,20
+pdnc,qID,Q489-1,him,168482,168485,4
+booknlp,COREF,105,I,168487,168488,14
+booknlp,COREF,105,I,168513,168514,14
+booknlp,COREF,105,my,168548,168550,14
+booknlp,COREF,105,I,168567,168568,14
+booknlp,COREF,105,I,168653,168654,14
+exp,exp_name,holmes,Holmes,168703,168709,14
+pdnc,qID,Q490-1,you,168716,168719,23
+booknlp,COREF,105,my,168748,168750,14
+pdnc,qID,Q490-1,you,168762,168765,23
+pdnc,qID,Q490-1,you,168790,168793,23
+exp,exp_name,small,small,168804,168809,25
+pdnc,qID,Q490-1,this black fellow,168828,168845,20
+pdnc,qID,Q490-1,Mr. Sholto,168859,168869,4
+pdnc,qID,Q490-1,him,168879,168882,4
+pdnc,qID,Q490-1,you,168889,168892,23
+pdnc,qID,Q491-0,You,168920,168923,14
+pdnc,qID,Q491-0,you,168960,168963,14
+pdnc,qID,Q491-0,sir,168976,168979,14
+booknlp,COREF,105,I,168999,169000,14
+booknlp,COREF,105,I,169031,169032,14
+pdnc,qID,Q491-0,Mr. Sholto,169100,169110,4
+pdnc,qID,Q491-0,his,169132,169135,4
+booknlp,COREF,105,I,169144,169145,14
+booknlp,COREF,105,I,169206,169207,14
+pdnc,qID,Q491-0,the old major,169263,169276,11
+booknlp,COREF,105,I,169277,169278,14
+booknlp,COREF,124,him,169300,169303,19
+booknlp,COREF,105,I,169324,169325,14
+booknlp,COREF,124,him,169364,169367,19
+booknlp,COREF,105,I,169422,169423,14
+pdnc,qID,Q491-0,this young Sholto,169446,169463,4
+booknlp,COREF,105,I,169475,169476,14
+pdnc,qID,Q492-0,You,169505,169508,23
+pdnc,qID,Q492-0,Mr. Athelney Jones,169533,169551,3
+pdnc,qID,Q492-0,He,169571,169573,3
+pdnc,qID,Q492-0,you,169592,169595,23
+booknlp,COREF,105,my,169602,169604,14
+booknlp,COREF,105,I,169616,169617,14
+pdnc,qID,Q492-0,you,169628,169631,23
+pdnc,qID,Q492-0,You,169666,169669,23
+pdnc,qID,Q492-0,you,169709,169712,23
+booknlp,COREF,105,I,169716,169717,14
+booknlp,COREF,105,I,169728,169729,14
+pdnc,qID,Q492-0,you,169747,169750,23
+booknlp,COREF,105,I,169752,169753,14
+booknlp,COREF,105,I,169760,169761,14
+pdnc,qID,Q492-0,the man,169809,169816,4
+pdnc,qID,Q492-0,you,169838,169841,23
+pdnc,qID,Q493-0,he,169868,169870,4
+pdnc,qID,Q493-0,sir,169876,169879,14
+pdnc,qID,Q493-0,sir,170032,170035,14
+pdnc,qID,Q493-0,Tonga,170058,170063,20
+pdnc,qID,Q493-0,he,170074,170076,20
+pdnc,qID,Q493-0,he,170113,170115,20
+pdnc,qID,Q493-0,his,170130,170133,20
+pdnc,qID,Q493-0,his,170152,170155,20
+pdnc,qID,Q493-0,he,170170,170172,20
+pdnc,qID,Q493-0,you,170214,170217,14
+pdnc,qID,Q493-0,you,170243,170246,14
+pdnc,qID,Q493-0,you,170314,170317,14
+pdnc,qID,Q493-1,the merchant Achmet,170656,170675,2
+pdnc,qID,Q493-1,him,170789,170792,2
+pdnc,qID,Q493-1,Major Sholto,170815,170827,11
+exp,exp_name,athelney jones,Athelney Jones,170909,170923,3
+booknlp,COREF,109,his,170931,170934,3
+booknlp,COREF,109,he,171011,171013,3
+booknlp,COREF,109,I,171025,171026,3
+booknlp,COREF,109,I,171033,171034,3
+pdnc,qID,Q494-1,Holmes,171068,171074,14
+booknlp,COREF,109,I,171082,171083,3
+booknlp,COREF,109,I,171188,171189,3
+pdnc,qID,Q494-1,Holmes,171195,171201,14
+pdnc,qID,Q494-1,you,171203,171206,14
+pdnc,qID,Q494-1,you,171225,171228,14
+exp,exp_name,holmes,Holmes,171326,171332,14
+booknlp,COREF,105,I,171339,171340,14
+pdnc,qID,Q496-0,Smith,171405,171410,13
+pdnc,qID,Q496-0,he,171477,171479,13
+pdnc,qID,Q496-0,him,171508,171511,13
+pdnc,qID,Q496-0,He,171562,171564,13
+pdnc,qID,Q496-0,he,171572,171574,13
+pdnc,qID,Q497-0,he,171625,171627,13
+pdnc,qID,Q497-1,his,171675,171678,13
+pdnc,qID,Q497-1,him,171732,171735,13
+pdnc,qID,Q497-1,he,171771,171773,13
+pdnc,qID,Q498-0,he,171904,171906,13
+pdnc,qID,Q498-0,we,171925,171927,3
+pdnc,qID,Q498-0,him,171961,171964,13
+pdnc,qID,Q498-0,we,171969,171971,3
+pdnc,qID,Q498-0,we,172010,172012,3
+exp,exp_name,jones,Jones,172098,172103,3
+booknlp,COREF,109,himself,172134,172141,3
+exp,exp_name,sherlock holmes,Sherlock Holmes,172219,172234,14
+booknlp,COREF,105,him,172294,172297,14
+exp,exp_name,jones,Jones,172348,172353,3
+pdnc,qID,Q499-1,you,172371,172374,21
+pdnc,qID,Q499-1,Dr. Watson,172376,172386,21
+booknlp,COREF,109,I,172411,172412,3
+pdnc,qID,Q499-1,you,172430,172433,21
+booknlp,COREF,109,I,172439,172440,3
+booknlp,COREF,109,myself,172484,172490,3
+booknlp,COREF,109,I,172572,172573,3
+exp,exp_name,an inspector,an inspector,172615,172627,29
+pdnc,qID,Q499-1,you,172633,172636,21
+pdnc,qID,Q499-1,you,172644,172647,21
+pdnc,qID,Q499-1,You,172675,172678,21
+pdnc,qID,Q501-0,You,172794,172797,21
+pdnc,qID,Q501-0,my man,172844,172850,23
+exp,exp_name,small,Small,172889,172894,25
+pdnc,qID,Q503-0,your,172929,172933,23
+booknlp,COREF,105,you,173007,173010,14
+pdnc,qID,Q503-0,doctor,173021,173027,21
+booknlp,COREF,109,I,173029,173030,3
+pdnc,qID,Q503-0,you,173045,173048,21
+pdnc,qID,Q503-0,you,173088,173091,21
+pdnc,qID,Q503-0,You,173119,173122,21
+exp,exp_name,"a bluff, genial inspector","a bluff, genial inspector",173233,173258,0
+exp,exp_name,mrs. cecil forrester,Mrs. Cecil Forrester,173319,173339,16
+exp,exp_name,mrs. cecil forrester,Mrs. Cecil Forrester,173394,173414,16
+exp,exp_name,miss morstan,Miss Morstan,173483,173495,12
+pdnc,qID,Q504-1,Mrs. Forrester,174272,174286,16
+pdnc,qID,Q504-1,you,174350,174353,21
+pdnc,qID,Q504-1,you,174370,174373,21
+pdnc,qID,Q505-1,you,174570,174573,12
+pdnc,qID,Q505-1,you,174641,174644,12
+pdnc,qID,Q507-0,yours,174797,174802,12
+pdnc,qID,Q507-0,Thaddeus Sholto,174815,174830,19
+pdnc,qID,Q507-0,You,174834,174837,12
+pdnc,qID,Q508-1,you,175235,175238,21
+pdnc,qID,Q509-1,my friend Sherlock Holmes,175283,175308,14
+pdnc,qID,Q509-1,his,175401,175404,14
+pdnc,qID,Q510-0,Dr. Watson,175521,175531,21
+exp,exp_name,holmes,Holmes,175609,175615,14
+exp,exp_name,athelney jones,Athelney Jones,175689,175703,3
+pdnc,qID,Q512-1,you,176211,176214,12
+pdnc,qID,Q512-1,you,176396,176399,12
+pdnc,qID,Q516-0,Small,176894,176899,23
+pdnc,qID,Q516-1,Mrs. Forrester,176954,176968,16
+exp,exp_name,miss morstan,Miss Morstan,177599,177611,12
+pdnc,qID,Q519-0,you,178052,178055,21
+pdnc,qID,Q520-0,you,178088,178091,12
+pdnc,qID,Q520-1,you,178186,178189,12
+pdnc,qID,Q520-1,Mary,178191,178195,12
+pdnc,qID,Q520-1,you,178322,178325,12
+pdnc,qID,Q520-1,you,178337,178340,12
+exp,exp_name,jonathan small,Jonathan Small,178556,178570,23
+exp,exp_name,that inspector in the cab,that inspector in the cab,178595,178620,0
+pdnc,qID,Q523-0,Mr. Thaddeus Sholto,178920,178939,19
+pdnc,qID,Q523-1,He,178965,178967,19
+pdnc,qID,Q523-1,you,178982,178985,0
+pdnc,qID,Q524-1,Mr. Athelney Jones,179109,179127,3
+exp,exp_name,holmes,Holmes,179300,179306,14
+exp,exp_name,small,Small,179501,179506,25
+pdnc,qID,Q525-0,your,179669,179673,23
+pdnc,qID,Q525-0,Small,179681,179686,23
+exp,exp_name,athelney jones,Athelney Jones,179694,179708,3
+pdnc,qID,Q526-1,Sholto,180352,180358,11
+pdnc,qID,Q526-1,Morstan,180365,180372,5
+pdnc,qID,Q526-1,Achmet,180419,180425,2
+pdnc,qID,Q526-1,Tonga,180487,180492,20
+pdnc,qID,Q527-0,You,180622,180625,23
+pdnc,qID,Q527-0,Small,180644,180649,23
+exp,exp_name,athelney jones,Athelney Jones,180657,180671,3
+pdnc,qID,Q527-1,you,180686,180689,23
+pdnc,qID,Q527-1,you,180769,180772,23
+booknlp,COREF,109,me,180815,180817,3
+booknlp,COREF,109,he,180860,180862,3
+booknlp,COREF,109,me,180943,180945,3
+booknlp,COREF,109,my,181102,181104,3
+booknlp,COREF,109,I,181129,181130,3
+booknlp,COREF,109,I,181213,181214,3
+booknlp,COREF,109,my,181229,181231,3
+booknlp,COREF,109,I,181242,181243,3
+booknlp,COREF,109,I,181262,181263,3
+pdnc,qID,Q529-0,Small,181339,181344,23
+pdnc,qID,Q529-1,you,181371,181374,23
+pdnc,qID,Q529-1,you,181432,181435,23
+pdnc,qID,Q529-1,your,181470,181474,23
+booknlp,COREF,685,I,181603,181604,25
+booknlp,COREF,685,I,181667,181668,25
+booknlp,COREF,685,I,181961,181962,25
+pdnc,qID,Q530-1,you,181993,181996,3
+booknlp,COREF,685,me,182005,182007,25
+booknlp,COREF,685,I,182027,182028,25
+booknlp,COREF,685,I,182054,182055,25
+booknlp,COREF,685,I,182109,182110,25
+pdnc,qID,Q530-1,Tonga,182163,182168,20
+booknlp,COREF,685,my,182180,182182,25
+booknlp,COREF,685,mine,182302,182306,25
+exp,exp_name,small,Small,182309,182314,25
+booknlp,COREF,685,his,182327,182330,25
+booknlp,COREF,685,his,182403,182406,25
+booknlp,COREF,685,his,182488,182491,25
+exp,exp_name,major sholto,Major Sholto,182631,182643,11
+pdnc,qID,Q531-0,You,182713,182716,23
+booknlp,COREF,105,we,182729,182731,14
+exp,exp_name,holmes,Holmes,182764,182770,14
+booknlp,COREF,105,We,182781,182783,14
+pdnc,qID,Q531-1,your,182799,182803,23
+booknlp,COREF,105,we,182815,182817,14
+pdnc,qID,Q531-1,your,182874,182878,23
+pdnc,qID,Q532-0,sir,182894,182897,14
+pdnc,qID,Q532-0,you,182899,182902,14
+pdnc,qID,Q532-0,you,182966,182969,14
+pdnc,qID,Q532-0,you,183092,183095,14
+pdnc,qID,Q532-0,you,183164,183167,14
+pdnc,qID,Q532-0,you,183208,183211,14
+pdnc,qID,Q532-0,you,183213,183216,14
+booknlp,COREF,105,I,183293,183294,14
+booknlp,COREF,105,myself,183319,183325,14
+booknlp,COREF,105,I,183347,183348,14
+booknlp,COREF,105,I,183428,183429,14
+booknlp,COREF,105,I,183501,183502,14
+booknlp,COREF,105,I,183549,183550,14
+booknlp,COREF,105,me,183594,183596,14
+exp,exp_name,small,small,183639,183644,25
+booknlp,COREF,105,I,183708,183709,14
+booknlp,COREF,105,I,183762,183763,14
+booknlp,COREF,105,I,183784,183785,14
+booknlp,COREF,105,I,183817,183818,14
+booknlp,COREF,105,I,184782,184783,14
+booknlp,COREF,105,my,184824,184826,14
+booknlp,COREF,105,I,184850,184851,14
+booknlp,COREF,105,my,184892,184894,14
+booknlp,COREF,105,my,184920,184922,14
+booknlp,COREF,105,me,185196,185198,14
+booknlp,COREF,105,me,185271,185273,14
+booknlp,COREF,105,my,185349,185351,14
+booknlp,COREF,105,I,185383,185384,14
+booknlp,COREF,105,I,185444,185445,14
+booknlp,COREF,105,I,185575,185576,14
+booknlp,COREF,105,I,185618,185619,14
+booknlp,COREF,105,my,185658,185660,14
+booknlp,COREF,105,my,185746,185748,14
+booknlp,COREF,105,me,185785,185787,14
+exp,exp_name,small,small,186510,186515,25
+booknlp,COREF,105,I,188903,188904,14
+booknlp,COREF,105,I,189706,189707,14
+booknlp,COREF,105,I,189843,189844,14
+booknlp,COREF,105,I,189857,189858,14
+booknlp,COREF,105,I,189933,189934,14
+exp,exp_name,small,small,191209,191214,25
+booknlp,COREF,105,I,191698,191699,14
+exp,exp_name,small,small,191732,191737,25
+booknlp,COREF,105,me,191752,191754,14
+booknlp,COREF,105,I,191762,191763,14
+booknlp,COREF,105,I,191829,191830,14
+booknlp,COREF,105,my,191851,191853,14
+pdnc,qID,Q541-0,Mahomet Singh,191904,191917,10
+pdnc,qID,Q541-0,Abdullah Khan,191922,191935,1
+booknlp,COREF,105,I,192057,192058,14
+booknlp,COREF,105,myself,192174,192180,14
+booknlp,COREF,105,I,192182,192183,14
+exp,exp_name,small,small,192672,192677,25
+booknlp,COREF,105,My,193297,193299,14
+booknlp,COREF,105,I,193576,193577,14
+booknlp,COREF,105,myself,193608,193614,14
+booknlp,COREF,105,I,193620,193621,14
+booknlp,COREF,105,my,193631,193633,14
+booknlp,COREF,105,I,193649,193650,14
+booknlp,COREF,105,I,193675,193676,14
+booknlp,COREF,105,my,193708,193710,14
+booknlp,COREF,105,I,193719,193720,14
+booknlp,COREF,105,my,193728,193730,14
+booknlp,COREF,105,my,193786,193788,14
+booknlp,COREF,105,me,193850,193852,14
+booknlp,COREF,105,my,193868,193870,14
+booknlp,COREF,105,I,193894,193895,14
+booknlp,COREF,105,myself,193903,193909,14
+booknlp,COREF,105,I,194078,194079,14
+booknlp,COREF,105,I,194093,194094,14
+booknlp,COREF,105,my,194102,194104,14
+booknlp,COREF,105,I,194111,194112,14
+booknlp,COREF,105,I,194129,194130,14
+booknlp,COREF,105,I,194173,194174,14
+booknlp,COREF,105,me,194247,194249,14
+exp,exp_name,sahib,Sahib,194268,194273,34
+pdnc,qID,Q545-0,Abdullah Khan,194342,194355,1
+booknlp,COREF,122,You,194358,194361,34
+booknlp,COREF,122,you,194392,194395,34
+booknlp,COREF,122,you,194478,194481,34
+booknlp,COREF,122,your,194512,194516,34
+booknlp,COREF,122,your,194557,194561,34
+booknlp,COREF,122,you,194742,194745,34
+booknlp,COREF,105,I,194859,194860,14
+booknlp,COREF,122,You,194879,194882,34
+booknlp,COREF,105,me,194897,194899,14
+booknlp,COREF,122,you,194905,194908,34
+booknlp,COREF,105,me,194917,194919,14
+booknlp,COREF,105,I,194925,194926,14
+booknlp,COREF,122,you,194932,194935,34
+booknlp,COREF,105,I,194994,194995,14
+booknlp,COREF,122,you,195027,195030,34
+booknlp,COREF,122,your,195046,195050,34
+pdnc,qID,Q547-0,he,195112,195114,1
+booknlp,COREF,122,you,195129,195132,34
+booknlp,COREF,122,your,195150,195154,34
+booknlp,COREF,122,you,195196,195199,34
+booknlp,COREF,122,you,195215,195218,34
+booknlp,COREF,122,you,195266,195269,34
+booknlp,COREF,122,you,195362,195365,34
+booknlp,COREF,122,your,195377,195381,34
+booknlp,COREF,122,yours,195441,195446,34
+booknlp,COREF,105,I,195507,195508,14
+booknlp,COREF,105,I,195517,195518,14
+booknlp,COREF,122,you,195545,195548,34
+booknlp,COREF,122,you,195560,195563,34
+booknlp,COREF,105,me,195578,195580,14
+booknlp,COREF,105,You,195605,195608,14
+pdnc,qID,Q549-0,he,195633,195635,1
+booknlp,COREF,122,your,195654,195658,34
+booknlp,COREF,122,your,195684,195688,34
+booknlp,COREF,122,your,195713,195717,34
+booknlp,COREF,105,I,195802,195803,14
+booknlp,COREF,105,I,195820,195821,14
+booknlp,COREF,122,you,195917,195920,34
+booknlp,COREF,105,I.,196042,196044,14
+exp,exp_name,dost akbar,Dost Akbar,196052,196062,6
+booknlp,COREF,121,his,196073,196076,6
+booknlp,COREF,122,you,196108,196111,34
+booknlp,COREF,122,you,196136,196139,34
+exp,exp_name,mahomet singh,Mahomet Singh,196159,196172,10
+exp,exp_name,sahib,Sahib,196230,196235,34
+booknlp,COREF,122,you,196254,196257,34
+booknlp,COREF,122,you,196337,196340,34
+booknlp,COREF,122,you,196346,196349,34
+booknlp,COREF,122,you,196378,196381,34
+booknlp,COREF,122,your,196432,196436,34
+booknlp,COREF,122,your,196479,196483,34
+exp,exp_name,small,small,196699,196704,25
+exp,exp_name,sahib,Sahib,197820,197825,34
+exp,exp_name,achmet,Achmet,197957,197963,2
+exp,exp_name,dost akbar,Dost Akbar,198094,198104,6
+exp,exp_name,dost akbar,Dost Akbar,198128,198138,6
+exp,exp_name,mahomet singh,Mahomet Singh,198298,198311,10
+exp,exp_name,achmet,Achmet,198430,198436,2
+exp,exp_name,sahib,Sahib,198529,198534,34
+pdnc,qID,Q552-0,Achmet the merchant,198740,198759,2
+booknlp,COREF,105,me,198805,198807,14
+booknlp,COREF,105,my,198844,198846,14
+booknlp,COREF,105,I,198871,198872,14
+booknlp,COREF,105,I,198889,198890,14
+booknlp,COREF,105,my,198936,198938,14
+booknlp,COREF,176,his,199007,199010,2
+booknlp,COREF,105,I,199042,199043,14
+booknlp,COREF,105,my,199076,199078,14
+pdnc,qID,Q552-0,Abdullah Khan,199085,199098,1
+booknlp,COREF,105,I,199123,199124,14
+exp,exp_name,sahib,Sahib,199182,199187,34
+pdnc,qID,Q553-0,he,199195,199197,1
+exp,exp_name,sahib,Sahib,199699,199704,34
+booknlp,COREF,122,you,199714,199717,34
+booknlp,COREF,122,you,199755,199758,34
+booknlp,COREF,105,I,199776,199777,14
+booknlp,COREF,122,you,199786,199789,34
+booknlp,COREF,105,I.,199812,199814,14
+pdnc,qID,Q555-0,he,199831,199833,1
+booknlp,COREF,122,You,199874,199877,34
+booknlp,COREF,122,you,199896,199899,34
+booknlp,COREF,122,your,199905,199909,34
+booknlp,COREF,122,your,200015,200019,34
+booknlp,COREF,122,you,200048,200051,34
+booknlp,COREF,105,I,200062,200063,14
+exp,exp_name,mahomet singh,Mahomet Singh,200158,200171,10
+booknlp,COREF,105,me,200492,200494,14
+pdnc,qID,Q557-0,the man,200559,200566,2
+booknlp,COREF,105,I,200792,200793,14
+booknlp,COREF,122,You,200808,200811,34
+exp,exp_name,sahib,Sahib,200832,200837,34
+pdnc,qID,Q560-0,Abdullah,200860,200868,1
+booknlp,COREF,122,you,200951,200954,34
+booknlp,COREF,105,I,201131,201132,14
+booknlp,COREF,105,I,201193,201194,14
+booknlp,COREF,105,I,201303,201304,14
+booknlp,COREF,105,I,201400,201401,14
+booknlp,COREF,105,my,201412,201414,14
+pdnc,qID,Q563-0,an enormous Sikh,201475,201491,6
+booknlp,COREF,105,I,201573,201574,14
+pdnc,qID,Q563-0,The other,201606,201615,2
+pdnc,qID,Q563-0,his,201693,201696,2
+pdnc,qID,Q563-0,He,201723,201725,2
+pdnc,qID,Q563-0,his,201770,201773,2
+pdnc,qID,Q563-0,he,201795,201797,2
+pdnc,qID,Q563-0,his,201816,201819,2
+pdnc,qID,Q563-0,he,201913,201915,2
+booknlp,COREF,105,me,201952,201954,14
+pdnc,qID,Q563-0,him,201986,201989,2
+booknlp,COREF,105,I,201995,201996,14
+booknlp,COREF,105,my,202026,202028,14
+booknlp,COREF,105,me,202065,202067,14
+pdnc,qID,Q563-0,he,202074,202076,2
+booknlp,COREF,105,my,202081,202083,14
+booknlp,COREF,105,me,202155,202157,14
+booknlp,COREF,105,Your,202162,202166,14
+exp,exp_name,sahib,Sahib,202179,202184,34
+pdnc,qID,Q564-0,he,202187,202189,2
+booknlp,COREF,105,your,202199,202203,14
+exp,exp_name,achmet,Achmet,202240,202246,2
+booknlp,COREF,105,I,202541,202542,14
+pdnc,qID,Q566-0,he,202567,202569,2
+exp,exp_name,sahib,Sahib,202752,202757,34
+booknlp,COREF,105,I,202824,202825,14
+booknlp,COREF,105,myself,202842,202848,14
+pdnc,qID,Q567-0,the man,202870,202877,2
+booknlp,COREF,105,I,202888,202889,14
+pdnc,qID,Q567-0,his,202900,202903,2
+pdnc,qID,Q567-0,him,202969,202972,2
+pdnc,qID,Q568-0,him,203086,203089,2
+pdnc,qID,Q568-0,the giant,203108,203117,6
+pdnc,qID,Q568-0,a man,203191,203196,2
+pdnc,qID,Q569-0,the fat man,203638,203649,2
+pdnc,qID,Q569-0,his,203703,203706,2
+pdnc,qID,Q569-0,his,203726,203729,2
+pdnc,qID,Q569-0,the great black-bearded Sikh,203760,203788,6
+pdnc,qID,Q569-0,his,203815,203818,6
+pdnc,qID,Q569-0,that little merchant,203864,203884,2
+pdnc,qID,Q569-0,He,203886,203888,2
+pdnc,qID,Q569-0,Sikh,203908,203912,6
+pdnc,qID,Q569-0,he,203938,203940,2
+pdnc,qID,Q569-0,he,203980,203982,2
+pdnc,qID,Q569-0,him,204028,204031,2
+pdnc,qID,Q569-0,his,204058,204061,2
+pdnc,qID,Q569-0,his,204125,204128,2
+pdnc,qID,Q569-0,he,204137,204139,2
+pdnc,qID,Q569-0,he,204156,204158,2
+pdnc,qID,Q569-0,he,204201,204203,2
+pdnc,qID,Q569-0,his,204221,204224,2
+pdnc,qID,Q569-0,the Sikh,204230,204238,6
+pdnc,qID,Q569-0,him,204248,204251,2
+pdnc,qID,Q569-0,his,204264,204267,6
+pdnc,qID,Q569-0,his,204283,204286,2
+pdnc,qID,Q569-0,The man,204293,204300,2
+pdnc,qID,Q569-0,he,204351,204353,2
+pdnc,qID,Q569-0,he,204386,204388,2
+pdnc,qID,Q569-0,his,204405,204408,2
+exp,exp_name,holmes,Holmes,204665,204671,14
+exp,exp_name,sherlock holmes,Sherlock Holmes,205014,205029,14
+exp,exp_name,jones,Jones,205034,205039,3
+pdnc,qID,Q570-1,his,205496,205499,2
+pdnc,qID,Q570-1,he,205510,205512,2
+pdnc,qID,Q570-1,he,205533,205535,2
+pdnc,qID,Q571-0,your,205724,205728,23
+exp,exp_name,holmes,Holmes,205742,205748,14
+pdnc,qID,Q572-0,him,205778,205781,2
+pdnc,qID,Q572-0,Abdullah,205786,205794,1
+pdnc,qID,Q572-0,Akbar,205796,205801,6
+pdnc,qID,Q572-0,he,205824,205826,2
+pdnc,qID,Q572-0,he,205850,205852,2
+pdnc,qID,Q572-0,Mahomet Singh,205867,205880,10
+pdnc,qID,Q572-0,him,205917,205920,2
+pdnc,qID,Q572-0,Achmet the merchant,206181,206200,2
+pdnc,qID,Q572-0,him,206229,206232,2
+pdnc,qID,Q573-0,he,206317,206319,2
+pdnc,qID,Q573-0,he,206340,206342,2
+exp,exp_name,small,small,207059,207064,25
+pdnc,qID,Q574-0,Mahomet Singh,207650,207663,10
+exp,exp_name,sahib,Sahib,208781,208786,34
+booknlp,COREF,122,himself,208792,208799,34
+pdnc,qID,Q575-0,Achmet,209178,209184,2
+pdnc,qID,Q576-0,Achmet,209263,209269,2
+pdnc,qID,Q576-0,he,209301,209303,2
+pdnc,qID,Q576-0,him,209447,209450,2
+pdnc,qID,Q576-0,Achmet,209524,209530,2
+pdnc,qID,Q576-0,his,209538,209541,2
+pdnc,qID,Q576-0,him,209565,209568,2
+pdnc,qID,Q576-0,him,209600,209603,2
+pdnc,qID,Q576-0,him,209623,209626,2
+pdnc,qID,Q576-0,he,209674,209676,2
+pdnc,qID,Q576-0,Achmet,209784,209790,2
+pdnc,qID,Q576-0,he,210183,210185,10
+pdnc,qID,Q576-0,the murdered man,210227,210243,2
+exp,exp_name,jack,jack,211027,211031,7
+exp,exp_name,small,small,211585,211590,25
+exp,exp_name,small,small,212573,212578,25
+pdnc,qID,Q579-0,Major Sholto,212849,212861,11
+pdnc,qID,Q579-0,Captain Morstan,212863,212878,5
+pdnc,qID,Q580-0,Major Sholto,213643,213655,11
+pdnc,qID,Q580-0,He,213677,213679,11
+pdnc,qID,Q580-0,He,213772,213774,11
+pdnc,qID,Q580-0,him,213825,213828,11
+pdnc,qID,Q580-0,him,213875,213878,11
+pdnc,qID,Q580-0,he,213904,213906,11
+pdnc,qID,Q580-0,he,213951,213953,11
+pdnc,qID,Q580-0,him,214001,214004,11
+pdnc,qID,Q581-0,he,214018,214020,11
+pdnc,qID,Q581-0,he,214085,214087,11
+pdnc,qID,Q581-0,Captain Morstan,214092,214107,5
+pdnc,qID,Q581-0,The major,214216,214225,11
+pdnc,qID,Q581-0,his,214243,214246,11
+exp,exp_name,morstan,Morstan,214271,214278,5
+pdnc,qID,Q582-0,he,214281,214283,11
+pdnc,qID,Q583-0,the other,214404,214413,5
+pdnc,qID,Q585-0,Major Sholto,214575,214587,11
+pdnc,qID,Q585-0,him,214652,214655,11
+exp,exp_name,small,Small,214713,214718,25
+pdnc,qID,Q587-0,he,214733,214735,11
+pdnc,qID,Q587-0,his,214750,214753,11
+pdnc,qID,Q587-0,his,214767,214770,11
+exp,exp_name,small,Small,215143,215148,25
+pdnc,qID,Q589-0,he,215151,215153,11
+exp,exp_name,small,Small,215432,215437,25
+pdnc,qID,Q590-0,he,215440,215442,11
+exp,exp_name,small,Small,215752,215757,25
+pdnc,qID,Q592-0,him,215788,215791,11
+exp,exp_name,small,small,215814,215819,25
+pdnc,qID,Q592-0,he,215836,215838,11
+pdnc,qID,Q592-0,he,215890,215892,11
+pdnc,qID,Q592-0,his,215961,215964,11
+pdnc,qID,Q592-0,him,216011,216014,11
+exp,exp_name,small,Small,216052,216057,25
+pdnc,qID,Q593-0,he,216060,216062,11
+pdnc,qID,Q594-0,he,216176,216178,11
+pdnc,qID,Q594-0,his friend Captain Morstan,216183,216209,5
+exp,exp_name,captain morstan,Captain Morstan,216292,216307,5
+exp,exp_name,small,Small,216344,216349,25
+pdnc,qID,Q595-0,he,216357,216359,11
+pdnc,qID,Q597-0,he,216430,216432,11
+pdnc,qID,Q598-0,Captain Morstan,216468,216483,5
+exp,exp_name,small,Small,216506,216511,25
+pdnc,qID,Q599-0,the major,216519,216528,11
+pdnc,qID,Q600-0,He,216944,216946,11
+pdnc,qID,Q600-0,his,216991,216994,11
+pdnc,qID,Q602-0,he,217398,217400,11
+pdnc,qID,Q605-0,he,218089,218091,11
+exp,exp_name,morstan,Morstan,218200,218207,5
+pdnc,qID,Q607-0,he,218215,218217,11
+exp,exp_name,small,Small,218220,218225,25
+pdnc,qID,Q608-0,the other,218348,218357,5
+exp,exp_name,small,Small,218445,218450,25
+pdnc,qID,Q609-0,the major,218458,218467,11
+booknlp,COREF,2006,you,218503,218506,25
+booknlp,COREF,2006,your,218552,218556,25
+pdnc,qID,Q610-0,he,218747,218749,11
+booknlp,COREF,2006,you,218813,218816,25
+pdnc,qID,Q611-0,he,218865,218867,11
+pdnc,qID,Q613-0,Mahomet Singh,219065,219078,10
+pdnc,qID,Q613-0,Abdullah Khan,219080,219093,1
+pdnc,qID,Q613-0,Dost Akbar,219099,219109,6
+pdnc,qID,Q613-0,Major Sholto,219337,219349,11
+pdnc,qID,Q613-0,he,219391,219393,11
+pdnc,qID,Q613-0,he,219408,219410,11
+exp,exp_name,small,small,219448,219453,25
+pdnc,qID,Q613-0,his,219586,219589,11
+pdnc,qID,Q613-0,Captain Morstan,219598,219613,5
+pdnc,qID,Q613-0,he,219734,219736,5
+pdnc,qID,Q613-0,major,219748,219753,11
+pdnc,qID,Q613-0,his,219773,219776,5
+pdnc,qID,Q613-0,Abdullah,220003,220011,1
+pdnc,qID,Q613-0,Akbar,220013,220018,6
+pdnc,qID,Q613-0,Mahomet,220020,220027,10
+pdnc,qID,Q614-0,Mr. Jones,220118,220127,3
+pdnc,qID,Q614-0,Sholto,220220,220226,11
+pdnc,qID,Q614-0,he,220250,220252,11
+pdnc,qID,Q614-0,Captain Morstan,220276,220291,5
+pdnc,qID,Q614-0,his,220302,220305,11
+pdnc,qID,Q614-0,His,220388,220391,11
+pdnc,qID,Q614-0,he,220435,220437,11
+pdnc,qID,Q614-0,he,220461,220463,11
+pdnc,qID,Q614-0,he,220497,220499,11
+pdnc,qID,Q614-0,Morstan,220516,220523,5
+pdnc,qID,Q614-0,him,220721,220724,11
+pdnc,qID,Q614-0,Sholto,220961,220967,11
+pdnc,qID,Q614-0,his,220990,220993,11
+pdnc,qID,Q614-0,Sholto,221112,221118,11
+pdnc,qID,Q615-0,a little Andaman Islander ,221369,221395,20
+pdnc,qID,Q615-0,He,221441,221443,20
+pdnc,qID,Q615-0,him,221509,221512,20
+pdnc,qID,Q615-0,he,221529,221531,20
+pdnc,qID,Q615-0,him,221601,221604,20
+pdnc,qID,Q615-0,He,221633,221635,20
+pdnc,qID,Q615-0,his,221697,221700,20
+pdnc,qID,Q615-0,his,221767,221770,20
+pdnc,qID,Q615-0,him,221782,221785,20
+pdnc,qID,Q615-0,him,221801,221804,20
+pdnc,qID,Q616-0,Tonga,221829,221834,20
+pdnc,qID,Q616-0,his,221848,221851,20
+pdnc,qID,Q616-0,his,221909,221912,20
+pdnc,qID,Q616-0,he,221936,221938,20
+pdnc,qID,Q616-0,him,222041,222044,20
+pdnc,qID,Q616-0,He,222046,222048,20
+booknlp,COREF,2032,his,222062,222065,20
+pdnc,qID,Q616-0,he,222147,222149,20
+pdnc,qID,Q616-0,him,222176,222179,20
+pdnc,qID,Q617-0,He,222276,222278,20
+pdnc,qID,Q617-0,little Tonga,222304,222316,20
+pdnc,qID,Q617-0,he,222375,222377,20
+pdnc,qID,Q617-0,his,222382,222385,20
+booknlp,COREF,2032,him,222634,222637,20
+booknlp,COREF,2032,He,222699,222701,20
+booknlp,COREF,2032,his,222725,222728,20
+booknlp,COREF,2032,his,222745,222748,20
+booknlp,COREF,2032,his,222760,222763,20
+booknlp,COREF,2032,his,222813,222816,20
+booknlp,COREF,2032,him,223031,223034,20
+booknlp,COREF,2032,He,223036,223038,20
+booknlp,COREF,2032,his,223043,223046,20
+booknlp,COREF,2032,his,223058,223061,20
+booknlp,COREF,2032,him,223085,223088,20
+booknlp,COREF,2032,his,223126,223129,20
+booknlp,COREF,2032,him,223190,223193,20
+booknlp,COREF,2032,him,223282,223285,20
+pdnc,qID,Q617-0,Tonga,223373,223378,20
+pdnc,qID,Q617-0,his,223395,223398,20
+pdnc,qID,Q617-0,him,223424,223427,20
+pdnc,qID,Q617-0,his,223429,223432,20
+pdnc,qID,Q617-0,his,223442,223445,20
+pdnc,qID,Q617-0,he,223472,223474,20
+pdnc,qID,Q617-0,Tonga,223774,223779,20
+pdnc,qID,Q618-0,my little chum,223955,223969,20
+pdnc,qID,Q618-0,Sholto,224236,224242,11
+pdnc,qID,Q618-0,Sholto,224422,224428,11
+pdnc,qID,Q618-0,he,224474,224476,11
+pdnc,qID,Q618-0,he,224510,224512,11
+pdnc,qID,Q618-0,he,224661,224663,11
+pdnc,qID,Q618-0,he,224731,224733,11
+pdnc,qID,Q618-0,his khitmutgar,224806,224820,8
+pdnc,qID,Q619-0,he,224877,224879,11
+pdnc,qID,Q619-0,he,224933,224935,11
+pdnc,qID,Q619-0,him,225017,225020,11
+pdnc,qID,Q619-0,his,225030,225033,11
+pdnc,qID,Q619-0,him,225069,225072,11
+pdnc,qID,Q619-0,him,225165,225168,11
+pdnc,qID,Q619-0,his,225169,225172,11
+pdnc,qID,Q619-0,he,225202,225204,11
+pdnc,qID,Q619-0,his,225226,225229,11
+pdnc,qID,Q619-0,his,225275,225278,11
+pdnc,qID,Q619-0,he,225326,225328,11
+pdnc,qID,Q619-0,his,225677,225680,11
+pdnc,qID,Q619-0,he,225709,225711,11
+pdnc,qID,Q619-0,he,225778,225780,11
+pdnc,qID,Q620-0,poor Tonga,225858,225868,20
+pdnc,qID,Q620-0,He,225923,225925,20
+pdnc,qID,Q620-0,his,225955,225958,20
+pdnc,qID,Q620-0,Mr. Bartholomew Sholto,226294,226316,4
+pdnc,qID,Q620-0,Mr. Sholto,226524,226534,4
+pdnc,qID,Q620-0,Tonga,226611,226616,20
+pdnc,qID,Q620-0,him,226628,226631,20
+pdnc,qID,Q620-0,his,226673,226676,20
+pdnc,qID,Q620-0,He,226684,226686,20
+pdnc,qID,Q620-0,he,226715,226717,20
+pdnc,qID,Q620-0,his,226728,226731,20
+pdnc,qID,Q620-0,Bartholomew Sholto,226786,226804,4
+pdnc,qID,Q620-0,his,226831,226834,4
+pdnc,qID,Q620-0,Tonga,226841,226846,20
+pdnc,qID,Q620-0,he,226855,226857,20
+pdnc,qID,Q620-0,him,226900,226903,20
+pdnc,qID,Q620-0,him,226944,226947,20
+pdnc,qID,Q620-0,he,227011,227013,20
+pdnc,qID,Q620-0,him,227029,227032,20
+pdnc,qID,Q620-0,him,227064,227067,20
+pdnc,qID,Q620-0,Tonga,227306,227311,20
+pdnc,qID,Q620-0,he,227382,227384,20
+booknlp,COREF,109,I,227398,227399,3
+booknlp,COREF,109,I,227416,227417,3
+booknlp,COREF,109,I,227450,227451,3
+pdnc,qID,Q621-0,Smith,227495,227500,13
+booknlp,COREF,109,I,227527,227528,3
+booknlp,COREF,109,I,227580,227581,3
+pdnc,qID,Q621-0,old Smith,227595,227604,13
+pdnc,qID,Q621-0,him,227622,227625,13
+pdnc,qID,Q621-0,he,227639,227641,13
+pdnc,qID,Q621-0,He,227667,227669,13
+pdnc,qID,Q621-0,he,227723,227725,13
+booknlp,COREF,109,I,227780,227781,3
+booknlp,COREF,109,me,227855,227857,3
+booknlp,COREF,109,I,227894,227895,3
+booknlp,COREF,109,I,227921,227922,3
+booknlp,COREF,109,I,227999,228000,3
+booknlp,COREF,109,myself,228006,228012,3
+pdnc,qID,Q621-0,Major Sholto,228028,228040,11
+booknlp,COREF,109,I,228059,228060,3
+pdnc,qID,Q621-0,his son,228080,228087,4
+exp,exp_name,sherlock holmes,Sherlock Holmes,228125,228140,14
+booknlp,COREF,105,me,228226,228228,14
+pdnc,qID,Q622-1,your,228251,228255,23
+pdnc,qID,Q622-1,you,228279,228282,23
+pdnc,qID,Q622-1,your,228291,228295,23
+booknlp,COREF,105,I,228311,228312,14
+booknlp,COREF,105,I,228339,228340,14
+pdnc,qID,Q622-1,Tonga,228356,228361,20
+pdnc,qID,Q622-1,his,228375,228378,20
+pdnc,qID,Q622-1,he,228390,228392,20
+pdnc,qID,Q623-0,He,228436,228438,20
+pdnc,qID,Q623-0,his,228491,228494,20
+exp,exp_name,holmes,Holmes,228542,228548,14
+booknlp,COREF,105,I,228551,228552,14
+pdnc,qID,Q625-0,you,228612,228615,14
+pdnc,qID,Q626-0,you,228691,228694,23
+pdnc,qID,Q627-0,Holmes,228728,228734,14
+exp,exp_name,athelney jones,Athelney Jones,228742,228756,3
+pdnc,qID,Q627-1,You,228759,228762,14
+pdnc,qID,Q627-1,you,228810,228813,14
+booknlp,COREF,109,I,228864,228865,3
+pdnc,qID,Q627-1,you,228901,228904,14
+pdnc,qID,Q627-1,your friend,228909,228920,21
+booknlp,COREF,109,me,228927,228929,3
+booknlp,COREF,109,I,228931,228932,3
+pdnc,qID,Q627-1,we,228962,228964,3
+pdnc,qID,Q627-1,our story-teller,228970,228986,23
+booknlp,COREF,109,I,229079,229080,3
+pdnc,qID,Q627-1,you,229100,229103,14
+pdnc,qID,Q627-1,your,229113,229117,14
+pdnc,qID,Q627-1,you,229140,229143,14
+pdnc,qID,Q627-1,you,229187,229190,14
+exp,exp_name,jonathan small,Jonathan Small,229229,229243,23
+pdnc,qID,Q629-0,You,229247,229250,23
+pdnc,qID,Q629-0,Small,229258,229263,23
+exp,exp_name,jones,Jones,229284,229289,3
+booknlp,COREF,109,I,229314,229315,3
+pdnc,qID,Q629-1,you,229345,229348,23
+booknlp,COREF,109,me,229360,229362,3
+pdnc,qID,Q629-1,your,229368,229372,23
+pdnc,qID,Q629-1,you,229394,229397,23
+pdnc,qID,Q630-1,your,229653,229657,14
+pdnc,qID,Q630-1,Miss Morstan,229667,229679,12
+booknlp,COREF,109,He,229747,229749,3
+booknlp,COREF,109,I,229777,229778,3
+booknlp,COREF,109,he,229801,229803,3
+booknlp,COREF,109,I,229806,229807,3
+pdnc,qID,Q631-1,you,229835,229838,21
+pdnc,qID,Q632-0,you,229869,229872,14
+pdnc,qID,Q633-0,she,229951,229954,12
+pdnc,qID,Q633-0,She,230076,230079,12
+pdnc,qID,Q633-0,she,230136,230139,12
+pdnc,qID,Q633-0,her father,230194,230204,5
+pdnc,qID,Q634-1,you,230463,230466,14
+pdnc,qID,Q636-1,your,230653,230657,14
+pdnc,qID,Q637-2,you,231018,231021,21
+pdnc,qID,Q637-2,Lal Rao,231113,231120,9
+pdnc,qID,Q637-2,the butler,231122,231132,9
+pdnc,qID,Q637-2,Jones,231137,231142,3
+pdnc,qID,Q637-2,his,231206,231209,3
+pdnc,qID,Q638-1,You,231273,231276,14
+pdnc,qID,Q638-1,Jones,231342,231347,3
+pdnc,qID,Q638-1,you,231387,231390,14
+booknlp,COREF,105,me,231399,231401,14
+exp,exp_name,sherlock holmes,Sherlock Holmes,231409,231424,14
+booknlp,COREF,105,he,231472,231474,14
+booknlp,COREF,105,his,231485,231488,14
