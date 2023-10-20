@@ -9,7 +9,8 @@ import numpy as np
 from collections import Counter, defaultdict
 import pickle as pkl
 
-WRITE_FOLDER = '/h/vkpriya/bookNLP/booknlp-en/coref/outputs/spacy_500'
+DATA_SOURCE = 'data/pdnc_source'
+WRITE_FOLDER = 'coref/outputs/spacy'
 os.makedirs(WRITE_FOLDER, exist_ok=True)
 
 
@@ -66,12 +67,12 @@ if __name__ == '__main__':
 
     print(nlp.pipe_names)
 
-    metadf = pd.read_csv('/h/vkpriya/data/pdnc/ListOfNovels.txt')
+    metadf = pd.read_csv(os.path.join(DATA_SOURCE, 'ListOfNovels.txt'))
     novels = sorted(metadf['folder'].tolist())
 
     texts = []
     for novel in novels:
-        with open(os.path.join('/h/vkpriya/quoteAttr/data/', novel, 'novel.txt'), 'r') as f:
+        with open(os.path.join(DATA_SOURCE, novel, 'novel.txt'), 'r') as f:
             text = f.read().strip()
         texts.append(text)
 
@@ -80,8 +81,8 @@ if __name__ == '__main__':
         print(novel)
         novel2chaps[novel] = {}
         span_ind = 0
-        chap_df = pd.read_csv(os.path.join('/h/vkpriya/quoteAttr/data', novel, 'chap_info.csv'))
-        para_df = pd.read_csv(os.path.join('/h/vkpriya/quoteAttr/data', novel, 'para_info.csv'))
+        chap_df = pd.read_csv(os.path.join(DATA_SOURCE, novel, 'chap_info.csv'))
+        para_df = pd.read_csv(os.path.join(DATA_SOURCE, novel, 'para_info.csv'))
         for cid, cstart, cend in zip(chap_df['chapID'], chap_df['textStartByte'], chap_df['textEndByte']):
             # chapt = text[cstart: cend]
             chap_paras = para_df[(para_df['startByte']>=cstart)&(para_df['endByte']<=cend)]

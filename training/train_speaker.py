@@ -59,60 +59,6 @@ def read_speaker_data(filename):
 
 		return x, m, o
 
-def predict_b(model, test_x_batches, test_m_batches, test_y_batches, test_o_batches, test_i_batches):
-	model.eval()
-	gold_eids = []
-	pred_eids = []
-	meta_info = []
-	pred_confs = []
-
-	with torch.no_grad():
-		idd = 0
-		for x1, m1, y1, o1, i1 in zip(test_x_batches, test_m_batches, test_y_batches, test_o_batches, test_i_batches):
-			y_pred = model.forward(x1, m1)
-			#SUM PREDS FOR EACH CANDIDTE?????????????
-
-			predictions=y_pred.detach().cpu().numpy()
-			orig, meta = o1
-			for idx, preds in enumerate(predictions):
-				# prediction = pred[0]
-				ent2probs = {}
-				ents = y1['eid'][idx]
-				for e, p in zip(ents, preds):
-					if e is None:
-						continue
-					if e not in ent2probs:
-						ent2probs[e] = 0
-					ent2probs[e] += p[0]
-					
-				if len(ent2probs) == 0:
-					predval="none-%s"%(idd)
-					predconf = 0.
-				else:
-					ent_probs = [(x,y) for x,y in ent2probs.items()]
-					ent_probs = sorted(ent_probs, key=lambda x: x[1], reverse=True)
-					predval = ent_probs[0][0]
-					predconf = ent_probs[0][1]
-#                 sent=orig[idx]
-				# pred_conf = y_pred[idx][prediction].detach().cpu().numpy()
-				
-				# if prediction >= len(meta[idx][1]):
-				# 	prediction=torch.argmax(y_pred[idx][:len(meta[idx][1])])
-				# 	pred_conf = y_pred[idx][prediction].detach().cpu().numpy()
-
-				gold_eids.append(y1["quote_eids"][idx])
-
-				# predval=y1["eid"][idx][prediction]
-				# if predval is None:
-				# 	predval="none-%s" % (idd)
-				pred_eids.append(predval)
-				pred_confs.append(predconf)
-
-				meta_info.append(i1[idx])
-				idd += 1
-				
-	return gold_eids, pred_eids, pred_confs, meta_info
-
 def predict(model, test_x_batches, test_m_batches, test_y_batches, test_o_batches, test_i_batches):
 	model.eval()
 	gold_eids = []
@@ -163,11 +109,11 @@ def resolve_sequential(pred_eids, meta_info, assigned_speakers):
 	resolved_pinfos = {}
 
 	for novel, pinfos in novel2pinfo.items():
-		qdf = pd.read_csv(os.path.join('/h/vkpriya/quoteAttr/data', novel, 'quote_info.csv'))
+		qdf = pd.read_csv(os.path.join('../data/pdnc_source', novel, 'quote_info.csv'))
 		qdf.sort_values(by='startByte', inplace=True)
 		sorted_qids = {x:i for i,x in enumerate(qdf['qID'].tolist())}
 		pinfos = sorted(pinfos, key=lambda x: sorted_qids[x[0]])
-		res_preds = []
+		# res_preds = []
 		for qid, pred in pinfos:
 			idd = "_".join([novel, qid])
 			if pred[0] == 'Q':
@@ -301,7 +247,7 @@ if __name__ == "__main__":
 			writer.writerow([meta[0], meta[1], gold, pred, conf])
 
 
-	gold_eids, pred_eids, pred_confs, meta_info = predict_b(bertSpeaker, dev_x_batches, dev_m_batches, dev_y_batches, \
+	gold_eids, pred_eids, pred_confs, meta_info = predict(bertSpeaker, dev_x_batches, dev_m_batches, dev_y_batches, \
 										 dev_o_batches, dev_i_batches)
 	
 	resolved_pred_eids = resolve_sequential(pred_eids, meta_info, assigned_speakers)
@@ -312,7 +258,7 @@ if __name__ == "__main__":
 			writer.writerow([meta[0], meta[1], gold, pred, conf])
 
 	
-	gold_eids, pred_eids, pred_confs, meta_info = predict_b(bertSpeaker, test_x_batches, test_m_batches, test_y_batches, \
+	gold_eids, pred_eids, pred_confs, meta_info = predict(bertSpeaker, test_x_batches, test_m_batches, test_y_batches, \
 										 test_o_batches, test_i_batches)
 	resolved_pred_eids = resolve_sequential(pred_eids, meta_info, assigned_speakers)
 

@@ -8,8 +8,8 @@ model_params={
 	
 booknlp = BookNLP(model_params)
 
-IN_ROOT = '/h/vkpriya/quoteAttr/data'
-OUT_ROOT = '/h/vkpriya/bookNLP/booknlp-en/booknlpen/pdnc_output'
+IN_ROOT = 'data/pdnc_source'
+OUT_ROOT = 'booknlpen/pdnc_output'
 os.makedirs(OUT_ROOT, exist_ok=True)
 
 novels = []

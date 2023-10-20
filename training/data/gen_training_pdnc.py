@@ -4,6 +4,7 @@ import pandas as pd
 import pickle as pkl
 import numpy as np
 from collections import Counter, defaultdict
+import random
 
 from transformers import BertTokenizer
 
@@ -453,16 +454,8 @@ def get_context(tokens, quotes, corefs, fulltoks, idd, mode='explicit', window=5
 		cid_counter[q_eid] += 1
 
 	#filter minor speakers <= 10
-
-	if mode == 'explicit':
-		#FIX 
-		# exp_quotes = [x for x in exp_quotes if cid_counter[x[2]]>=10]
-		# other_quotes = [x for x in other_quotes if cid_counter[x[2]]>=10]
-		exp_quotes, other_quotes = split_explicit(exp_quotes, other_quotes)
-		train_quotes, dev_quotes = train_test_split(exp_quotes, test_size=0.15, stratify=[x[2] for x in exp_quotes])
-		test_quotes = other_quotes
 	
-	elif mode == 'random':
+	if mode == 'random':
 		all_quotes = [x for x in all_quotes if cid_counter[x[2]]>=10]
 		train_quotes, test_quotes = train_test_split(all_quotes, test_size=0.2, stratify = [x[2] for x in all_quotes])
 		train_quotes, dev_quotes = train_test_split(train_quotes, test_size=0.15, stratify = [x[2] for x in train_quotes])
@@ -543,9 +536,9 @@ def read_train_splits(folder):
 
 def main(readFolder, writeFolder=None):
 
-	tokensFolder='/h/vkpriya/bookNLP/booknlp-en/booknlpen/pdnc_output'
-	quoteFolder='/h/vkpriya/quoteAttr/data'
-	corefFolder = '/h/vkpriya/quoteAttr/data'
+	tokensFolder='booknlpen/pdnc_output'
+	quoteFolder='data/pdnc_source'
+	corefFolder = 'data/pdnc_source'
 
 	train_ids, val_ids, test_ids = read_train_splits(readFolder)
 	train_data = []
@@ -598,33 +591,3 @@ if __name__=='__main__':
 	# ids=read_ids(sys.argv[5])
 	print("Writing to: {}".format(writeFolder))
 	main(readFolder, writeFolder)
-
-
-
-	
-	# if mode == 'loo':
-	# 	write_loo_data(writeFolder, tokensFolder, quoteFolder, corefFolder)
-	# else:
-	# 	for novel in NOVELS:
-	# 		print("Novel: {}".format(novel))
-	# 		mappers, tokens=read_tokens(tokensFolder, novel)
-	# 		quotes=read_quotes(quoteFolder, mappers, novel)
-	# 		corefs=read_coref(corefFolder, mappers, novel)
-
-	# 		fulltoks=read_toks(os.path.join(tokensFolder, novel, novel+'.tokens'))
-	# 		train_quotes, dev_quotes, test_quotes = get_context(tokens, quotes, corefs, fulltoks, novel, mode)
-	# 		print("Writing {} train, {} dev, {} test quotes".format(len(train_quotes), len(dev_quotes), len(test_quotes)))
-	# 		with open(os.path.join(writeFolder, 'quotes.train.txt'), 'a') as f:
-	# 			# writer = csv.writer(f, delimiter='\t')
-	# 			for idd, qid, q_eid, index, labels, text in train_quotes:
-	# 				print("%s\t%s\t%s\t%s\t%s\t%s" % (idd, qid, q_eid, index, json.dumps(labels), text), file=f)
-
-	# 		with open(os.path.join(writeFolder, 'quotes.dev.txt'), 'a') as f:
-	# 			# writer = csv.writer(f, delimiter='\t')
-	# 			for idd, qid, q_eid, index, labels, text in dev_quotes:
-	# 				print("%s\t%s\t%s\t%s\t%s\t%s" % (idd, qid, q_eid, index, json.dumps(labels), text), file=f)
-
-	# 		with open(os.path.join(writeFolder, 'quotes.test.txt'), 'a') as f:
-	# 			# writer = csv.writer(f, delimiter='\t')
-	# 			for idd, qid, q_eid, index, labels, text in test_quotes:
-	# 				print("%s\t%s\t%s\t%s\t%s\t%s" % (idd, qid, q_eid, index, json.dumps(labels), text), file=f)

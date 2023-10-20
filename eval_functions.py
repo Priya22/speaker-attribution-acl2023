@@ -2,7 +2,7 @@ import os, re, sys, json, csv, gzip, string
 import pandas as pd
 import numpy as np
 from collections import Counter, defaultdict
-import create_book_corefs
+import booknlpen.create_book_corefs as create_book_corefs
 import pickle as pkl
 
 def get_offset_bytes(qtext, sb, eb):
@@ -21,12 +21,15 @@ def get_offset_bytes(qtext, sb, eb):
 novels = create_book_corefs.novels
 
 def mcus_eval_booknlp(novel, limit_speakers=False):
-    entdf = pd.read_csv(os.path.join('/h/vkpriya/bookNLP/booknlp-en/booknlpen/pdnc_output/', novel, novel + '.entities'), \
+
+    # coref mention clusters: MClus
+
+    entdf = pd.read_csv(os.path.join('booknlpen/pdnc_output/', novel, novel + '.entities'), \
                     sep='\t', quoting=3, lineterminator='\n')
     entdf = entdf[entdf['cat']=='PER']
 
     if limit_speakers:
-        qadf = pd.read_csv(os.path.join('/h/vkpriya/bookNLP/booknlp-en/booknlpen/pdnc_output/', novel, novel + '.quotes'), \
+        qadf = pd.read_csv(os.path.join('booknlpen/pdnc_output/', novel, novel + '.quotes'), \
                                     sep='\t', quoting=3, lineterminator='\n')
 
         ass_entids = qadf['char_id'].unique().tolist()
@@ -95,6 +98,8 @@ def mcus_eval_booknlp(novel, limit_speakers=False):
     return coref2pids, coref_row
 
 def coref_eval_booknlp(novel, coref2pids):
+    # mention resolution: MRes
+
     gold_mens = create_book_corefs.pdnc_process_novel(novel)
     gold_mens.sort_values(by='start_byte', inplace=True)
 
@@ -117,13 +122,7 @@ def coref_eval_booknlp(novel, coref2pids):
 
     tok_df = create_book_corefs.read_booknlp_df(os.path.join(create_book_corefs.COREF_ROOT, novel, novel+'.tokens'))
     tok_df.set_index('token_ID_within_document', inplace=True)
-    # byte2tok = {}
-    # tok2bytes = {}
-    # for _, row in tok_df.iterrows():
-    #     sb, eb = row['byte_onset'], row['byte_offset']
-    #     for b in range(sb, eb):
-    #         byte2tok[b] = row['token_ID_within_document']
-    #     tok2bytes[row['token_ID_within_document']] = [sb, eb]
+
 
     entdf['start_byte'] = [tok_df.loc[x]['byte_onset'] for x in entdf['start_token']]
     entdf['end_byte'] = [tok_df.loc[x]['byte_offset'] for x in entdf['end_token']]
@@ -177,7 +176,9 @@ def men_eval_booknlp():
 
 
 def mcus_eval_spacy(novel):
-    SPACY_OUTF = '/h/vkpriya/bookNLP/booknlp-en/coref/outputs/spacy'
+    # MClus
+
+    SPACY_OUTF = 'coref/outputs/spacy'
     # entdf = pd.read_csv(os.path.join(SPACY_OUTF, novel, 'entities.csv'), header=None, names=['text', 'startByte', 'endByte'])
     entdf = pd.read_csv(os.path.join(SPACY_OUTF, novel, 'corefs.csv'), header=None, names=['clusID', 'text', 'startByte', 'endByte'])
 
@@ -243,7 +244,10 @@ def mcus_eval_spacy(novel):
     return coref2pids, coref_row
 
 def coref_eval_spacy(novel, coref2pids):
-    SPACY_OUTF = '/h/vkpriya/bookNLP/booknlp-en/coref/outputs/spacy'
+
+    # MRes
+
+    SPACY_OUTF = 'coref/outputs/spacy'
     gold_mens = create_book_corefs.pdnc_process_novel(novel)
     gold_mens.sort_values(by='start_byte', inplace=True)
 
@@ -311,6 +315,9 @@ def men_eval_spacy():
 
 
 def named_coref_eval_booknlp():
+
+    # Character Identification (recognition, clustering)
+
     rows = []
     for novel in create_book_corefs.novels:
         entdf_path = os.path.join(create_book_corefs.COREF_ROOT, novel, novel+'.entities')
@@ -370,6 +377,9 @@ def named_coref_eval_booknlp():
 
 
 def named_coref_eval_gutentag():
+
+    # Character Identification (recognition, clustering)
+
     with open('../gutentag/gutentag_ents.json', 'r') as j:
         novel2ents = json.load(j)
 
@@ -415,8 +425,11 @@ def named_coref_eval_gutentag():
     return gdf
     
 def named_coref_eval_spacy():
+
+    # Character Identification (recognition, clustering)
+
     rows = []
-    SPACY_OUTF = '/h/vkpriya/bookNLP/booknlp-en/coref/outputs/spacy'
+    SPACY_OUTF = 'coref/outputs/spacy'
     for novel in create_book_corefs.novels:
         edf = pd.read_csv(os.path.join(SPACY_OUTF, novel, 'entities.csv'), header=None, names=['text', 'startByte', 'endByte'])
         cdf = pd.read_csv(os.path.join(SPACY_OUTF, novel, 'corefs.csv'), header=None, names=['clusID', 'text', 'startByte', 'endByte'])
@@ -480,6 +493,9 @@ def named_coref_eval_spacy():
     return rdf
 
 def eval_qa_booknlp(novel):
+
+    # BookNLP: Original (pretrained) speaker identification model accuracy
+
     qa = create_book_corefs.read_booknlp_df(os.path.join(create_book_corefs.COREF_ROOT, novel, novel+'.quotes'))
     coref = pd.read_csv(os.path.join(create_book_corefs.SAVE_ROOT, novel, 'coref_matches.csv'))
     tokdf_path = os.path.join(create_book_corefs.COREF_ROOT, novel, novel+'.tokens')
@@ -487,7 +503,7 @@ def eval_qa_booknlp(novel):
 
     tokdf.set_index('token_ID_within_document', inplace=True)
 
-    gold_df = pd.read_csv(os.path.join('/h/vkpriya/quoteAttr/data', novel, 'quote_info.csv'))
+    gold_df = pd.read_csv(os.path.join('data/pdnc_source', novel, 'quote_info.csv'))
 
     qb2qid = {}
     qb2pid = {}

@@ -8,10 +8,10 @@ import pickle as pkl
 sys.path.append('/h/vkpriya/qa_eval')
 from gen_utils import *
 
-metadf = pd.read_csv('/h/vkpriya/qa_eval/ListOfNovels.txt')
+metadf = pd.read_csv('data/pdnc_source/ListOfNovels.txt')
 novels = sorted(metadf['folder'].tolist())
 
-DATA_READ_ROOT = '/h/vkpriya/qa_eval/data/pdnc_source'
+DATA_READ_ROOT = 'data/pdnc_source'
 
 IGNORE = ['_unknowable', '_group', '_narr', 'Unknowable', '(Unknown)', 'Unknown']
 PREFIXES = ['Mr.', 'Mrs.', 'Miss.', 'Lady', 'Sir', 'Mrs', 'Mr', 'Miss', 'Dr.', 'Dr', 'Madame', 'Madam', \

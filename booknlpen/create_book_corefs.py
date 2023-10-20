@@ -1,39 +1,20 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import os, re, sys, json, csv, string, gzip
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
 from collections import Counter, defaultdict
 
-
-# In[8]:
-
-
 import pickle as pkl
 
+DATA_ROOT = 'data/pdnc_source'
 
-# In[2]:
-
-
-DATA_ROOT = '/h/vkpriya/quoteAttr/data'
-
-
-# In[71]:
-
-COREF_ROOT = '/h/vkpriya/bookNLP/booknlp-en/booknlpen/pdnc_output'
+COREF_ROOT = 'pdnc_output'
 SAVE_ROOT = COREF_ROOT
-
 
 IGNORE = ['_unknowable', '_group', '_narr', 'Unknowable', '(Unknown)', 'Unknown']
 PREFIXES = ['Mr.', 'Mrs.', 'Miss.', 'Lady', 'Sir', 'Mrs', 'Mr', 'Miss', 'Dr.', 'Dr', 'Madame', 'Madam', \
            'Mademoiselle', 'St.', 'St', 'Ms.', 'Ms', 'Count', 'Countess']
 PREFIXES.extend([x.lower() for x in PREFIXES])
-
 
 novels = []
 for nf in os.scandir(DATA_ROOT):
@@ -46,23 +27,14 @@ def read_quote_df(novel):
     return df
 
 
-# In[9]:
-
-
 def read_char_info(novel):
     charInfo = pkl.load(open(os.path.join(DATA_ROOT, novel, 'charInfo.dict.pkl'), 'rb'))
     return charInfo
 
 
-# In[10]:
-
-
 def read_booknlp_df(path):
     df = pd.read_csv(path, delimiter='\t', quoting=3, lineterminator='\n')
     return df
-
-
-# In[67]:
 
 
 def get_ntext(novel):
@@ -118,18 +90,12 @@ def booknlp_process_novel(novel):
     entdf_path = os.path.join(COREF_ROOT, novel, novel+'.entities')
     entdf = read_booknlp_df(entdf_path)
 
-
     entdf.set_index('COREF', inplace=True)
-
-
 
     tokdf_path = os.path.join(COREF_ROOT, novel, novel+'.tokens')
     tokdf = read_booknlp_df(tokdf_path)
 
     tokdf.set_index('token_ID_within_document', inplace=True)
-
-
-    # In[65]:
 
 
     entdf['start_byte'] = [tokdf.loc[x]['byte_onset'] for x in entdf['start_token']]
@@ -226,41 +192,6 @@ def get_offset_bytes(qtext, sb, eb):
 	eb = eb - i
 	return sb, eb
 
-# def split_qdf(qdf):
-# #     common_cols = ['speaker', 'addressee', 'qType', 'refExp', 'speakerGender', 'dialogueTurn', \
-# #                    'novel', 'speakerType']
-    
-#     new_rows = []
-#     for _, row in qdf.iterrows():
-        
-#         qid = row['qId']
-        
-#         qTexts = make_array(row['qTextArr'])
-#         qSpans = make_array(row['qSpan'])
-#         menTexts = make_array(row['menTexts'])
-#         menSpans = make_array(row['menSpans'])
-#         menEnts = make_array(row['menEnts'])
-#         inds = list(range(len(qTexts)))
-        
-#         for i, qt, qs, mt, ms, me in zip(inds, qTexts, qSpans, menTexts, menSpans, menEnts):
-            
-#             nrow = []
-#             nrow.append("-".join([str(qid), str(i)]))
-#             nrow.append(qt)
-#             nrow.append(qs)
-#             nrow.append(row['speaker'])
-#             nrow.append(row['addressee'])
-#             nrow.append(row['qType'])
-#             nrow.append(row['refExp'])
-#             nrow.extend([mt, ms, me])
-#             nrow.extend([row['speakerGender'], row['dialogueTurn'], row['speakerType'], row['novel']])
-            
-#             new_rows.append(nrow)
-    
-#     df = pd.DataFrame(new_rows, columns=['qID', 'qText', 'qSpan', 'speaker', 'addressee', 'qType', 'refExp', \
-#                                         'menTexts', 'menSpans', 'menEnts', 'speakerGender', 'dialogueTurn', \
-#                                         'speakerType', 'novel'])
-#     return df
 
 def pdnc_process_novel(novel):
     if not os.path.isdir(os.path.join(SAVE_ROOT, novel)):
@@ -312,23 +243,11 @@ def explicit_process_novel(novel):
     charInfo = read_char_info(novel)
     ntext = get_ntext(novel)
     rtext = ntext.lower()
-    # charNames = set(charInfo['name2id'].keys())
-    # search_names = sorted(charNames, key=lambda x: len(x), reverse=True)
-    # search_names = [x.lower() for x in search_names]
-    # lowercase_map = {x.lower():y for x, y in charInfo['name2id'].items()}
-    #jan 13, 2023: add prefix strip
-
-    # for c in search_names:
-    #     assert c in lowercase_map
+   
     e_name2id = get_enhanced_char_list(charInfo['name2id'])
     charNames = set([x.lower() for x in list(e_name2id.keys())])
     search_names = sorted(charNames, key=lambda x: len(x), reverse=True)
-    # rtext = replace_single(ntext).lower()
-
-    # for cn, c in zip(rtext, ntext):
-    #     if cn!=c.lower():
-    #         assert set([cn, c]) == set(["\n", " "])
-
+  
     exists = set()
 
     erows = []

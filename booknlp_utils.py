@@ -8,7 +8,7 @@ import pickle as pkl
 
 from gen_utils import *
 
-OP_READ_ROOT = '/h/vkpriya/qa_eval/booknlpen/pdnc_output'
+OP_READ_ROOT = 'booknlpen/pdnc_output'
 
 def read_booknlp_op(path):
     return pd.read_csv(path, \
