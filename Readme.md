@@ -1,6 +1,6 @@
 # Improving Quotation Attribution in Literary Texts
 
-This repository contains code for the experiments described in the paper `Improving Automatic Quotation Attribution in Literary Novels` (ACL 2023 short paper).
+This repository contains code for the experiments described in the paper [`Improving Automatic Quotation Attribution in Literary Novels`](https://aclanthology.org/2023.acl-short.64/) (ACL 2023 short paper).
 
 Citation:
 ```
