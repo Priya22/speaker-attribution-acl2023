@@ -20,10 +20,10 @@ The code for the various components of the attribution model (character identifi
 ## Data
 Source data for the PDNC dataset in `data/pdnc_source`. This data is the starting point for all further experiments.
 
-We also split the set of annotated quotations in PDNC into train, dev, and test subsets for training and evaluation the speaker identification model (`data/train_splits`). We stratify the splits in two ways: split the data from each novel independently (`random`), and split the set of novels (`leave-x-out`) where the quotations from a novel can only be in one of the three splits. We use 5-fold cross-validation for the training experiments.
+We also split the set of annotated quotations in PDNC into train, dev, and test subsets for training and evaluating the speaker identification model (`data/train_splits`). We stratify the splits in two ways: (a) split the annotations from each novel (`random`), or (b) split the set of novels (`leave-x-out`), where the quotations from a novel can only be in one of the three splits. We use 5-fold cross-validation for the training experiments.
 
 ## Models
-- The BookNLP model (pretrained) can be run on PDNC using the `pdnc_run_pipeline.py` scripts. Outputs will be stored in `booknlpen/pdnc_output`. These outputs in a few other places subsequently, particularly training on PDNC.
+- The BookNLP model (pretrained) can be run on PDNC using the `pdnc_run_pipeline.py` scripts. Outputs will be stored in `booknlpen/pdnc_output` (pre-populated in this repo). These outputs are used in a few other places subsequently, particularly training on PDNC.
 
 - The spacy coref model can be run using the `coref/run_spacy.py` script. Outputs will be stored in `coref/outputs/spacy`.
 
